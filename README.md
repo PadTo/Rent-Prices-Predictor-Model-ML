@@ -1,7 +1,7 @@
 # Vilnius Flats Rental Price Prediction
 
 ## Overview
-This project aims to predict rental prices for flats in Vilnius, Lithuania. Utilizing a dataset from Kaggle, we conducted extensive data cleaning, feature engineering, and machine learning modeling to estimate rental prices accurately.
+This project aims to predict rental prices for flats in Vilnius, Lithuania. Utilizing a dataset from Kaggle, I conducted extensive data cleaning, feature engineering, and machine learning modeling to estimate rental prices accurately.
 
 ## Data Source
 The initial dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/martynasvarnas/vilnius-flats-for-rent). It consists of 1810 samples, which, after cleaning and filtering, were reduced to 1378 samples.
