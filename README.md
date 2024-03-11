@@ -10,7 +10,7 @@ The initial dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/m
 - **Data Cleaning and Visualization:** Python, Pandas, Matplotlib
 - **APIs:**
   - **LocationIQ API:** For fetching latitude and longitude of apartments.
-  - **Mapbox API:** To overlay the map over the data points (x=longitude, y=latitude)
+  - **Mapbox API:** To overlay the map over the apartment locations.
 - **Machine Learning Libraries:** Scikit-learn, NumPy
 
 ## Process
@@ -22,7 +22,9 @@ The initial dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/m
 
 ### Machine Learning
 1. **Model Selection:** Experimented with Linear Regression, SVR (Support Vector Regression), and Random Forest models.
-2. **Feature Engineering:** Implemented one-hot encoding for district features and standardized numerical features.
+2. **Feature Engineering and Preprocessing:**
+    - Implemented one-hot encoding for district features.
+    - Applied feature standardization and scaling to improve model performance and ensure that numerical features contribute equally to the model's predictive capability.
 3. **Evaluation Metrics:** Used Mean Squared Error (MSE), Mean Absolute Error (MAE), and Mean Absolute Percentage Error (MAPE) for model evaluation.
 
 ## Key Findings
@@ -30,9 +32,10 @@ The initial dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/m
 - **SVR**, after hyperparameter tuning, indicated a promising direction with a test MSE of 60962.34.
 - **Random Forest** emerged as the best model, especially when using encoded district features and standardized features. The best Random Forest configuration yielded a final MSE of 11174.27, MAE of 60.67, and MAPE of 0.0905 on the entire dataset.
 
+## Future Directions
+Further research could explore the incorporation of additional features, such as proximity to city centres or public transportation, to potentially improve model accuracy
+
 ## Conclusion
-The project demonstrated the effectiveness of machine learning in predicting rental prices. The Random Forest model, with careful feature engineering and evaluation, outperformed other models. Future work could explore more advanced models, additional feature engineering techniques, and larger datasets to improve prediction accuracy.
+The project demonstrated the effectiveness of machine learning in predicting rental prices. The Random Forest model, with careful feature engineering and evaluation, outperformed other models. 
 
-- The final model evaluation can be found in __main__.py!
-
-
+- The final mode evaluation can be found on __main__.py file!
