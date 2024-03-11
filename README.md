@@ -10,7 +10,7 @@ The initial dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/m
 - **Data Cleaning and Visualization:** Python, Pandas, Matplotlib
 - **APIs:**
   - **LocationIQ API:** For fetching latitude and longitude of apartments.
-  - **Mapbox API:** To overlay the apartment locations on a map.
+  - **Mapbox API:** To overlay the map over the data points (x=longitude, y=latitude)
 - **Machine Learning Libraries:** Scikit-learn, NumPy
 
 ## Process
@@ -33,5 +33,6 @@ The initial dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/m
 ## Conclusion
 The project demonstrated the effectiveness of machine learning in predicting rental prices. The Random Forest model, with careful feature engineering and evaluation, outperformed other models. Future work could explore more advanced models, additional feature engineering techniques, and larger datasets to improve prediction accuracy.
 
-## How to Run
-Instructions on setting up the environment, installing dependencies, and running scripts are provided in separate `INSTALL.md` and `RUNNING.md` files.
+- The final model evaluation can be found in __main__.py!
+
+
