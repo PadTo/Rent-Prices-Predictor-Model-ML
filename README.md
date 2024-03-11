@@ -29,7 +29,7 @@ The initial dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/m
 
 ## Key Findings
 - **Linear Regression** showed limitations with an average MSE of 62404.46, MAE of 146.15, and MAPE of 0.2147.
-- **SVR**, after hyperparameter tuning, indicated a promising direction with a test MSE of 60962.34.
+- **SVR**, after hyperparameter tuning, indicated poor performance with a test MSE of 60962.34.
 - **Random Forest** emerged as the best model, especially when using encoded district features and standardized features. The best Random Forest configuration yielded a final MSE of 11174.27, MAE of 60.67, and MAPE of 0.0905 on the entire dataset.
 
 ## Future Directions
