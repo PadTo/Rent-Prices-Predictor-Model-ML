@@ -38,6 +38,20 @@ The initial dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/m
 ## Future Directions
 Further research could explore the incorporation of additional features, such as proximity to city centres or public transportation, to potentially improve model accuracy
 
+## Model Usage Requirements
+To utilize the predictive model effectively, ensure your input data includes only the following columns:
+- `price`: The rental price of the flat.
+- `rooms`: Number of rooms in the flat.
+- `area`: The total area of the flat in square meters.
+- `floor`: The floor on which the flat is located.
+- `District`: The district within Vilnius where the flat is located.
+- `longitude`: The geographical longitude of the flat.
+- `latitude`: The geographical latitude of the flat.
+- `building size (floors)`: The total number of floors in the building.
+
+It is crucial that the data is correctly formatted and cleaned, adhering to the structure above for optimal model performance.
+
+
 ## Conclusion
 The project demonstrated the effectiveness of machine learning in predicting rental prices. The Random Forest model, with careful feature engineering and evaluation, outperformed other models. 
 
