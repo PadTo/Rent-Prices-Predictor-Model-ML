@@ -1,0 +1,1812 @@
+index,address,price,rooms,area,floor,District,Street,Country,longitude,latitude
+0,Naujamiestis Šv.Stepono g.,570,1,17.0,2/5,Naujamiestis,Šv.Stepono g.,Lithuania,25.264768,54.680141
+1,Liepkalnis Liepkalnio g.,650,2,53.0,3/5,Liepkalnis,Liepkalnio g.,Lithuania,25.2999754,54.6628872
+2,Valakampiai Valakupių g.,750,2,40.0,1/2,Valakampiai,Valakupių g.,Lithuania,25.311143235230016,54.725798
+3,Antakalnis Žolyno g.,400,1,18.0,3/5,Antakalnis,Žolyno g.,Lithuania,25.31507,54.7117059
+4,Santariškės Santaros g.,419,1,19.0,2/4,Santariškės,Santaros g.,Lithuania,25.2792131,54.757459
+5,Senamiestis Mėsinių g.,1800,4,144.0,2/3,Senamiestis,Mėsinių g.,Lithuania,25.2847694,54.6780901
+6,Šiaurės miestelis S.Žukausko g.,1300,3,110.0,8/8,Šiaurės miestelis,S.Žukausko g.,Lithuania,24.121971,55.106184
+7,Fabijoniškės Salomėjos Nėries g.,610,2,56.06,2/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+8,Pašilaičiai Perkūnkiemio g.,730,2,41.0,4/9,Pašilaičiai,Perkūnkiemio g.,Lithuania,25.219637,54.7387996
+9,Senamiestis Didžioji g.,1400,3,57.0,2/3,Senamiestis,Didžioji g.,Lithuania,21.1334853,55.7105565
+10,Žirmūnai Žirmūnų g.,890,2,55.07,1/4,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+11,Naujamiestis Vandentiekio g.,499,2,26.56,1/5,Naujamiestis,Vandentiekio g.,Lithuania,25.245021,54.667674
+12,Senamiestis Subačiaus g.,620,2,23.0,4/5,Senamiestis,Subačiaus g.,Lithuania,25.2964286,54.6765474
+13,Naujininkai Meistrų g.,370,1,20.0,3/4,Naujininkai,Meistrų g.,Lithuania,25.273563,54.662677
+14,Senamiestis Gedimino pr.,1150,2,50.0,2/5,Senamiestis,Gedimino pr.,Lithuania,25.2824605,54.6865081
+15,Baltupiai Kalvarijų g.,650,2,42.0,10/14,Baltupiai,Kalvarijų g.,Lithuania,25.2801343,54.7282735
+16,Paupys Aukštaičių g.,840,2,40.0,1/4,Paupys,Aukštaičių g.,Lithuania,25.3032805,54.6786994
+17,Žirmūnai Verkių g.,700,2,32.0,4/9,Žirmūnai,Verkių g.,Lithuania,25.2960633,54.7199848
+18,Šeškinė Čiobiškio g.,550,3,67.0,7/9,Šeškinė,Čiobiškio g.,Lithuania,25.2356422,54.7147111
+19,Karoliniškės Algimanto Petro Kavoliuko g.,870,3,49.83,5/5,Karoliniškės,Algimanto Petro Kavoliuko g.,Lithuania,25.21827851645063,54.6953297
+20,Karoliniškės Algimanto Petro Kavoliuko g.,700,2,40.6,2/5,Karoliniškės,Algimanto Petro Kavoliuko g.,Lithuania,25.21827851645063,54.6953297
+21,Naujamiestis A.Goštauto g.,700,2,56.0,1/5,Naujamiestis,A.Goštauto g.,Lithuania,25.264768,54.680141
+22,Karoliniškės Algimanto Petro Kavoliuko g.,550,1,27.0,1/5,Karoliniškės,Algimanto Petro Kavoliuko g.,Lithuania,25.21827851645063,54.6953297
+23,Užupis Polocko g.,850,2,51.0,3/3,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+24,Žirmūnai Žirmūnų g.,420,1,20.0,1/1,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+25,Žvėrynas Siesikų g.,599,1,30.0,5/9,Žvėrynas,Siesikų g.,Lithuania,25.249828,54.695925
+26,Antakalnis Žolyno g.,820,3,72.0,2/4,Antakalnis,Žolyno g.,Lithuania,25.31507,54.7117059
+27,Senamiestis Šv.Ignoto g.,800,2,60.0,1/2,Senamiestis,Šv.Ignoto g.,Lithuania,25.287693,54.683127
+28,Senamiestis Vokiečių g.,1350,5,80.0,3/4,Senamiestis,Vokiečių g.,Lithuania,25.2840381,54.6789287
+29,Senamiestis Vokiečių g.,900,2,41.0,2/3,Senamiestis,Vokiečių g.,Lithuania,25.2840381,54.6789287
+30,Viršuliškės Poligrafijos g.,770,2,53.0,1/9,Viršuliškės,Poligrafijos g.,Lithuania,25.213686,54.7016862
+31,Fabijoniškės Fabijoniškių g.,650,2,51.0,1/7,Fabijoniškės,Fabijoniškių g.,Lithuania,25.2374099,54.7315103
+32,Šnipiškės Konstitucijos pr.,970,2,53.84,5/29,Šnipiškės,Konstitucijos pr.,Lithuania,25.2706146,54.6975998
+33,Naujamiestis Savanorių pr.,750,2,52.0,3/11,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+34,Pašilaičiai Perkūnkiemio g.,600,3,72.0,5/8,Pašilaičiai,Perkūnkiemio g.,Lithuania,25.219637,54.7387996
+35,Naujamiestis T.Ševčenkos g.,699,2,40.0,2/4,Naujamiestis,T.Ševčenkos g.,Lithuania,25.264768,54.680141
+36,Naujamiestis T.Ševčenkos g.,599,1,30.0,3/4,Naujamiestis,T.Ševčenkos g.,Lithuania,25.264768,54.680141
+37,Naujoji Vilnia Pramonės g.,330,1,18.0,7/8,Naujoji Vilnia,Pramonės g.,Lithuania,25.440378,54.6952323
+38,Šnipiškės Kalvarijų g.,450,1,18.0,1/5,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+39,Santariškės Santariškių g.,1000,3,114.12,3/4,Santariškės,Santariškių g.,Lithuania,25.2803027,54.7528454
+40,Pilaitė I.Simonaitytės g.,1099,3,84.51,3/4,Pilaitė,I.Simonaitytės g.,Lithuania,25.182761,54.706948
+41,Naujamiestis S.Konarskio g.,600,2,50.0,4/5,Naujamiestis,S.Konarskio g.,Lithuania,25.264768,54.680141
+42,Antakalnis Antakalnio g.,550,2,40.0,7/8,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+43,Justiniškės Taikos g.,550,1,43.0,2/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+44,Antakalnis Bistryčios g.,850,3,70.0,1/5,Antakalnis,Bistryčios g.,Lithuania,25.3228828,54.7064542
+45,Santariškės Santariškių g.,570,2,40.2,3/3,Santariškės,Santariškių g.,Lithuania,25.2803027,54.7528454
+46,Naujininkai Rodūnios kel.,300,1,20.0,2/3,Naujininkai,Rodūnios kel.,Lithuania,25.273563,54.662677
+47,Užupis Krivių g.,1200,3,81.0,3/4,Užupis,Krivių g.,Lithuania,25.301823076879643,54.68413115
+48,Baltupiai Kalvarijų g.,630,2,43.0,5/14,Baltupiai,Kalvarijų g.,Lithuania,25.2801343,54.7282735
+49,Pašilaičiai Leičių g.,630,2,46.23,7/9,Pašilaičiai,Leičių g.,Lithuania,25.2243428,54.7367895
+50,Senamiestis Aušros Vartų g.,400,1,16.0,2/3,Senamiestis,Aušros Vartų g.,Lithuania,22.250943,55.983929
+51,Žirmūnai Žirmūnų g.,600,1,39.0,3/9,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+52,Naujamiestis Naugarduko g.,820,2,49.0,5/7,Naujamiestis,Naugarduko g.,Lithuania,25.2753772,54.6767869
+53,Pašilaičiai Žemynos g.,500,1,28.0,5/5,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+54,Bajorai Bajorų kel.,750,3,69.0,2/4,Bajorai,Bajorų kel.,Lithuania,24.121971,55.106184
+55,Salininkai Kelmijos Sodų 9-oji g.,500,2,55.0,1/1,Salininkai,Kelmijos Sodų 9-oji g.,Lithuania,24.121971,55.106184
+56,Naujoji Vilnia Parko g.,350,1,28.0,1/5,Naujoji Vilnia,Parko g.,Lithuania,25.425328370408153,54.68598085
+57,Fabijoniškės S.Stanevičiaus g.,460,1,36.0,3/5,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+58,Antakalnis Smėlio g.,570,1,32.0,4/4,Antakalnis,Smėlio g.,Lithuania,25.3118899,54.7033583
+59,Karoliniškės Sietyno g.,800,3,56.0,2/5,Karoliniškės,Sietyno g.,Lithuania,25.2012715,54.6879126
+60,Fabijoniškės S.Stanevičiaus g.,600,3,67.0,2/5,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+61,Pašilaičiai Pavilnionių g.,600,2,63.0,10/16,Pašilaičiai,Pavilnionių g.,Lithuania,25.2107630181918,54.73645825
+62,Naujoji Vilnia V.Sirokomlės g.,500,2,50.0,5/5,Naujoji Vilnia,V.Sirokomlės g.,Lithuania,25.411303,54.692957
+63,Pilaitė Gilužio g.,950,3,62.0,3/3,Pilaitė,Gilužio g.,Lithuania,25.1793994,54.7019012
+64,Fabijoniškės Salomėjos Nėries g.,630,2,56.0,2/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+65,Šnipiškės Krokuvos g.,1250,3,52.0,2/6,Šnipiškės,Krokuvos g.,Lithuania,25.285138,54.6966918
+66,Senamiestis Gėlių g.,650,1,28.0,4/4,Senamiestis,Gėlių g.,Lithuania,23.2373962,54.4141552
+67,Senamiestis Šv.Stepono g.,595,2,45.0,2/3,Senamiestis,Šv.Stepono g.,Lithuania,25.287693,54.683127
+68,Antakalnis Nemenčinės pl.,720,2,46.0,4/7,Antakalnis,Nemenčinės pl.,Lithuania,25.319595220530616,54.724156199999996
+69,Vilkpėdė Vilkpėdės g.,999,3,75.0,1/6,Vilkpėdė,Vilkpėdės g.,Lithuania,25.2360528,54.6636771
+70,Šnipiškės Linkmenų g.,800,2,40.0,3/6,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+71,Markučiai Kaukysos g.,900,2,50.55,3/6,Markučiai,Kaukysos g.,Lithuania,25.3180472,54.6763855
+72,Žirmūnai Verkių g.,1000,2,48.83,8/9,Žirmūnai,Verkių g.,Lithuania,25.2960633,54.7199848
+73,Senamiestis Didžioji g.,1350,2,69.45,2/3,Senamiestis,Didžioji g.,Lithuania,21.1334853,55.7105565
+74,Šiaurės miestelis S.Žukausko g.,580,1,40.0,8/8,Šiaurės miestelis,S.Žukausko g.,Lithuania,24.121971,55.106184
+75,Bajorai Bajorų Sodų 2-oji g.,950,3,75.0,2/2,Bajorai,Bajorų Sodų 2-oji g.,Lithuania,24.121971,55.106184
+76,Naujamiestis Šv.Stepono g.,740,2,32.5,3/4,Naujamiestis,Šv.Stepono g.,Lithuania,25.264768,54.680141
+77,Naujamiestis Statybininkų g.,990,2,52.0,6/9,Naujamiestis,Statybininkų g.,Lithuania,25.2571911,54.6734081
+78,Pašilaičiai Girulių g.,500,2,44.0,9/9,Pašilaičiai,Girulių g.,Lithuania,25.2164886,54.7385893
+79,Naujamiestis Burbiškių g.,650,1,36.0,1/3,Naujamiestis,Burbiškių g.,Lithuania,25.252939,54.651624
+80,Žirmūnai Jurgio Lebedžio g.,715,2,39.0,4/5,Žirmūnai,Jurgio Lebedžio g.,Lithuania,25.228239,54.711003
+81,Žvėrynas Saltoniškių g.,1050,2,56.0,3/10,Žvėrynas,Saltoniškių g.,Lithuania,25.260394,54.700248
+82,Naujininkai Kaminkelio g.,690,2,52.0,3/6,Naujininkai,Kaminkelio g.,Lithuania,25.27908,54.6591884
+83,Verkiai Popieriaus g.,400,1,40.0,4/4,Verkiai,Popieriaus g.,Lithuania,25.3322215,54.7598164
+84,Vilkpėdė Vandentiekio g.,250,1,41.0,2/4,Vilkpėdė,Vandentiekio g.,Lithuania,25.2468794,54.6675218
+85,Užupis Polocko g.,1100,2,47.0,0/4,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+86,Kairėnai Meldų g.,290,1,24.0,2/2,Kairėnai,Meldų g.,Lithuania,24.121971,55.106184
+87,Šeškinė Laisvės pr.,600,2,33.0,2/5,Šeškinė,Laisvės pr.,Lithuania,25.2323775,54.7193989
+88,Naujininkai Šaltkalvių g.,300,1,17.0,1/5,Naujininkai,Šaltkalvių g.,Lithuania,25.273605,54.661445
+89,Pašilaičiai Virbeliškių g.,900,3,68.3,6/6,Pašilaičiai,Virbeliškių g.,Lithuania,25.2176973,54.7293428
+90,Žirmūnai Žirmūnų g.,1200,3,61.4,4/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+91,Senamiestis Sodų g.,720,1,33.0,2/4,Senamiestis,Sodų g.,Lithuania,23.2457351,54.420003
+92,Šnipiškės Šeimyniškių g.,1000,3,56.0,8/9,Šnipiškės,Šeimyniškių g.,Lithuania,25.282158,54.6947179
+93,Senamiestis Aušros Vartų g.,215,1,20.0,2/2,Senamiestis,Aušros Vartų g.,Lithuania,22.250943,55.983929
+94,Lazdynėliai Rūko g.,650,2,46.0,1/3,Lazdynėliai,Rūko g.,Lithuania,25.195275,54.6611694
+95,Šnipiškės Linkmenų g.,1400,3,66.0,5/6,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+96,Naujoji Vilnia Parko g.,375,1,15.0,4/4,Naujoji Vilnia,Parko g.,Lithuania,25.425328370408153,54.68598085
+97,Šnipiškės Linkmenų g.,800,2,47.0,5/5,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+98,Naujoji Vilnia Kučkuriškių g.,600,4,107.0,2/2,Naujoji Vilnia,Kučkuriškių g.,Lithuania,25.368176,54.694191
+99,Žemieji Paneriai Vaduvos g.,350,1,36.0,5/5,Žemieji Paneriai,Vaduvos g.,Lithuania,25.2056134,54.6436165
+100,Šnipiškės Raitininkų g.,1100,2,57.0,1/7,Šnipiškės,Raitininkų g.,Lithuania,24.11797,54.23549
+101,Lazdynai Jonažolių g.,650,2,62.27,1/6,Lazdynai,Jonažolių g.,Lithuania,25.2148876,54.666674
+102,Baltupiai Kazio Ulvydo g.,720,2,45.0,5/5,Baltupiai,Kazio Ulvydo g.,Lithuania,24.121971,55.106184
+103,Jeruzalė Ateities g.,700,3,80.0,4/5,Jeruzalė,Ateities g.,Lithuania,25.2681728,54.7376318
+104,Markučiai Manufaktūrų g.,900,2,56.26,2/5,Markučiai,Manufaktūrų g.,Lithuania,25.3207304,54.6768792
+105,Karoliniškės Virginijaus Druskio g.,700,3,64.0,4/9,Karoliniškės,Virginijaus Druskio g.,Lithuania,25.202447,54.685872
+106,Šnipiškės Žalgirio g.,450,1,20.0,2/2,Šnipiškės,Žalgirio g.,Lithuania,25.2668422,54.7044446
+107,Lazdynai Architektų g.,475,1,33.0,3/5,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+108,Viršuliškės Jurgio Matulaičio a.,900,3,102.0,4/6,Viršuliškės,Jurgio Matulaičio a.,Lithuania,24.121971,55.106184
+109,Senamiestis L.Stuokos-Gucevičiaus g.,700,1,22.0,3/5,Senamiestis,L.Stuokos-Gucevičiaus g.,Lithuania,,
+110,Naujamiestis Kauno g.,700,2,39.0,4/11,Naujamiestis,Kauno g.,Lithuania,25.2626184,54.6705058
+111,Senamiestis Šv.Stepono g.,490,2,27.0,2/2,Senamiestis,Šv.Stepono g.,Lithuania,25.287693,54.683127
+112,Lazdynėliai Jonažolių g.,950,3,89.86,1/6,Lazdynėliai,Jonažolių g.,Lithuania,25.2148876,54.666674
+113,Paupys Subačiaus g.,420,1,24.17,1/5,Paupys,Subačiaus g.,Lithuania,25.3048917,54.6770663
+114,Antakalnis Smėlio g.,330,1,13.0,5/5,Antakalnis,Smėlio g.,Lithuania,25.3118899,54.7033583
+115,Aukštieji Paneriai Kirtimų g.,350,1,13.0,1/4,Aukštieji Paneriai,Kirtimų g.,Lithuania,25.1585426,54.6199537
+116,Senamiestis Raugyklos g.,3100,3,132.0,3/4,Senamiestis,Raugyklos g.,Lithuania,25.2789843,54.6728266
+117,Pavilnys Kalnėnų g.,690,2,53.0,1/1,Pavilnys,Kalnėnų g.,Lithuania,25.3448084,54.6593134
+118,Naujamiestis Kauno g.,650,3,67.0,1/1,Naujamiestis,Kauno g.,Lithuania,25.2626184,54.6705058
+119,Justiniškės Justiniškių g.,460,1,40.0,1/1,Justiniškės,Justiniškių g.,Lithuania,25.2221629,54.7175726
+120,Šnipiškės Žalgirio g.,500,1,25.0,2/2,Šnipiškės,Žalgirio g.,Lithuania,25.2668422,54.7044446
+121,Šnipiškės Žalgirio g.,720,2,40.0,2/2,Šnipiškės,Žalgirio g.,Lithuania,25.2668422,54.7044446
+122,Fabijoniškės P.Žadeikos g.,820,3,69.48,2/5,Fabijoniškės,P.Žadeikos g.,Lithuania,25.246433,54.731814
+123,Pašilaičiai Eitminų g.,670,3,59.79,1/9,Pašilaičiai,Eitminų g.,Lithuania,25.2206319,54.7411864
+124,Pašilaičiai Ukmergės g.,850,3,81.51,6/9,Pašilaičiai,Ukmergės g.,Lithuania,25.2256323,54.7405473
+125,Žirmūnai Minties g.,1400,5,120.0,3/3,Žirmūnai,Minties g.,Lithuania,25.3047908,54.7056893
+126,Šnipiškės Daugėliškio g.,1200,2,51.51,10/11,Šnipiškės,Daugėliškio g.,Lithuania,25.2725536,54.7004606
+127,Senamiestis Tilto g.,650,1,27.0,2/3,Senamiestis,Tilto g.,Lithuania,25.2817712,54.6892593
+128,Naujamiestis Skroblų g.,800,2,48.0,5/7,Naujamiestis,Skroblų g.,Lithuania,25.254835,54.670731
+129,Karoliniškės Vido Maciulevičiaus g.,650,4,74.0,2/5,Karoliniškės,Vido Maciulevičiaus g.,Lithuania,25.205018,54.688955
+130,Lazdynėliai Jonažolių g.,690,2,61.0,5/9,Lazdynėliai,Jonažolių g.,Lithuania,25.2148876,54.666674
+131,Žvėrynas Stumbrų g.,800,2,41.5,5/6,Žvėrynas,Stumbrų g.,Lithuania,25.2538475,54.6997206
+132,Naujamiestis Geležinio Vilko g.,320,1,12.0,4/5,Naujamiestis,Geležinio Vilko g.,Lithuania,25.263597,54.69795
+133,Naujamiestis M.K.Čiurlionio g.,1100,3,65.0,1/4,Naujamiestis,M.K.Čiurlionio g.,Lithuania,25.264768,54.680141
+134,Žirmūnai Raitininkų g.,650,2,52.0,1/7,Žirmūnai,Raitininkų g.,Lithuania,24.11797,54.23549
+135,Baltupiai Kalvarijų Sodų 4-oji g.,260,1,16.0,2/3,Baltupiai,Kalvarijų Sodų 4-oji g.,Lithuania,25.280134,54.728274
+136,Šeškinė Siesikų g.,700,2,44.0,5/7,Šeškinė,Siesikų g.,Lithuania,25.2540264,54.7068111
+137,Lazdynėliai Žaibo g.,750,2,42.0,4/4,Lazdynėliai,Žaibo g.,Lithuania,24.121971,55.106184
+138,Senamiestis Tilto g.,500,1,16.0,1/3,Senamiestis,Tilto g.,Lithuania,25.2817712,54.6892593
+139,Pilaitė M.Mažvydo g.,600,2,61.0,6/7,Pilaitė,M.Mažvydo g.,Lithuania,25.182761,54.706948
+140,Naujamiestis Skroblų g.,320,1,21.0,4/5,Naujamiestis,Skroblų g.,Lithuania,25.254835,54.670731
+141,Šnipiškės Kernavės g.,1150,3,54.0,5/6,Šnipiškės,Kernavės g.,Lithuania,25.2770623,54.7121167
+142,Salininkai Vaikų g.,600,3,61.0,4/5,Salininkai,Vaikų g.,Lithuania,25.2597895,54.6081775
+143,Naujamiestis Vytenio g.,750,2,50.0,2/4,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+144,Verkiai Bajorų kel.,300,1,75.44,7/11,Verkiai,Bajorų kel.,Lithuania,25.258353,54.75517
+145,Baltupiai Didlaukio g.,650,2,40.99,4/4,Baltupiai,Didlaukio g.,Lithuania,25.2784789,54.7275851
+146,Senamiestis Rūdninkų g.,950,2,60.0,2/3,Senamiestis,Rūdninkų g.,Lithuania,25.285116,54.6772258
+147,Šnipiškės Kalvarijų g.,480,1,32.41,3/5,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+148,Užupis Polocko g.,1100,2,55.14,4/4,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+149,Senamiestis A.Jakšto g.,1780,3,100.0,4/6,Senamiestis,A.Jakšto g.,Lithuania,25.287693,54.683127
+150,Antakalnis V.Grybo g.,990,3,93.0,4/5,Antakalnis,V.Grybo g.,Lithuania,25.312009,54.705407
+151,Lazdynėliai Bukčių g.,1200,4,82.0,1/3,Lazdynėliai,Bukčių g.,Lithuania,25.2158687,54.6671298
+152,Naujoji Vilnia Pramonės g.,350,1,29.0,4/4,Naujoji Vilnia,Pramonės g.,Lithuania,25.440378,54.6952323
+153,Naujamiestis Vandentiekio g.,750,2,41.0,2/4,Naujamiestis,Vandentiekio g.,Lithuania,25.245021,54.667674
+154,Naujamiestis Aludarių g.,1000,2,46.0,4/5,Naujamiestis,Aludarių g.,Lithuania,25.2659857,54.6866673
+155,Lazdynai Architektų g.,200,1,14.0,4/5,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+156,Baltupiai Kalvarijų Sodų 2-oji g.,250,1,25.0,1/2,Baltupiai,Kalvarijų Sodų 2-oji g.,Lithuania,25.280134,54.728274
+157,Antakalnis Mileišiškių g.,390,1,12.0,2/2,Antakalnis,Mileišiškių g.,Lithuania,25.3383781,54.7087955
+158,Baltupiai Ozo g.,890,2,47.0,3/8,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+159,Senamiestis Gedimino pr.,1750,3,61.0,5/6,Senamiestis,Gedimino pr.,Lithuania,25.2824605,54.6865081
+160,Pašilaičiai Perkūnkiemio g.,650,2,56.0,2/9,Pašilaičiai,Perkūnkiemio g.,Lithuania,25.219637,54.7387996
+161,Šnipiškės Šeimyniškių g.,1600,3,67.0,5/8,Šnipiškės,Šeimyniškių g.,Lithuania,25.282158,54.6947179
+162,Senamiestis Šiaulių g.,700,1,36.0,3/4,Senamiestis,Šiaulių g.,Lithuania,25.2835375,54.6766768
+163,Antakalnis K.Jauniaus g.,860,3,74.0,4/5,Antakalnis,K.Jauniaus g.,Lithuania,25.69133,55.09549
+164,Žirmūnai Žirmūnų g.,430,1,30.0,1/9,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+165,Antakalnis J.Biliūno g.,650,2,60.0,1/2,Antakalnis,J.Biliūno g.,Lithuania,25.312009,54.705407
+166,Markučiai Pakraščio g.,1500,3,63.0,1/5,Markučiai,Pakraščio g.,Lithuania,25.319347221199315,54.67545065
+167,Pašilaičiai Sviliškių g.,750,2,63.0,1/5,Pašilaičiai,Sviliškių g.,Lithuania,25.2162652,54.7321521
+168,Senamiestis Jogailos g.,950,2,61.4,4/4,Senamiestis,Jogailos g.,Lithuania,25.2778908,54.6850306
+169,Antakalnis Žirgo g.,950,3,82.2,2/5,Antakalnis,Žirgo g.,Lithuania,25.3333534,54.7192002
+170,Naujoji Vilnia Karklėnų g.,450,1,35.0,3/6,Naujoji Vilnia,Karklėnų g.,Lithuania,21.69751,55.87798
+171,Markučiai Kaukysos g.,890,2,45.16,4/6,Markučiai,Kaukysos g.,Lithuania,25.3180472,54.6763855
+172,Visoriai Visorių g.,780,2,55.0,4/6,Visoriai,Visorių g.,Lithuania,25.2500488,54.7434059
+173,Naujamiestis Žemaitės g.,390,1,32.57,3/5,Naujamiestis,Žemaitės g.,Lithuania,25.2588027,54.6703567
+174,Naujoji Vilnia Pramonės g.,270,1,22.0,2/4,Naujoji Vilnia,Pramonės g.,Lithuania,25.440378,54.6952323
+175,Šnipiškės Giedraičių g.,800,1,35.0,5/11,Šnipiškės,Giedraičių g.,Lithuania,25.278242,54.6973462
+176,Šnipiškės Konstitucijos pr.,850,2,58.0,7/29,Šnipiškės,Konstitucijos pr.,Lithuania,25.2706146,54.6975998
+177,Senamiestis Karmelitų g.,350,1,10.0,1/3,Senamiestis,Karmelitų g.,Lithuania,25.2863997,54.6766411
+178,Naujamiestis A.Vivulskio g.,700,2,40.0,2/5,Naujamiestis,A.Vivulskio g.,Lithuania,25.264768,54.680141
+179,Visoriai Visorių g.,850,2,42.81,3/5,Visoriai,Visorių g.,Lithuania,25.2500488,54.7434059
+180,Viršuliškės Laisvės pr.,600,2,34.0,2/5,Viršuliškės,Laisvės pr.,Lithuania,25.2261676,54.7068117
+181,Antakalnis Pavasario g.,1399,4,107.0,4/4,Antakalnis,Pavasario g.,Lithuania,25.3092627,54.6920042
+182,Žvėrynas Stumbrų g.,800,2,46.0,4/6,Žvėrynas,Stumbrų g.,Lithuania,25.2538475,54.6997206
+183,Karoliniškės Algimanto Petro Kavoliuko g.,650,2,50.0,7/9,Karoliniškės,Algimanto Petro Kavoliuko g.,Lithuania,25.21827851645063,54.6953297
+184,Pašilaičiai Laisvės pr.,500,2,51.0,1/9,Pašilaičiai,Laisvės pr.,Lithuania,25.2372018,54.7296563
+185,Senamiestis Aguonų g.,1150,2,46.0,2/5,Senamiestis,Aguonų g.,Lithuania,21.1561878,55.7101682
+186,Jeruzalė Mokyklos g.,520,1,36.16,1/6,Jeruzalė,Mokyklos g.,Lithuania,25.2732963,54.7452091
+187,Pašilaičiai Pavilnionių g.,410,1,25.0,6/7,Pašilaičiai,Pavilnionių g.,Lithuania,25.2107630181918,54.73645825
+188,Naujamiestis Šv.Stepono g.,1200,3,72.0,3/4,Naujamiestis,Šv.Stepono g.,Lithuania,25.264768,54.680141
+189,Naujamiestis T.Ševčenkos g.,1200,2,69.0,5/6,Naujamiestis,T.Ševčenkos g.,Lithuania,25.264768,54.680141
+190,Šeškinė Siesikų g.,1100,2,46.0,5/7,Šeškinė,Siesikų g.,Lithuania,25.2540264,54.7068111
+191,Žvėrynas Sėlių g.,1250,2,47.49,3/3,Žvėrynas,Sėlių g.,Lithuania,25.2456843,54.6987056
+192,Pašilaičiai Medeinos g.,600,3,66.0,1/9,Pašilaičiai,Medeinos g.,Lithuania,25.227281380275763,54.7298632
+193,Užupis Užupio g.,650,1,27.0,2/3,Užupis,Užupio g.,Lithuania,25.2923965,54.6805074
+194,Senamiestis S.Daukanto a.,1500,3,100.0,2/3,Senamiestis,S.Daukanto a.,Lithuania,25.286378919285198,54.6829713
+195,Aukštieji Paneriai Granito g.,560,1,30.0,1/3,Aukštieji Paneriai,Granito g.,Lithuania,25.174049,54.629101
+196,Naujamiestis A.Jakšto g.,700,1,90.0,1/3,Naujamiestis,A.Jakšto g.,Lithuania,25.264768,54.680141
+197,Naujamiestis Algirdo g.,400,1,17.0,2/5,Naujamiestis,Algirdo g.,Lithuania,25.2707414,54.6781128
+198,Naujoji Vilnia A.Paškevič-Ciotkos g.,640,3,75.0,3/5,Naujoji Vilnia,A.Paškevič-Ciotkos g.,Lithuania,,
+199,Senamiestis Trakų g.,1000,1,40.4,1/4,Senamiestis,Trakų g.,Lithuania,25.2806889,54.6805537
+200,Pavilnys Broniaus Kazio Balučio g.,800,2,60.0,1/3,Pavilnys,Broniaus Kazio Balučio g.,Lithuania,25.354774,54.678549
+201,Vilkpėdė Gerosios Vilties g.,780,3,58.0,5/5,Vilkpėdė,Gerosios Vilties g.,Lithuania,25.246189,54.669892
+202,Pavilnys Džiaugsmo g.,400,1,31.0,1/3,Pavilnys,Džiaugsmo g.,Lithuania,25.3617204,54.6717132
+203,Žirmūnai Raitininkų g.,1000,2,52.0,4/7,Žirmūnai,Raitininkų g.,Lithuania,24.11797,54.23549
+204,Senamiestis Kaštonų g.,785,1,33.0,1/5,Senamiestis,Kaštonų g.,Lithuania,24.3437507,55.7299974
+205,Rasos Kaukysos g.,830,2,53.0,5/6,Rasos,Kaukysos g.,Lithuania,25.3180472,54.6763855
+206,Šiaurės miestelis S.Žukausko g.,660,2,46.44,5/6,Šiaurės miestelis,S.Žukausko g.,Lithuania,24.121971,55.106184
+207,Senamiestis Bokšto g.,1450,3,69.0,4/4,Senamiestis,Bokšto g.,Lithuania,25.2921767,54.6776383
+208,Naujamiestis T.Ševčenkos g.,749,1,43.0,2/4,Naujamiestis,T.Ševčenkos g.,Lithuania,25.264768,54.680141
+209,Naujamiestis Skroblų g.,890,2,52.0,5/7,Naujamiestis,Skroblų g.,Lithuania,25.254835,54.670731
+210,Šnipiškės Žalgirio g.,560,2,71.0,2/3,Šnipiškės,Žalgirio g.,Lithuania,25.2668422,54.7044446
+211,Senamiestis Šermukšnių g.,970,2,78.6,1/5,Senamiestis,Šermukšnių g.,Lithuania,21.1380378,55.6990282
+212,Šiaurės miestelis Žirmūnų g.,590,2,45.0,3/5,Šiaurės miestelis,Žirmūnų g.,Lithuania,25.3045857,54.71086
+213,Žvėrynas Lūšių g.,1250,3,98.0,4/4,Žvėrynas,Lūšių g.,Lithuania,25.2494676,54.7009206
+214,Senamiestis J.Basanavičiaus g.,600,1,25.0,2/3,Senamiestis,J.Basanavičiaus g.,Lithuania,25.287693,54.683127
+215,Baltupiai Baltupio g.,550,1,28.0,5/8,Baltupiai,Baltupio g.,Lithuania,25.265448944117644,54.73593325
+216,Paupys Aukštaičių g.,1270,2,46.0,3/3,Paupys,Aukštaičių g.,Lithuania,25.3032805,54.6786994
+217,Fabijoniškės S.Stanevičiaus g.,480,3,67.0,3/5,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+218,Paupys Paupio g.,1050,2,37.89,2/4,Paupys,Paupio g.,Lithuania,25.3025487,54.6785287
+219,Žvėrynas Studentų g.,490,1,20.0,4/5,Žvėrynas,Studentų g.,Lithuania,25.2575185,54.6955659
+220,Senamiestis Bokšto g.,790,2,55.0,2/3,Senamiestis,Bokšto g.,Lithuania,25.2921767,54.6776383
+221,Pilaitė Gilužio g.,850,2,50.0,1/3,Pilaitė,Gilužio g.,Lithuania,25.1793994,54.7019012
+222,Markučiai Pakraščio g.,870,2,45.1,5/5,Markučiai,Pakraščio g.,Lithuania,25.319347221199315,54.67545065
+223,Valakampiai Svajonių g.,499,1,30.0,1/4,Valakampiai,Svajonių g.,Lithuania,25.3069084,54.742593
+224,Naujamiestis Smolensko g.,330,1,9.0,5/5,Naujamiestis,Smolensko g.,Lithuania,25.2585443,54.6749755
+225,Justiniškės Taikos g.,540,3,65.0,1/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+226,Šiaurės miestelis Verkių g.,730,2,61.0,2/7,Šiaurės miestelis,Verkių g.,Lithuania,25.304586,54.71086
+227,Pašilaičiai Laisvės pr.,1600,6,250.0,4/4,Pašilaičiai,Laisvės pr.,Lithuania,25.2372018,54.7296563
+228,Baltupiai Juozo Balčikonio g.,850,2,58.0,2/5,Baltupiai,Juozo Balčikonio g.,Lithuania,24.121971,55.106184
+229,Senamiestis T.Vrublevskio g.,935,2,46.0,1/3,Senamiestis,T.Vrublevskio g.,Lithuania,25.287693,54.683127
+230,Pilaitė Papilėnų g.,600,3,69.0,3/5,Pilaitė,Papilėnų g.,Lithuania,25.1865258,54.7046867
+231,Senamiestis Pilies g.,750,2,40.0,1/3,Senamiestis,Pilies g.,Lithuania,25.2891632,54.6820404
+232,Antakalnis Šatrijos Raganos g.,480,2,50.0,1/2,Antakalnis,Šatrijos Raganos g.,Lithuania,25.69133,55.09549
+233,Žirmūnai Tuskulėnų g.,549,2,48.0,2/5,Žirmūnai,Tuskulėnų g.,Lithuania,25.2885331,54.703226
+234,Šnipiškės Krokuvos g.,549,2,60.0,9/10,Šnipiškės,Krokuvos g.,Lithuania,25.285138,54.6966918
+235,Šnipiškės Lvivo g.,580,2,35.0,1/3,Šnipiškės,Lvivo g.,Lithuania,25.2688417,54.6994753
+236,Naujamiestis Aludarių g.,690,2,63.94,3/3,Naujamiestis,Aludarių g.,Lithuania,25.2659857,54.6866673
+237,Šnipiškės Raitininkų g.,900,2,45.0,2/7,Šnipiškės,Raitininkų g.,Lithuania,24.11797,54.23549
+238,Naujamiestis Aguonų g.,380,1,15.0,1/4,Naujamiestis,Aguonų g.,Lithuania,25.2773652,54.6752051
+239,Šnipiškės Verkių g.,350,1,30.0,2/5,Šnipiškės,Verkių g.,Lithuania,25.273601,54.697375
+240,Kalnėnai Valonų g.,1350,4,75.0,1/3,Kalnėnai,Valonų g.,Lithuania,25.341432,54.6496628
+241,Antakalnis Antakalnio g.,849,2,50.0,2/6,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+242,Senamiestis Šaltinių g.,1500,3,60.0,6/6,Senamiestis,Šaltinių g.,Lithuania,23.9626662,54.0248461
+243,Senamiestis Subačiaus g.,800,2,36.5,2/3,Senamiestis,Subačiaus g.,Lithuania,25.2964286,54.6765474
+244,Senamiestis A.Rotundo g.,849,2,54.81,2/5,Senamiestis,A.Rotundo g.,Lithuania,25.287693,54.683127
+245,Antakalnis P.Vileišio g.,330,1,22.0,5/9,Antakalnis,P.Vileišio g.,Lithuania,25.311821157774403,54.71195935
+246,Rasos Varšuvos g.,870,3,60.0,2/2,Rasos,Varšuvos g.,Lithuania,25.2976897,54.6703948
+247,Pašilaičiai Pašilaičių g.,630,2,60.0,4/5,Pašilaičiai,Pašilaičių g.,Lithuania,25.2316746,54.7314012
+248,Šnipiškės Konstitucijos pr.,800,2,41.0,8/16,Šnipiškės,Konstitucijos pr.,Lithuania,25.2706146,54.6975998
+249,Šiaurės miestelis Kazimiero Ladygos g.,550,1,41.0,1/8,Šiaurės miestelis,Kazimiero Ladygos g.,Lithuania,25.304586,54.71086
+250,Naujamiestis Naugarduko g.,300,1,30.0,3/7,Naujamiestis,Naugarduko g.,Lithuania,25.2753772,54.6767869
+251,Pašilaičiai Žemynos g.,550,3,67.0,6/9,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+252,Žvėrynas Liepyno g.,850,2,47.0,5/5,Žvėrynas,Liepyno g.,Lithuania,25.2546691,54.6981251
+253,Šeškinė Dūkštų g.,500,2,52.0,9/9,Šeškinė,Dūkštų g.,Lithuania,25.2388274,54.7123434
+254,Naujamiestis Vytenio g.,690,2,43.0,4/5,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+255,Žvėrynas Pušų g.,500,2,55.0,4/5,Žvėrynas,Pušų g.,Lithuania,25.251407,54.6916327
+256,Žirmūnai Žirmūnų g.,480,2,50.0,3/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+257,Viršuliškės Viršilų g.,900,4,95.0,22/23,Viršuliškės,Viršilų g.,Lithuania,25.2171297,54.7013381
+258,Senamiestis Gedimino pr.,1850,3,96.52,5/5,Senamiestis,Gedimino pr.,Lithuania,25.2824605,54.6865081
+259,Šnipiškės Konstitucijos pr.,1500,3,146.0,23/27,Šnipiškės,Konstitucijos pr.,Lithuania,25.2706146,54.6975998
+260,Viršuliškės Laisvės pr.,540,1,34.0,5/5,Viršuliškės,Laisvės pr.,Lithuania,25.2261676,54.7068117
+261,Užupis Filaretų g.,700,2,47.0,2/3,Užupis,Filaretų g.,Lithuania,25.3035011,54.6837083
+262,Žirmūnai Verkių g.,570,1,36.0,3/9,Žirmūnai,Verkių g.,Lithuania,25.2960633,54.7199848
+263,Senamiestis Pilies g.,550,2,31.0,3/4,Senamiestis,Pilies g.,Lithuania,25.2891632,54.6820404
+264,Senamiestis Gynėjų g.,790,2,68.0,5/9,Senamiestis,Gynėjų g.,Lithuania,22.250943,55.983929
+265,Naujininkai Dariaus ir Girėno g.,300,1,18.0,4/5,Naujininkai,Dariaus ir Girėno g.,Lithuania,25.2730874,54.6608848
+266,Šnipiškės Kernavės g.,790,2,44.6,3/8,Šnipiškės,Kernavės g.,Lithuania,25.2770623,54.7121167
+267,Baltupiai Didlaukio g.,950,3,85.0,2/4,Baltupiai,Didlaukio g.,Lithuania,25.2784789,54.7275851
+268,Viršuliškės Viršuliškių g.,400,1,27.0,1/12,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+269,Fabijoniškės Salomėjos Nėries g.,550,2,43.0,2/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+270,Markučiai Manufaktūrų g.,650,1,28.0,1/5,Markučiai,Manufaktūrų g.,Lithuania,25.3207304,54.6768792
+271,Senamiestis Žemaitijos g.,1100,4,80.0,1/5,Senamiestis,Žemaitijos g.,Lithuania,25.2812024,54.6777777
+272,Senamiestis Aludarių g.,950,2,52.0,2/5,Senamiestis,Aludarių g.,Lithuania,25.26602,54.686825
+273,Fabijoniškės Fabijoniškių g.,350,1,41.0,4/5,Fabijoniškės,Fabijoniškių g.,Lithuania,25.2374099,54.7315103
+274,Naujamiestis Švitrigailos g.,450,1,20.0,3/4,Naujamiestis,Švitrigailos g.,Lithuania,25.2704693,54.6692933
+275,Naujamiestis M.K.Čiurlionio g.,1100,3,66.0,2/4,Naujamiestis,M.K.Čiurlionio g.,Lithuania,25.264768,54.680141
+276,Šiaurės miestelis Apkasų g.,500,2,46.0,4/4,Šiaurės miestelis,Apkasų g.,Lithuania,24.121971,55.106184
+277,Žirmūnai Kareivių g.,500,2,45.0,16/16,Žirmūnai,Kareivių g.,Lithuania,25.300621223729205,54.71858105
+278,Karoliniškės Virginijaus Druskio g.,400,1,21.0,5/5,Karoliniškės,Virginijaus Druskio g.,Lithuania,25.202447,54.685872
+279,Žirmūnai Žygio g.,750,3,50.26,5/5,Žirmūnai,Žygio g.,Lithuania,25.2941771,54.7099347
+280,Šiaurės miestelis Žygio g.,680,2,49.0,7/8,Šiaurės miestelis,Žygio g.,Lithuania,24.121971,55.106184
+281,Žirmūnai Kalvarijų g.,370,1,31.0,5/9,Žirmūnai,Kalvarijų g.,Lithuania,25.2869142,54.7153427
+282,Naujamiestis V.Mykolaičio-Putino g.,900,2,50.0,1/8,Naujamiestis,V.Mykolaičio-Putino g.,Lithuania,25.264768,54.680141
+283,Antakalnis Nemenčinės pl.,1300,3,103.0,3/3,Antakalnis,Nemenčinės pl.,Lithuania,25.319595220530616,54.724156199999996
+284,Paupys Aukštaičių g.,2500,5,108.64,4/4,Paupys,Aukštaičių g.,Lithuania,25.3032805,54.6786994
+285,Senamiestis L.Stuokos-Gucevičiaus g.,2500,7,225.0,3/3,Senamiestis,L.Stuokos-Gucevičiaus g.,Lithuania,,
+286,Senamiestis Karmelitų g.,1100,3,97.0,3/3,Senamiestis,Karmelitų g.,Lithuania,25.2863997,54.6766411
+287,Šiaurės miestelis Žygio g.,550,2,50.0,1/3,Šiaurės miestelis,Žygio g.,Lithuania,24.121971,55.106184
+288,Žvėrynas Stumbrų g.,750,2,45.0,2/5,Žvėrynas,Stumbrų g.,Lithuania,25.2538475,54.6997206
+289,Naujamiestis Skroblų g.,820,2,44.1,4/6,Naujamiestis,Skroblų g.,Lithuania,25.254835,54.670731
+290,Santariškės Santariškių g.,630,2,51.21,2/3,Santariškės,Santariškių g.,Lithuania,25.2803027,54.7528454
+291,Baltupiai Ozo g.,850,2,48.0,2/8,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+292,Pašilaičiai Eitminų g.,650,2,50.0,3/9,Pašilaičiai,Eitminų g.,Lithuania,25.2206319,54.7411864
+293,Senamiestis Šv.Stepono g.,690,2,39.22,3/4,Senamiestis,Šv.Stepono g.,Lithuania,25.287693,54.683127
+294,Žvėrynas Liepyno g.,749,2,45.0,1/2,Žvėrynas,Liepyno g.,Lithuania,25.2546691,54.6981251
+295,Santariškės Žaliųjų Ežerų g.,550,2,49.0,3/6,Santariškės,Žaliųjų Ežerų g.,Lithuania,24.121971,55.106184
+296,Markučiai Pakraščio g.,1200,2,49.1,2/6,Markučiai,Pakraščio g.,Lithuania,25.319347221199315,54.67545065
+297,Antakalnis B.Sruogos g.,300,3,15.0,2/1,Antakalnis,B.Sruogos g.,Lithuania,25.69133,55.09549
+298,Naujininkai Telšių g.,500,2,42.0,1/2,Naujininkai,Telšių g.,Lithuania,25.2742388,54.662786
+299,Naujamiestis A.Vivulskio g.,360,1,16.0,3/5,Naujamiestis,A.Vivulskio g.,Lithuania,25.264768,54.680141
+300,Santariškės Santariškių g.,650,2,45.0,3/3,Santariškės,Santariškių g.,Lithuania,25.2803027,54.7528454
+301,Šiaurės miestelis Žygio g.,600,2,53.18,2/7,Šiaurės miestelis,Žygio g.,Lithuania,24.121971,55.106184
+302,Antakalnis Antakalnio g.,760,3,55.75,4/5,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+303,Šnipiškės Krokuvos g.,1300,3,74.0,2/6,Šnipiškės,Krokuvos g.,Lithuania,25.285138,54.6966918
+304,Karoliniškės Vido Maciulevičiaus g.,150,1,19.5,7/9,Karoliniškės,Vido Maciulevičiaus g.,Lithuania,25.205018,54.688955
+305,Naujamiestis Mindaugo g.,1100,3,72.0,3/4,Naujamiestis,Mindaugo g.,Lithuania,25.2738379,54.6770904
+306,Naujamiestis Savanorių pr.,600,2,49.11,5/5,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+307,Viršuliškės Viršuliškių g.,500,2,49.0,3/9,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+308,Santariškės Žaliųjų Ežerų g.,500,1,41.0,2/7,Santariškės,Žaliųjų Ežerų g.,Lithuania,24.121971,55.106184
+309,Karoliniškės Loretos Asanavičiūtės g.,390,1,32.4,2/8,Karoliniškės,Loretos Asanavičiūtės g.,Lithuania,25.196673,54.683074
+310,Lazdynėliai Lietaus g.,413,1,29.7,2/6,Lazdynėliai,Lietaus g.,Lithuania,24.121971,55.106184
+311,Žirmūnai Žirmūnų g.,630,1,36.0,12/12,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+312,Naujamiestis Naugarduko g.,750,3,68.0,5/5,Naujamiestis,Naugarduko g.,Lithuania,25.2753772,54.6767869
+313,Justiniškės Taikos g.,580,1,40.0,2/6,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+314,Naujamiestis Gerosios Vilties g.,750,2,47.0,3/6,Naujamiestis,Gerosios Vilties g.,Lithuania,25.246189,54.669892
+315,Žirmūnai Žirmūnų g.,400,1,30.0,1/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+316,Antakalnis P.Vileišio g.,550,2,46.0,1/5,Antakalnis,P.Vileišio g.,Lithuania,25.311821157774403,54.71195935
+317,Baltupiai Jurgio Lebedžio g.,850,2,46.5,2/5,Baltupiai,Jurgio Lebedžio g.,Lithuania,24.121971,55.106184
+318,Naujamiestis Žemaitės g.,800,2,45.0,8/9,Naujamiestis,Žemaitės g.,Lithuania,25.2588027,54.6703567
+319,Viršuliškės Spaudos g.,930,3,60.0,12/15,Viršuliškės,Spaudos g.,Lithuania,25.2129169,54.7009093
+320,Naujamiestis Z.Sierakausko g.,1600,3,109.0,3/6,Naujamiestis,Z.Sierakausko g.,Lithuania,25.264768,54.680141
+321,Markučiai Manufaktūrų g.,1100,2,52.8,3/5,Markučiai,Manufaktūrų g.,Lithuania,25.3207304,54.6768792
+322,Pilaitė Papilėnų g.,520,2,52.0,5/9,Pilaitė,Papilėnų g.,Lithuania,25.1865258,54.7046867
+323,Antakalnis V.Grybo g.,280,1,18.0,3/5,Antakalnis,V.Grybo g.,Lithuania,25.312009,54.705407
+324,Senamiestis A.Jakšto g.,780,2,42.0,4/6,Senamiestis,A.Jakšto g.,Lithuania,25.287693,54.683127
+325,Baltupiai Ozo g.,950,2,50.0,1/8,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+326,Naujininkai Skroblų g.,600,2,42.0,3/4,Naujininkai,Skroblų g.,Lithuania,25.273563,54.662677
+327,Justiniškės Taikos g.,550,3,66.0,4/9,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+328,Markučiai Manufaktūrų g.,750,2,36.05,2/6,Markučiai,Manufaktūrų g.,Lithuania,25.3207304,54.6768792
+329,Senamiestis Šaltinių g.,699,1,35.0,2/5,Senamiestis,Šaltinių g.,Lithuania,23.9626662,54.0248461
+330,Baltupiai Jurgio Lebedžio g.,500,1,24.5,1/5,Baltupiai,Jurgio Lebedžio g.,Lithuania,24.121971,55.106184
+331,Naujamiestis Švitrigailos g.,470,1,19.0,3/4,Naujamiestis,Švitrigailos g.,Lithuania,25.2704693,54.6692933
+332,Lazdynėliai Žaibo g.,770,2,40.0,4/4,Lazdynėliai,Žaibo g.,Lithuania,24.121971,55.106184
+333,Antakalnis Antakalnio g.,580,1,27.0,4/9,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+334,Jeruzalė Ateities g.,150,3,65.0,6/7,Jeruzalė,Ateities g.,Lithuania,25.2681728,54.7376318
+335,Žirmūnai Žirmūnų g.,580,2,44.0,2/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+336,Žirmūnai Žirmūnų g.,450,1,33.0,2/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+337,Šeškinė Šeškinės g.,500,1,46.0,2/16,Šeškinė,Šeškinės g.,Lithuania,25.242989,54.7161316
+338,Baltupiai Juozo Balčikonio g.,900,2,59.0,5/5,Baltupiai,Juozo Balčikonio g.,Lithuania,24.121971,55.106184
+339,Žirmūnai Žirmūnų g.,470,1,29.0,5/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+340,Karoliniškės Rolando Jankausko g.,490,2,56.0,7/9,Karoliniškės,Rolando Jankausko g.,Lithuania,25.211655,54.694067
+341,Liepkalnis Birbynių g.,350,1,47.0,2/2,Liepkalnis,Birbynių g.,Lithuania,24.121971,55.106184
+342,Naujamiestis Savanorių pr.,450,1,33.0,3/5,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+343,Naujamiestis Smolensko g.,720,2,50.0,4/11,Naujamiestis,Smolensko g.,Lithuania,25.2585443,54.6749755
+344,Lazdynėliai Jonažolių g.,650,2,64.0,4/6,Lazdynėliai,Jonažolių g.,Lithuania,25.2148876,54.666674
+345,Žirmūnai Minties g.,500,2,48.0,3/5,Žirmūnai,Minties g.,Lithuania,25.3047908,54.7056893
+346,Žvėrynas Liepyno g.,450,1,35.0,3/5,Žvėrynas,Liepyno g.,Lithuania,25.2546691,54.6981251
+347,Senamiestis K.Kalinausko g.,1200,3,57.0,4/4,Senamiestis,K.Kalinausko g.,Lithuania,25.287693,54.683127
+348,Senamiestis Aguonų g.,1999,3,75.6,4/6,Senamiestis,Aguonų g.,Lithuania,21.1561878,55.7101682
+349,Šnipiškės Kalvarijų g.,700,2,76.0,3/8,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+350,Žvėrynas Kęstučio g.,1590,3,100.0,2/3,Žvėrynas,Kęstučio g.,Lithuania,25.25119,54.6924339
+351,Šnipiškės Giedraičių g.,699,2,45.0,1/3,Šnipiškės,Giedraičių g.,Lithuania,25.278242,54.6973462
+352,Šiaurės miestelis Žygio g.,600,2,59.0,2/7,Šiaurės miestelis,Žygio g.,Lithuania,24.121971,55.106184
+353,Naujamiestis Skroblų g.,330,1,12.0,2/5,Naujamiestis,Skroblų g.,Lithuania,25.254835,54.670731
+354,Šnipiškės Kalvarijų g.,600,2,49.0,1/9,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+355,Justiniškės Rygos g.,600,2,61.0,5/5,Justiniškės,Rygos g.,Lithuania,25.2219966,54.7167438
+356,Pašilaičiai Žemynos g.,500,1,36.0,1/5,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+357,Naujoji Vilnia Pramonės g.,350,1,20.0,3/4,Naujoji Vilnia,Pramonės g.,Lithuania,25.440378,54.6952323
+358,Pašilaičiai Girulių g.,650,2,41.0,2/6,Pašilaičiai,Girulių g.,Lithuania,25.2164886,54.7385893
+359,Baltupiai Jurgio Lebedžio g.,500,1,27.0,3/5,Baltupiai,Jurgio Lebedžio g.,Lithuania,24.121971,55.106184
+360,Naujamiestis K.Kalinausko g.,800,3,64.0,4/8,Naujamiestis,K.Kalinausko g.,Lithuania,25.264768,54.680141
+361,Naujoji Vilnia V.Sirokomlės g.,500,3,61.0,4/5,Naujoji Vilnia,V.Sirokomlės g.,Lithuania,25.411303,54.692957
+362,Antakalnis Aukštagirio g.,700,3,60.0,1/1,Antakalnis,Aukštagirio g.,Lithuania,25.3504372,54.7376993
+363,Justiniškės Taikos g.,499,2,60.0,1/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+364,Naujamiestis Smolensko g.,1200,3,95.0,3/3,Naujamiestis,Smolensko g.,Lithuania,25.2585443,54.6749755
+365,Lazdynai Architektų g.,499,3,64.0,1/5,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+366,Lazdynėliai Lazdynėlių g.,750,2,46.0,1/4,Lazdynėliai,Lazdynėlių g.,Lithuania,25.1927074,54.663469
+367,Naujamiestis Žemaitės g.,650,2,45.0,4/9,Naujamiestis,Žemaitės g.,Lithuania,25.2588027,54.6703567
+368,Užupis Polocko g.,750,1,29.0,3/5,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+369,Naujamiestis Kedrų g.,360,1,12.0,2/5,Naujamiestis,Kedrų g.,Lithuania,25.2559437,54.6764673
+370,Senamiestis A.Rotundo g.,750,2,40.0,5/5,Senamiestis,A.Rotundo g.,Lithuania,25.287693,54.683127
+371,Naujamiestis S.Konarskio g.,790,2,50.0,5/8,Naujamiestis,S.Konarskio g.,Lithuania,25.264768,54.680141
+372,Pašilaičiai Dociškių g.,600,2,48.0,4/6,Pašilaičiai,Dociškių g.,Lithuania,25.2178342,54.7322779
+373,Šnipiškės Šeimyniškių g.,900,2,49.08,8/9,Šnipiškės,Šeimyniškių g.,Lithuania,25.282158,54.6947179
+374,Verkiai Trinapolio g.,700,2,58.0,8/11,Verkiai,Trinapolio g.,Lithuania,25.293707,54.751299
+375,Žirmūnai Minties g.,750,3,55.0,1/5,Žirmūnai,Minties g.,Lithuania,25.3047908,54.7056893
+376,Paupys Paupio g.,550,1,34.0,1/3,Paupys,Paupio g.,Lithuania,25.3025487,54.6785287
+377,Paupys Paupio g.,750,1,34.0,1/34,Paupys,Paupio g.,Lithuania,25.3025487,54.6785287
+378,Pilaitė I.Simonaitytės g.,680,2,42.18,2/4,Pilaitė,I.Simonaitytės g.,Lithuania,25.182761,54.706948
+379,Pilaitė M.Mažvydo g.,550,1,32.0,5/6,Pilaitė,M.Mažvydo g.,Lithuania,25.182761,54.706948
+380,Senamiestis Mindaugo g.,690,3,39.0,2/5,Senamiestis,Mindaugo g.,Lithuania,24.3494462,55.7358126
+381,Antakalnis Smėlio g.,350,1,29.0,3/5,Antakalnis,Smėlio g.,Lithuania,25.3118899,54.7033583
+382,Markučiai Kaukysos g.,750,2,32.0,4/5,Markučiai,Kaukysos g.,Lithuania,25.3180472,54.6763855
+383,Žirmūnai Minties g.,900,3,64.0,4/5,Žirmūnai,Minties g.,Lithuania,25.3047908,54.7056893
+384,Naujamiestis Statybininkų g.,370,1,23.0,5/9,Naujamiestis,Statybininkų g.,Lithuania,25.2571911,54.6734081
+385,Baltupiai Baltupio g.,660,2,39.0,3/9,Baltupiai,Baltupio g.,Lithuania,25.265448944117644,54.73593325
+386,Naujamiestis Naugarduko g.,400,1,18.0,4/5,Naujamiestis,Naugarduko g.,Lithuania,25.2753772,54.6767869
+387,Lazdynėliai Lietaus g.,650,2,47.0,2/4,Lazdynėliai,Lietaus g.,Lithuania,24.121971,55.106184
+388,Žirmūnai Verkių g.,750,2,40.12,5/9,Žirmūnai,Verkių g.,Lithuania,25.2960633,54.7199848
+389,Fabijoniškės Fabijoniškių g.,599,2,49.0,3/11,Fabijoniškės,Fabijoniškių g.,Lithuania,25.2374099,54.7315103
+390,Šeškinė Ozo g.,850,2,49.0,3/5,Šeškinė,Ozo g.,Lithuania,25.2388747,54.7087306
+391,Senamiestis J.Basanavičiaus g.,750,2,55.2,3/3,Senamiestis,J.Basanavičiaus g.,Lithuania,25.287693,54.683127
+392,Pašilaičiai Leičių g.,630,2,46.0,4/9,Pašilaičiai,Leičių g.,Lithuania,25.2243428,54.7367895
+393,Senamiestis Šv.Mikalojaus g.,640,2,35.0,1/3,Senamiestis,Šv.Mikalojaus g.,Lithuania,25.287693,54.683127
+394,Naujamiestis T.Ševčenkos g.,520,1,28.0,2/4,Naujamiestis,T.Ševčenkos g.,Lithuania,25.264768,54.680141
+395,Šnipiškės Linkmenų g.,750,2,45.0,3/5,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+396,Paupys Aukštaičių g.,720,1,25.0,2/4,Paupys,Aukštaičių g.,Lithuania,25.3032805,54.6786994
+397,Pilaitė Tvankstos g.,750,2,68.0,4/6,Pilaitė,Tvankstos g.,Lithuania,25.1725776,54.7077174
+398,Šiaurės miestelis Verkių g.,750,3,43.0,1/7,Šiaurės miestelis,Verkių g.,Lithuania,25.304586,54.71086
+399,Šnipiškės Kintų g.,650,1,25.0,2/4,Šnipiškės,Kintų g.,Lithuania,25.2771851,54.7025735
+400,Lazdynėliai Lazdynų g.,475,1,34.85,4/4,Lazdynėliai,Lazdynų g.,Lithuania,25.1927074,54.663469
+401,Senamiestis J.Basanavičiaus g.,1350,3,72.0,3/4,Senamiestis,J.Basanavičiaus g.,Lithuania,25.287693,54.683127
+402,Senamiestis Kruopų g.,800,3,59.0,2/4,Senamiestis,Kruopų g.,Lithuania,25.2799354,54.6751868
+403,Pilaitė Priegliaus g.,600,2,43.0,1/1,Pilaitė,Priegliaus g.,Lithuania,25.1867437,54.7119404
+404,Žirmūnai Kareivių g.,699,2,54.0,11/16,Žirmūnai,Kareivių g.,Lithuania,25.300621223729205,54.71858105
+405,Jeruzalė Bitininkų g.,800,3,73.0,8/10,Jeruzalė,Bitininkų g.,Lithuania,25.2720408,54.7412661
+406,Baltupiai Kalvarijų g.,1200,3,110.0,1/2,Baltupiai,Kalvarijų g.,Lithuania,25.2801343,54.7282735
+407,Visoriai Jono Kairiūkščio g.,600,2,50.0,1/9,Visoriai,Jono Kairiūkščio g.,Lithuania,25.2647674,54.7577598
+408,Naujininkai Kapsų g.,330,1,20.0,2/5,Naujininkai,Kapsų g.,Lithuania,25.2800463,54.6606221
+409,Šiaurės miestelis Žygio g.,700,2,49.0,2/9,Šiaurės miestelis,Žygio g.,Lithuania,24.121971,55.106184
+410,Žvėrynas Studentų g.,470,1,18.0,5/5,Žvėrynas,Studentų g.,Lithuania,25.2575185,54.6955659
+411,Senamiestis Gedimino pr.,1080,1,42.0,1/6,Senamiestis,Gedimino pr.,Lithuania,25.2824605,54.6865081
+412,Žvėrynas Studentų g.,470,1,18.0,4/5,Žvėrynas,Studentų g.,Lithuania,25.2575185,54.6955659
+413,Pašilaičiai Medeinos g.,500,3,66.0,8/9,Pašilaičiai,Medeinos g.,Lithuania,25.227281380275763,54.7298632
+414,Paupys Aukštaičių g.,690,1,23.0,2/4,Paupys,Aukštaičių g.,Lithuania,25.3032805,54.6786994
+415,Šeškinė Šeškinės g.,550,2,54.0,5/13,Šeškinė,Šeškinės g.,Lithuania,25.242989,54.7161316
+416,Pilaitė M.Mažvydo g.,490,1,34.0,5/9,Pilaitė,M.Mažvydo g.,Lithuania,25.182761,54.706948
+417,Lazdynėliai Lietaus g.,535,1,26.0,4/5,Lazdynėliai,Lietaus g.,Lithuania,24.121971,55.106184
+418,Naujamiestis Gerosios Vilties g.,790,2,51.0,3/6,Naujamiestis,Gerosios Vilties g.,Lithuania,25.246189,54.669892
+419,Naujamiestis Naugarduko g.,590,2,49.0,3/5,Naujamiestis,Naugarduko g.,Lithuania,25.2753772,54.6767869
+420,Senamiestis J.Tumo-Vaižganto g.,910,2,40.0,1/5,Senamiestis,J.Tumo-Vaižganto g.,Lithuania,,
+421,Santariškės Žaliųjų Ežerų g.,500,2,50.0,2/3,Santariškės,Žaliųjų Ežerų g.,Lithuania,24.121971,55.106184
+422,Markučiai Manufaktūrų g.,1000,2,50.0,1/6,Markučiai,Manufaktūrų g.,Lithuania,25.3207304,54.6768792
+423,Naujoji Vilnia Pergalės g.,200,1,17.0,1/5,Naujoji Vilnia,Pergalės g.,Lithuania,25.4108643,54.6922225
+424,Baltupiai Kazio Ulvydo g.,750,2,44.24,3/5,Baltupiai,Kazio Ulvydo g.,Lithuania,24.121971,55.106184
+425,Užupis Krivių g.,1200,3,62.23,2/3,Užupis,Krivių g.,Lithuania,25.301823076879643,54.68413115
+426,Naujamiestis Skroblų g.,800,2,41.0,3/7,Naujamiestis,Skroblų g.,Lithuania,25.254835,54.670731
+427,Paupys Krivūlės g.,800,2,45.0,1/3,Paupys,Krivūlės g.,Lithuania,25.3040905,54.6778064
+428,Antakalnis Volungės g.,600,2,52.0,2/5,Antakalnis,Volungės g.,Lithuania,25.318312,54.7028058
+429,Žvėrynas A.Mickevičiaus g.,650,2,43.0,1/3,Žvėrynas,A.Mickevičiaus g.,Lithuania,25.249828,54.695925
+430,Balsiai Numėjos g.,100,1,30.0,1/4,Balsiai,Numėjos g.,Lithuania,25.362341,54.7759467
+431,Senamiestis Bernardinų g.,750,1,20.0,1/2,Senamiestis,Bernardinų g.,Lithuania,25.2898263,54.6841157
+432,Senamiestis Šv.Stepono g.,1000,2,45.0,3/4,Senamiestis,Šv.Stepono g.,Lithuania,25.287693,54.683127
+433,Senamiestis Subačiaus g.,480,1,19.0,3/6,Senamiestis,Subačiaus g.,Lithuania,25.2964286,54.6765474
+434,Šnipiškės Ceikinių g.,990,2,54.0,1/5,Šnipiškės,Ceikinių g.,Lithuania,25.2844976,54.6936793
+435,Senamiestis Raugyklos g.,550,2,37.0,3/3,Senamiestis,Raugyklos g.,Lithuania,25.2789843,54.6728266
+436,Baltupiai Kazio Ulvydo g.,720,2,45.6,4/5,Baltupiai,Kazio Ulvydo g.,Lithuania,24.121971,55.106184
+437,Pašilaičiai Gabijos g.,420,1,35.0,4/5,Pašilaičiai,Gabijos g.,Lithuania,25.2236397,54.7313146
+438,Šiaurės miestelis Žygio g.,899,3,74.0,6/9,Šiaurės miestelis,Žygio g.,Lithuania,24.121971,55.106184
+439,Pašilaičiai Justiniškių g.,650,3,69.0,4/5,Pašilaičiai,Justiniškių g.,Lithuania,25.218555,54.7288412
+440,Justiniškės Taikos g.,500,3,62.0,2/9,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+441,Antakalnis Pauliaus Širvio g.,470,1,30.0,2/5,Antakalnis,Pauliaus Širvio g.,Lithuania,25.222142,54.985824
+442,Antakalnis Gražinos g.,500,2,56.0,1/2,Antakalnis,Gražinos g.,Lithuania,25.3261214,54.7181478
+443,Justiniškės Taikos g.,590,2,50.0,6/9,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+444,Pašilaičiai Laisvės pr.,500,1,46.0,7/9,Pašilaičiai,Laisvės pr.,Lithuania,25.2372018,54.7296563
+445,Pilaitė I.Kanto al.,420,1,36.0,4/9,Pilaitė,I.Kanto al.,Lithuania,25.176304,54.70432
+446,Antakalnis Žolyno g.,340,1,20.0,4/5,Antakalnis,Žolyno g.,Lithuania,25.31507,54.7117059
+447,Šnipiškės Trimitų g.,750,2,41.0,5/5,Šnipiškės,Trimitų g.,Lithuania,25.2846469,54.7025318
+448,Markučiai Subačiaus g.,500,2,48.0,3/9,Markučiai,Subačiaus g.,Lithuania,25.3110856,54.6762657
+449,Santariškės Santariškių g.,700,2,41.0,1/3,Santariškės,Santariškių g.,Lithuania,25.2803027,54.7528454
+450,Bajorai Kadugių g.,500,1,30.0,1/1,Bajorai,Kadugių g.,Lithuania,24.121971,55.106184
+451,Fabijoniškės P.Žadeikos g.,500,1,41.09,5/7,Fabijoniškės,P.Žadeikos g.,Lithuania,25.246433,54.731814
+452,Antakalnis Antakalnio g.,600,2,42.0,5/5,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+453,Senamiestis Vingrių g.,600,1,25.0,1/3,Senamiestis,Vingrių g.,Lithuania,25.2758803,54.6800552
+454,Žirmūnai Žirmūnų g.,550,1,30.0,1/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+455,Pašilaičiai Pašilaičių g.,790,3,70.0,5/9,Pašilaičiai,Pašilaičių g.,Lithuania,25.2316746,54.7314012
+456,Šeškinė Šeškinės g.,570,2,49.69,4/5,Šeškinė,Šeškinės g.,Lithuania,25.242989,54.7161316
+457,Justiniškės Laisvės pr.,500,1,31.0,6/9,Justiniškės,Laisvės pr.,Lithuania,25.2306643,54.7162559
+458,Pašilaičiai Ukmergės g.,700,3,77.0,9/9,Pašilaičiai,Ukmergės g.,Lithuania,25.2256323,54.7405473
+459,Žvėrynas Karaimų g.,1010,3,65.0,2/3,Žvėrynas,Karaimų g.,Lithuania,25.2553216,54.6892662
+460,Karoliniškės Sietyno g.,800,3,84.0,5/5,Karoliniškės,Sietyno g.,Lithuania,25.2012715,54.6879126
+461,Senamiestis Kauno g.,400,4,18.0,4/5,Senamiestis,Kauno g.,Lithuania,23.8888732,54.8996202
+462,Pilaitė Juodkrantės g.,750,3,82.0,3/7,Pilaitė,Juodkrantės g.,Lithuania,25.1782777,54.7120255
+463,Karoliniškės Virginijaus Druskio g.,460,1,32.0,2/9,Karoliniškės,Virginijaus Druskio g.,Lithuania,25.202447,54.685872
+464,Pilaitė Gilužio g.,700,2,38.0,1/3,Pilaitė,Gilužio g.,Lithuania,25.1793994,54.7019012
+465,Naujininkai Telšių g.,480,2,41.0,1/2,Naujininkai,Telšių g.,Lithuania,25.2742388,54.662786
+466,Baltupiai Vito Gerulaičio g.,590,1,31.0,4/5,Baltupiai,Vito Gerulaičio g.,Lithuania,24.121971,55.106184
+467,Senamiestis J.Savickio g.,570,1,26.0,2/3,Senamiestis,J.Savickio g.,Lithuania,25.287693,54.683127
+468,Šnipiškės Kalvarijų g.,899,2,62.0,4/5,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+469,Naujamiestis Šaltinių g.,780,2,46.13,1/3,Naujamiestis,Šaltinių g.,Lithuania,25.2758412,54.675117
+470,Pilaitė Pilkalnio g.,700,3,52.0,3/4,Pilaitė,Pilkalnio g.,Lithuania,25.16446622510246,54.7099256
+471,Šnipiškės Daugėliškio g.,500,1,22.0,3/5,Šnipiškės,Daugėliškio g.,Lithuania,25.2725536,54.7004606
+472,Jeruzalė Rugių g.,730,3,69.0,1/1,Jeruzalė,Rugių g.,Lithuania,25.2763332,54.7409115
+473,Pilaitė I.Simonaitytės g.,950,3,86.0,4/4,Pilaitė,I.Simonaitytės g.,Lithuania,25.182761,54.706948
+474,Justiniškės Taikos g.,200,1,17.0,1/9,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+475,Justiniškės Taikos g.,400,1,35.0,5/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+476,Naujamiestis Aguonų g.,950,2,54.0,1/6,Naujamiestis,Aguonų g.,Lithuania,25.2773652,54.6752051
+477,Žirmūnai Raitininkų g.,950,2,49.2,2/7,Žirmūnai,Raitininkų g.,Lithuania,24.11797,54.23549
+478,Užupis Užupio g.,800,2,57.0,3/4,Užupis,Užupio g.,Lithuania,25.2923965,54.6805074
+479,Šeškinė Siesikų g.,700,2,42.0,4/7,Šeškinė,Siesikų g.,Lithuania,25.2540264,54.7068111
+480,Lazdynėliai Jonažolių g.,850,3,82.0,2/9,Lazdynėliai,Jonažolių g.,Lithuania,25.2148876,54.666674
+481,Šnipiškės Kernavės g.,700,2,44.18,3/6,Šnipiškės,Kernavės g.,Lithuania,25.2770623,54.7121167
+482,Žvėrynas Žiemgalių g.,199,2,42.0,1/2,Žvėrynas,Žiemgalių g.,Lithuania,25.2486218,54.6959056
+483,Naujamiestis Naugarduko g.,700,2,53.66,3/4,Naujamiestis,Naugarduko g.,Lithuania,25.2753772,54.6767869
+484,Senamiestis Sodų g.,400,1,15.0,2/3,Senamiestis,Sodų g.,Lithuania,23.2457351,54.420003
+485,Baltupiai Baltupio g.,550,2,58.1,5/5,Baltupiai,Baltupio g.,Lithuania,25.265448944117644,54.73593325
+486,Naujininkai Šaltkalvių g.,700,3,58.5,3/5,Naujininkai,Šaltkalvių g.,Lithuania,25.273605,54.661445
+487,Paneriai Jaunystės g.,720,2,45.0,1/1,Paneriai,Jaunystės g.,Lithuania,25.1684952,54.5883027
+488,Bajorai Bajorų kel.,750,3,75.75,3/4,Bajorai,Bajorų kel.,Lithuania,24.121971,55.106184
+489,Naujininkai Dariaus ir Girėno g.,350,1,21.0,3/9,Naujininkai,Dariaus ir Girėno g.,Lithuania,25.2730874,54.6608848
+490,Pilaitė Tolminkiemio g.,250,3,67.0,8/9,Pilaitė,Tolminkiemio g.,Lithuania,25.1796266,54.7074154
+491,Senamiestis Pakalnės g.,750,2,43.0,3/3,Senamiestis,Pakalnės g.,Lithuania,23.3208944,55.9300731
+492,Šeškinė Gelvonų g.,490,1,38.0,4/5,Šeškinė,Gelvonų g.,Lithuania,25.2576099,54.7182332
+493,Justiniškės Talino g.,700,2,52.0,1/5,Justiniškės,Talino g.,Lithuania,25.2099657,54.7232631
+494,Justiniškės Rygos g.,700,2,62.0,6/11,Justiniškės,Rygos g.,Lithuania,25.2219966,54.7167438
+495,Antakalnis Volungės g.,650,2,46.0,2/5,Antakalnis,Volungės g.,Lithuania,25.318312,54.7028058
+496,Naujamiestis Šaltinių g.,850,2,41.56,4/5,Naujamiestis,Šaltinių g.,Lithuania,25.2758412,54.675117
+497,Antakalnis Smėlio g.,620,2,42.0,1/4,Antakalnis,Smėlio g.,Lithuania,25.3118899,54.7033583
+498,Pilaitė Karaliaučiaus g.,430,1,40.0,2/5,Pilaitė,Karaliaučiaus g.,Lithuania,25.1759723,54.7135023
+499,Naujamiestis Smolensko g.,800,2,50.0,3/7,Naujamiestis,Smolensko g.,Lithuania,25.2585443,54.6749755
+500,Pašilaičiai Girulių g.,750,3,72.3,9/9,Pašilaičiai,Girulių g.,Lithuania,25.2164886,54.7385893
+501,Žirmūnai Žirmūnų g.,500,1,30.0,1/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+502,Jeruzalė Rugių g.,570,2,40.19,4/5,Jeruzalė,Rugių g.,Lithuania,25.2763332,54.7409115
+503,Jeruzalė Maumedžių g.,570,3,63.0,5/5,Jeruzalė,Maumedžių g.,Lithuania,25.269227,54.742649
+504,Žirmūnai Kalvarijų g.,900,2,67.0,3/3,Žirmūnai,Kalvarijų g.,Lithuania,25.2869142,54.7153427
+505,Žirmūnai S.Žukausko g.,900,3,80.0,5/9,Žirmūnai,S.Žukausko g.,Lithuania,25.301475,54.719114
+506,Pilaitė Pajautos g.,460,2,52.0,5/5,Pilaitė,Pajautos g.,Lithuania,25.16205283294591,54.71028285
+507,Antakalnis V.Grybo g.,720,2,48.0,4/6,Antakalnis,V.Grybo g.,Lithuania,25.312009,54.705407
+508,Grigiškės Kovo 11-osios g.,320,1,32.0,1/5,Grigiškės,Kovo 11-osios g.,Lithuania,25.09617281287684,54.66914785
+509,Žirmūnai Trinapolio g.,600,2,60.0,9/11,Žirmūnai,Trinapolio g.,Lithuania,25.301475,54.719114
+510,Pilaitė Tolminkiemio g.,600,1,35.0,3/8,Pilaitė,Tolminkiemio g.,Lithuania,25.1796266,54.7074154
+511,Lazdynai Žėručio g.,680,3,62.0,3/5,Lazdynai,Žėručio g.,Lithuania,25.2100071,54.6748452
+512,Šnipiškės Krokuvos g.,590,1,31.8,4/6,Šnipiškės,Krokuvos g.,Lithuania,25.285138,54.6966918
+513,Naujamiestis Mečetės g.,1050,3,74.0,4/4,Naujamiestis,Mečetės g.,Lithuania,25.2680814,54.6934811
+514,Žvėrynas Lapių g.,850,2,50.0,1/5,Žvėrynas,Lapių g.,Lithuania,25.2471801,54.6990326
+515,Visoriai Visorių g.,470,1,38.96,4/5,Visoriai,Visorių g.,Lithuania,25.2500488,54.7434059
+516,Žirmūnai Žirmūnų g.,600,2,40.0,2/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+517,Antakalnis Šilo g.,500,1,29.0,1/4,Antakalnis,Šilo g.,Lithuania,25.312009,54.705407
+518,Senamiestis Varšuvos g.,690,2,45.0,2/4,Senamiestis,Varšuvos g.,Lithuania,25.287693,54.683127
+519,Pašilaičiai Žemynos g.,550,3,67.0,9/9,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+520,Šnipiškės Kintų g.,760,2,36.61,3/4,Šnipiškės,Kintų g.,Lithuania,25.2771851,54.7025735
+521,Žvėrynas Latvių g.,440,1,38.0,1/2,Žvėrynas,Latvių g.,Lithuania,25.2534295,54.6949413
+522,Šiaurės miestelis Žygio g.,700,2,52.79,6/9,Šiaurės miestelis,Žygio g.,Lithuania,24.121971,55.106184
+523,Pilaitė M.Mažvydo g.,750,3,64.0,6/9,Pilaitė,M.Mažvydo g.,Lithuania,25.182761,54.706948
+524,Antakalnis Vytauto Žalakevičiaus g.,980,3,70.0,4/6,Antakalnis,Vytauto Žalakevičiaus g.,Lithuania,25.783394,54.98187
+525,Žirmūnai Žirmūnų g.,450,1,30.0,4/9,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+526,Senamiestis Bazilijonų g.,850,2,35.0,3/4,Senamiestis,Bazilijonų g.,Lithuania,25.2855354,54.6740589
+527,Visoriai Jono Kairiūkščio g.,390,1,30.0,2/5,Visoriai,Jono Kairiūkščio g.,Lithuania,25.2647674,54.7577598
+528,Antakalnis Klinikų g.,500,1,31.97,1/4,Antakalnis,Klinikų g.,Lithuania,25.315727,54.7082195
+529,Šnipiškės Kintų g.,720,2,37.0,1/4,Šnipiškės,Kintų g.,Lithuania,25.2771851,54.7025735
+530,Tarandė Tarandės g.,250,1,300.0,2/3,Tarandė,Tarandės g.,Lithuania,25.2072291,54.7493131
+531,Šnipiškės Tuskulėnų g.,700,2,50.0,6/9,Šnipiškės,Tuskulėnų g.,Lithuania,25.273601,54.697375
+532,Šeškinė Šeškinės g.,800,3,63.0,9/16,Šeškinė,Šeškinės g.,Lithuania,25.242989,54.7161316
+533,Šnipiškės Konstitucijos pr.,950,2,40.28,9/19,Šnipiškės,Konstitucijos pr.,Lithuania,25.2706146,54.6975998
+534,Senamiestis V.Šopeno g.,1100,3,80.0,3/3,Senamiestis,V.Šopeno g.,Lithuania,25.287693,54.683127
+535,Baltupiai Jurgio Lebedžio g.,680,2,32.0,1/5,Baltupiai,Jurgio Lebedžio g.,Lithuania,24.121971,55.106184
+536,Žirmūnai Juozo Balčikonio g.,700,2,51.0,3/5,Žirmūnai,Juozo Balčikonio g.,Lithuania,25.283886,54.720788
+537,Žemieji Paneriai Ūmėdžių g.,520,2,62.0,5/5,Žemieji Paneriai,Ūmėdžių g.,Lithuania,25.2103975,54.6404889
+538,Žirmūnai Piromonto g.,850,2,45.0,3/6,Žirmūnai,Piromonto g.,Lithuania,25.2922688,54.7024694
+539,Senamiestis Šv.Dvasios g.,900,2,39.0,3/4,Senamiestis,Šv.Dvasios g.,Lithuania,25.287693,54.683127
+540,Pilaitė Karaliaučiaus g.,450,1,39.0,3/5,Pilaitė,Karaliaučiaus g.,Lithuania,25.1759723,54.7135023
+541,Karoliniškės Vytauto Vaitkaus g.,650,3,64.0,4/9,Karoliniškės,Vytauto Vaitkaus g.,Lithuania,26.471776,55.626535
+542,Justiniškės Laisvės pr.,205,1,15.0,5/5,Justiniškės,Laisvės pr.,Lithuania,25.2306643,54.7162559
+543,Naujininkai Panevėžio g.,850,3,64.0,4/4,Naujininkai,Panevėžio g.,Lithuania,25.2839807,54.663336
+544,Žirmūnai Žirmūnų g.,440,1,30.0,5/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+545,Karoliniškės Igno Šimulionio g.,450,2,47.0,2/5,Karoliniškės,Igno Šimulionio g.,Lithuania,25.28206,54.682713
+546,Pašilaičiai Girulių g.,650,2,45.37,2/9,Pašilaičiai,Girulių g.,Lithuania,25.2164886,54.7385893
+547,Fabijoniškės Salomėjos Nėries g.,630,2,50.0,10/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+548,Lazdynai Architektų g.,550,2,47.0,4/5,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+549,Žirmūnai Žirmūnų g.,350,1,22.0,3/9,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+550,Bajorai Bajorų kel.,650,2,40.0,2/9,Bajorai,Bajorų kel.,Lithuania,24.121971,55.106184
+551,Šnipiškės S.Fino g.,670,2,31.0,3/5,Šnipiškės,S.Fino g.,Lithuania,25.273601,54.697375
+552,Karoliniškės Algimanto Petro Kavoliuko g.,630,3,60.0,1/5,Karoliniškės,Algimanto Petro Kavoliuko g.,Lithuania,25.21827851645063,54.6953297
+553,Baltupiai Vito Gerulaičio g.,630,2,35.0,2/5,Baltupiai,Vito Gerulaičio g.,Lithuania,24.121971,55.106184
+554,Lazdynėliai Šiltnamių g.,550,2,51.0,4/5,Lazdynėliai,Šiltnamių g.,Lithuania,25.2133688,54.6689362
+555,Pašilaičiai Pašilaičių g.,500,2,54.0,4/9,Pašilaičiai,Pašilaičių g.,Lithuania,25.2316746,54.7314012
+556,Pašilaičiai Eitminų g.,670,2,49.0,2/6,Pašilaičiai,Eitminų g.,Lithuania,25.2206319,54.7411864
+557,Naujamiestis Tauro g.,630,1,33.7,3/5,Naujamiestis,Tauro g.,Lithuania,25.2728154,54.6847721
+558,Naujamiestis Tauro g.,750,2,48.58,3/5,Naujamiestis,Tauro g.,Lithuania,25.2728154,54.6847721
+559,Šeškinė Laisvės pr.,700,2,34.0,5/5,Šeškinė,Laisvės pr.,Lithuania,25.2323775,54.7193989
+560,Baltupiai Ozo g.,870,2,48.0,2/7,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+561,Žvėrynas Liepyno g.,700,1,35.0,1/4,Žvėrynas,Liepyno g.,Lithuania,25.2546691,54.6981251
+562,Senamiestis Trakų g.,700,2,50.0,2/3,Senamiestis,Trakų g.,Lithuania,25.2806889,54.6805537
+563,Naujamiestis Savanorių pr.,770,2,46.0,5/5,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+564,Žvėrynas Studentų g.,480,1,18.3,1/5,Žvėrynas,Studentų g.,Lithuania,25.2575185,54.6955659
+565,Lazdynai Erfurto g.,169,1,10.0,5/5,Lazdynai,Erfurto g.,Lithuania,25.2027702,54.6708027
+566,Pilaitė Gilužio g.,550,1,30.0,3/3,Pilaitė,Gilužio g.,Lithuania,25.1793994,54.7019012
+567,Pašilaičiai Gabijos g.,450,2,50.0,5/5,Pašilaičiai,Gabijos g.,Lithuania,25.2236397,54.7313146
+568,Pašilaičiai Medeinos g.,420,1,36.0,5/9,Pašilaičiai,Medeinos g.,Lithuania,25.227281380275763,54.7298632
+569,Lazdynai Architektų g.,290,1,72.0,11/16,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+570,Senamiestis Vokiečių g.,790,2,52.0,4/5,Senamiestis,Vokiečių g.,Lithuania,25.2840381,54.6789287
+571,Karoliniškės Vido Maciulevičiaus g.,700,3,63.0,3/9,Karoliniškės,Vido Maciulevičiaus g.,Lithuania,25.205018,54.688955
+572,Šeškinė Gelvonų g.,500,1,30.0,8/9,Šeškinė,Gelvonų g.,Lithuania,25.2576099,54.7182332
+573,Baltupiai Juozo Balčikonio g.,700,2,63.0,4/5,Baltupiai,Juozo Balčikonio g.,Lithuania,24.121971,55.106184
+574,Markučiai Manufaktūrų g.,680,1,32.0,1/5,Markučiai,Manufaktūrų g.,Lithuania,25.3207304,54.6768792
+575,Naujamiestis Birželio 23-iosios g.,399,1,32.0,3/5,Naujamiestis,Birželio 23-iosios g.,Lithuania,25.261936,54.67432
+576,Jeruzalė Mykolo Marcinkevičiaus g.,750,3,82.0,3/4,Jeruzalė,Mykolo Marcinkevičiaus g.,Lithuania,24.121971,55.106184
+577,Fabijoniškės Salomėjos Nėries g.,450,1,43.0,10/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+578,Senamiestis Raugyklos g.,850,2,33.0,2/3,Senamiestis,Raugyklos g.,Lithuania,25.2789843,54.6728266
+579,Pašilaičiai Girulių g.,650,2,63.0,5/9,Pašilaičiai,Girulių g.,Lithuania,25.2164886,54.7385893
+580,Pilaitė M.Mažvydo g.,600,1,33.0,1/9,Pilaitė,M.Mažvydo g.,Lithuania,25.182761,54.706948
+581,Pašilaičiai Ukmergės g.,650,2,60.0,5/6,Pašilaičiai,Ukmergės g.,Lithuania,25.2256323,54.7405473
+582,Pašilaičiai Eitminų g.,650,1,34.0,5/9,Pašilaičiai,Eitminų g.,Lithuania,25.2206319,54.7411864
+583,Pašilaičiai Pavilnionių g.,500,2,40.0,12/16,Pašilaičiai,Pavilnionių g.,Lithuania,25.2107630181918,54.73645825
+584,Justiniškės Buivydiškių g.,620,2,34.0,1/5,Justiniškės,Buivydiškių g.,Lithuania,25.218601,54.718473
+585,Naujininkai Brolių g.,630,2,44.0,2/5,Naujininkai,Brolių g.,Lithuania,25.2691676,54.6634042
+586,Šnipiškės Rinktinės g.,1000,2,55.0,4/7,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+587,Naujininkai Dzūkų g.,680,2,50.0,8/9,Naujininkai,Dzūkų g.,Lithuania,25.2830471,54.6640112
+588,Baltupiai Jurgio Lebedžio g.,490,1,22.34,3/5,Baltupiai,Jurgio Lebedžio g.,Lithuania,24.121971,55.106184
+589,Paupys Paupio g.,500,1,25.0,2/3,Paupys,Paupio g.,Lithuania,25.3025487,54.6785287
+590,Antakalnis Pauliaus Širvio g.,600,2,47.73,1/5,Antakalnis,Pauliaus Širvio g.,Lithuania,25.222142,54.985824
+591,Santariškės Mykolo Marcinkevičiaus g.,430,2,47.0,3/5,Santariškės,Mykolo Marcinkevičiaus g.,Lithuania,24.121971,55.106184
+592,Buivydiškės Parko g.,600,2,42.0,2/3,Buivydiškės,Parko g.,Lithuania,25.1939249,54.7161044
+593,Šnipiškės Rinktinės g.,750,2,40.0,2/8,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+594,Fabijoniškės S.Stanevičiaus g.,630,2,50.0,3/9,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+595,Naujoji Vilnia S.Raštikio g.,520,2,49.0,1/2,Naujoji Vilnia,S.Raštikio g.,Lithuania,25.411303,54.692957
+596,Baltupiai Vito Gerulaičio g.,850,2,47.02,3/5,Baltupiai,Vito Gerulaičio g.,Lithuania,24.121971,55.106184
+597,Šeškinė Dūkštų g.,500,1,36.87,4/9,Šeškinė,Dūkštų g.,Lithuania,25.2388274,54.7123434
+598,Baltupiai Kazio Ulvydo g.,750,2,45.75,4/5,Baltupiai,Kazio Ulvydo g.,Lithuania,24.121971,55.106184
+599,Baltupiai Vito Gerulaičio g.,750,2,38.81,1/5,Baltupiai,Vito Gerulaičio g.,Lithuania,24.121971,55.106184
+600,Naujamiestis Vytenio g.,650,2,36.5,2/4,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+601,Grigiškės Jaunimo skg.,200,1,18.0,4/5,Grigiškės,Jaunimo skg.,Lithuania,25.0933519,54.6712519
+602,Pilaitė Tvankstos g.,600,1,29.0,4/6,Pilaitė,Tvankstos g.,Lithuania,25.1725776,54.7077174
+603,Fabijoniškės L.Giros g.,700,3,67.0,9/10,Fabijoniškės,L.Giros g.,Lithuania,25.246433,54.731814
+604,Vilkpėdė Riovonių g.,570,3,89.0,2/2,Vilkpėdė,Riovonių g.,Lithuania,25.2371581,54.6483814
+605,Naujoji Vilnia Pramonės g.,320,2,38.0,4/4,Naujoji Vilnia,Pramonės g.,Lithuania,25.440378,54.6952323
+606,Fabijoniškės Salomėjos Nėries g.,480,2,53.02,1/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+607,Fabijoniškės S.Stanevičiaus g.,550,2,53.0,8/9,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+608,Naujininkai Šaltkalvių g.,425,1,30.0,3/5,Naujininkai,Šaltkalvių g.,Lithuania,25.273605,54.661445
+609,Vilkpėdė Gerosios Vilties g.,280,3,20.0,3/3,Vilkpėdė,Gerosios Vilties g.,Lithuania,25.246189,54.669892
+610,Pašilaičiai Pavilnionių g.,520,2,48.0,6/12,Pašilaičiai,Pavilnionių g.,Lithuania,25.2107630181918,54.73645825
+611,Santariškės Santariškių g.,600,2,54.0,2/3,Santariškės,Santariškių g.,Lithuania,25.2803027,54.7528454
+612,Vilkpėdė Vilkpėdės g.,670,2,59.0,4/6,Vilkpėdė,Vilkpėdės g.,Lithuania,25.2360528,54.6636771
+613,Žvėrynas Sėlių g.,750,1,41.0,2/3,Žvėrynas,Sėlių g.,Lithuania,25.2456843,54.6987056
+614,Karoliniškės Vido Maciulevičiaus g.,400,1,33.0,4/5,Karoliniškės,Vido Maciulevičiaus g.,Lithuania,25.205018,54.688955
+615,Žvėrynas Sėlių g.,900,2,54.0,2/6,Žvėrynas,Sėlių g.,Lithuania,25.2456843,54.6987056
+616,Fabijoniškės Visorių g.,800,3,70.0,3/6,Fabijoniškės,Visorių g.,Lithuania,25.25746,54.7385094
+617,Baltupiai Jurgio Lebedžio g.,730,2,35.0,1/5,Baltupiai,Jurgio Lebedžio g.,Lithuania,24.121971,55.106184
+618,Viršuliškės Jurgio Matulaičio a.,480,2,41.0,5/12,Viršuliškės,Jurgio Matulaičio a.,Lithuania,24.121971,55.106184
+619,Naujamiestis Naugarduko g.,300,1,18.0,2/5,Naujamiestis,Naugarduko g.,Lithuania,25.2753772,54.6767869
+620,Baltupiai Didlaukio g.,750,3,64.0,3/5,Baltupiai,Didlaukio g.,Lithuania,25.2784789,54.7275851
+621,Žirmūnai Tuskulėnų g.,500,1,33.0,3/5,Žirmūnai,Tuskulėnų g.,Lithuania,25.2885331,54.703226
+622,Antakalnis Debesijos g.,700,3,64.0,4/5,Antakalnis,Debesijos g.,Lithuania,25.3173065,54.7019831
+623,Viršuliškės Viršuliškių g.,430,1,33.0,7/9,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+624,Pilaitė I.Simonaitytės g.,550,2,46.0,2/6,Pilaitė,I.Simonaitytės g.,Lithuania,25.182761,54.706948
+625,Žvėrynas S.Moniuškos g.,580,2,54.0,2/2,Žvėrynas,S.Moniuškos g.,Lithuania,25.249828,54.695925
+626,Naujamiestis Eglių g.,450,1,32.0,1/6,Naujamiestis,Eglių g.,Lithuania,22.7434842,55.0843441
+627,Šnipiškės Žalgirio g.,800,2,47.0,5/9,Šnipiškės,Žalgirio g.,Lithuania,25.2668422,54.7044446
+628,Paupys Paupio g.,725,1,30.0,3/4,Paupys,Paupio g.,Lithuania,25.3025487,54.6785287
+629,Pašilaičiai Sviliškių g.,650,2,38.0,4/4,Pašilaičiai,Sviliškių g.,Lithuania,25.2162652,54.7321521
+630,Naujamiestis Tauro g.,365,2,50.0,3/5,Naujamiestis,Tauro g.,Lithuania,25.2728154,54.6847721
+631,Baltupiai Didlaukio g.,400,1,32.0,7/9,Baltupiai,Didlaukio g.,Lithuania,25.2784789,54.7275851
+632,Naujamiestis Algirdo g.,650,2,31.0,2/8,Naujamiestis,Algirdo g.,Lithuania,25.2707414,54.6781128
+633,Naujamiestis Eglių g.,750,2,47.0,2/7,Naujamiestis,Eglių g.,Lithuania,22.7434842,55.0843441
+634,Naujamiestis Statybininkų g.,600,1,33.0,5/9,Naujamiestis,Statybininkų g.,Lithuania,25.2571911,54.6734081
+635,Naujininkai Brolių g.,399,1,35.0,2/5,Naujininkai,Brolių g.,Lithuania,25.2691676,54.6634042
+636,Antakalnis Tverečiaus g.,400,2,42.0,1/5,Antakalnis,Tverečiaus g.,Lithuania,25.3189678,54.7164695
+637,Visoriai Jono Kairiūkščio g.,700,3,58.0,2/5,Visoriai,Jono Kairiūkščio g.,Lithuania,25.2647674,54.7577598
+638,Antakalnis Antakalnio g.,600,2,40.0,1/5,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+639,Baltupiai Juozo Balčikonio g.,520,1,36.0,3/5,Baltupiai,Juozo Balčikonio g.,Lithuania,24.121971,55.106184
+640,Baltupiai Trinapolio g.,700,2,60.0,8/11,Baltupiai,Trinapolio g.,Lithuania,25.2876241,54.7257187
+641,Pilaitė Karaliaučiaus g.,970,3,69.0,6/8,Pilaitė,Karaliaučiaus g.,Lithuania,25.1759723,54.7135023
+642,Visoriai Fizikų g.,650,2,61.0,2/8,Visoriai,Fizikų g.,Lithuania,25.2659092,54.7547466
+643,Naujamiestis P.Klimo g.,395,1,21.0,1/2,Naujamiestis,P.Klimo g.,Lithuania,25.264768,54.680141
+644,Naujamiestis Tauro g.,350,1,12.0,3/5,Naujamiestis,Tauro g.,Lithuania,25.2728154,54.6847721
+645,Fabijoniškės Salomėjos Nėries g.,640,2,56.0,7/11,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+646,Šeškinė Siesikų g.,560,1,30.3,3/5,Šeškinė,Siesikų g.,Lithuania,25.2540264,54.7068111
+647,Bajorai Bajorų kel.,750,3,75.84,5/7,Bajorai,Bajorų kel.,Lithuania,24.121971,55.106184
+648,Šnipiškės Kintų g.,790,2,37.0,1/4,Šnipiškės,Kintų g.,Lithuania,25.2771851,54.7025735
+649,Pilaitė Bitėnų g.,580,2,40.0,4/5,Pilaitė,Bitėnų g.,Lithuania,25.1735297,54.7032848
+650,Baltupiai Kalvarijų g.,570,3,72.0,5/10,Baltupiai,Kalvarijų g.,Lithuania,25.2801343,54.7282735
+651,Šnipiškės Linkmenų g.,800,2,46.0,4/9,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+652,Naujamiestis Muitinės g.,630,2,53.0,2/5,Naujamiestis,Muitinės g.,Lithuania,22.755315,55.0772472
+653,Naujamiestis Kauno g.,800,2,34.0,4/5,Naujamiestis,Kauno g.,Lithuania,25.2626184,54.6705058
+654,Naujamiestis M.K.Čiurlionio g.,500,3,100.0,2/4,Naujamiestis,M.K.Čiurlionio g.,Lithuania,25.264768,54.680141
+655,Žvėrynas Sakalų g.,400,1,15.0,5/6,Žvėrynas,Sakalų g.,Lithuania,25.251978,54.6963621
+656,Baltupiai Ozo g.,600,1,29.0,5/8,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+657,Žirmūnai Žirmūnų g.,520,2,45.0,4/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+658,Antakalnis Švyturio g.,650,4,72.0,4/5,Antakalnis,Švyturio g.,Lithuania,25.3186172,54.7135184
+659,Naujamiestis S.Konarskio g.,830,3,72.0,3/3,Naujamiestis,S.Konarskio g.,Lithuania,25.264768,54.680141
+660,Naujininkai Šaltkalvių g.,800,3,80.0,1/5,Naujininkai,Šaltkalvių g.,Lithuania,25.273605,54.661445
+661,Pašilaičiai Girulių g.,450,1,42.0,8/9,Pašilaičiai,Girulių g.,Lithuania,25.2164886,54.7385893
+662,Lazdynėliai Jonažolių g.,630,2,52.99,8/9,Lazdynėliai,Jonažolių g.,Lithuania,25.2148876,54.666674
+663,Šnipiškės Giedraičių g.,530,2,46.6,4/5,Šnipiškės,Giedraičių g.,Lithuania,25.278242,54.6973462
+664,Karoliniškės Apolinaro Juozo Povilaičio g.,650,2,47.0,4/5,Karoliniškės,Apolinaro Juozo Povilaičio g.,Lithuania,25.22511,54.697235
+665,Jeruzalė Maumedžių g.,425,1,34.0,3/9,Jeruzalė,Maumedžių g.,Lithuania,25.269227,54.742649
+666,Lazdynai M.Mironaitės g.,649,2,46.0,5/6,Lazdynai,M.Mironaitės g.,Lithuania,25.209514,54.67514
+667,Senamiestis Raugyklos g.,450,1,14.28,3/6,Senamiestis,Raugyklos g.,Lithuania,25.2789843,54.6728266
+668,Naujamiestis M.K.Čiurlionio g.,500,1,20.0,5/5,Naujamiestis,M.K.Čiurlionio g.,Lithuania,25.264768,54.680141
+669,Žirmūnai Žirmūnų g.,430,2,49.0,1/9,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+670,Dvarčionys Stepono Kairio g.,250,1,13.0,1/3,Dvarčionys,Stepono Kairio g.,Lithuania,24.121971,55.106184
+671,Tarandė V.Smakausko g.,850,4,64.0,2/2,Tarandė,V.Smakausko g.,Lithuania,25.193177,54.749609
+672,Justiniškės Justiniškių g.,450,1,35.0,1/5,Justiniškės,Justiniškių g.,Lithuania,25.2221629,54.7175726
+673,Žvėrynas Stirnų g.,800,2,47.0,3/5,Žvėrynas,Stirnų g.,Lithuania,25.249828,54.695925
+674,Naujininkai Šaltkalvių g.,550,2,51.1,3/5,Naujininkai,Šaltkalvių g.,Lithuania,25.273605,54.661445
+675,Baltupiai Kalvarijų g.,600,2,60.38,7/8,Baltupiai,Kalvarijų g.,Lithuania,25.2801343,54.7282735
+676,Naujamiestis Eglių g.,690,2,45.0,3/5,Naujamiestis,Eglių g.,Lithuania,22.7434842,55.0843441
+677,Naujininkai Eišiškių pl.,560,2,35.0,4/5,Naujininkai,Eišiškių pl.,Lithuania,25.2709531,54.6518753
+678,Lazdynai Architektų g.,700,3,73.0,8/16,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+679,Baltupiai Vito Gerulaičio g.,650,2,35.0,3/5,Baltupiai,Vito Gerulaičio g.,Lithuania,24.121971,55.106184
+680,Antakalnis Duburio g.,600,2,51.0,2/4,Antakalnis,Duburio g.,Lithuania,25.3935161,54.7106133
+681,Santariškės Žaliųjų Ežerų g.,500,1,35.45,3/8,Santariškės,Žaliųjų Ežerų g.,Lithuania,24.121971,55.106184
+682,Šnipiškės Kalvarijų g.,400,1,28.0,3/9,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+683,Šnipiškės Žalgirio g.,750,2,48.0,6/9,Šnipiškės,Žalgirio g.,Lithuania,25.2668422,54.7044446
+684,Senamiestis Šiltadaržio g.,989,2,61.0,2/4,Senamiestis,Šiltadaržio g.,Lithuania,25.2916215,54.6843316
+685,Naujamiestis Naugarduko g.,800,2,53.0,2/3,Naujamiestis,Naugarduko g.,Lithuania,25.2753772,54.6767869
+686,Šnipiškės Vito Gerulaičio g.,999,3,50.0,4/6,Šnipiškės,Vito Gerulaičio g.,Lithuania,25.274536,54.715568
+687,Naujoji Vilnia Gerovės g.,430,1,34.44,2/5,Naujoji Vilnia,Gerovės g.,Lithuania,25.4212378,54.6906025
+688,Pilaitė Gilužio g.,600,2,52.88,4/6,Pilaitė,Gilužio g.,Lithuania,25.1793994,54.7019012
+689,Antakalnis Antakalnio g.,600,2,47.0,9/9,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+690,Justiniškės Taikos g.,500,2,50.0,3/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+691,Šeškinė Paberžės g.,400,1,35.64,1/5,Šeškinė,Paberžės g.,Lithuania,25.2545267,54.7162133
+692,Senamiestis Didžioji g.,800,4,111.3,3/3,Senamiestis,Didžioji g.,Lithuania,21.1334853,55.7105565
+693,Grigiškės Šviesos g.,300,1,36.0,2/5,Grigiškės,Šviesos g.,Lithuania,25.0965846,54.6689538
+694,Naujamiestis A.Vivulskio g.,650,1,27.0,7/8,Naujamiestis,A.Vivulskio g.,Lithuania,25.264768,54.680141
+695,Pilaitė Priegliaus g.,700,2,52.0,7/9,Pilaitė,Priegliaus g.,Lithuania,25.1867437,54.7119404
+696,Senamiestis Plačioji g.,1100,3,70.0,1/3,Senamiestis,Plačioji g.,Lithuania,25.2819488,54.6755253
+697,Užupis Manufaktūrų g.,900,2,54.0,3/5,Užupis,Manufaktūrų g.,Lithuania,24.121971,55.106184
+698,Antakalnis Antakalnio g.,850,3,64.54,4/4,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+699,Pilaitė J.Bretkūno g.,950,4,81.0,2/3,Pilaitė,J.Bretkūno g.,Lithuania,25.182761,54.706948
+700,Bajorai Bajorų kel.,600,2,42.5,3/4,Bajorai,Bajorų kel.,Lithuania,24.121971,55.106184
+701,Antakalnis Prano Morkūno g.,695,3,108.0,2/3,Antakalnis,Prano Morkūno g.,Lithuania,25.69133,55.09549
+702,Naujamiestis Vasario 16-osios g.,400,3,88.0,2/5,Naujamiestis,Vasario 16-osios g.,Lithuania,25.27265,54.6889838
+703,Senamiestis Sodų g.,650,2,28.0,4/4,Senamiestis,Sodų g.,Lithuania,23.2457351,54.420003
+704,Žvėrynas Vytauto g.,600,1,43.58,1/2,Žvėrynas,Vytauto g.,Lithuania,25.2561838,54.6929005
+705,Antakalnis Smėlio g.,650,2,47.0,3/5,Antakalnis,Smėlio g.,Lithuania,25.3118899,54.7033583
+706,Paupys Krivūlės g.,600,1,35.66,2/3,Paupys,Krivūlės g.,Lithuania,25.3040905,54.6778064
+707,Žvėrynas Pušų g.,200,2,18.0,1/3,Žvėrynas,Pušų g.,Lithuania,25.251407,54.6916327
+708,Senamiestis Žydų g.,410,1,35.0,3/3,Senamiestis,Žydų g.,Lithuania,25.2859945,54.6803991
+709,Antakalnis Vytauto Žalakevičiaus g.,750,2,52.4,4/4,Antakalnis,Vytauto Žalakevičiaus g.,Lithuania,25.783394,54.98187
+710,Baltupiai Baltupio g.,500,2,42.0,7/12,Baltupiai,Baltupio g.,Lithuania,25.265448944117644,54.73593325
+711,Žirmūnai Žvalgų g.,750,2,40.0,4/9,Žirmūnai,Žvalgų g.,Lithuania,25.2873676,54.7221601
+712,Pilaitė Tvankstos g.,480,1,29.0,3/6,Pilaitė,Tvankstos g.,Lithuania,25.1725776,54.7077174
+713,Fabijoniškės Neries g.,450,2,42.7,3/12,Fabijoniškės,Neries g.,Lithuania,25.246433,54.731814
+714,Baltupiai Vito Gerulaičio g.,700,2,36.0,4/6,Baltupiai,Vito Gerulaičio g.,Lithuania,24.121971,55.106184
+715,Pašilaičiai Gabijos g.,670,3,67.0,4/5,Pašilaičiai,Gabijos g.,Lithuania,25.2236397,54.7313146
+716,Naujininkai Sniego g.,449,1,16.0,1/3,Naujininkai,Sniego g.,Lithuania,25.2873226,54.6693197
+717,Pašilaičiai Perkūnkiemio g.,750,3,62.0,7/12,Pašilaičiai,Perkūnkiemio g.,Lithuania,25.219637,54.7387996
+718,Lazdynėliai Lietaus g.,650,2,42.0,1/4,Lazdynėliai,Lietaus g.,Lithuania,24.121971,55.106184
+719,Naujamiestis Gerosios Vilties g.,280,1,12.0,5/5,Naujamiestis,Gerosios Vilties g.,Lithuania,25.246189,54.669892
+720,Pašilaičiai Sviliškių g.,750,3,52.0,5/7,Pašilaičiai,Sviliškių g.,Lithuania,25.2162652,54.7321521
+721,Šnipiškės Kintų g.,850,2,37.0,1/4,Šnipiškės,Kintų g.,Lithuania,25.2771851,54.7025735
+722,Lazdynėliai Lazdynų g.,600,2,52.0,5/6,Lazdynėliai,Lazdynų g.,Lithuania,25.1927074,54.663469
+723,Naujininkai Zanavykų g.,500,2,32.7,5/5,Naujininkai,Zanavykų g.,Lithuania,25.2827237,54.6663736
+724,Naujamiestis Vytenio g.,520,1,28.0,2/4,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+725,Justiniškės Rygos g.,700,3,63.0,4/5,Justiniškės,Rygos g.,Lithuania,25.2219966,54.7167438
+726,Pašilaičiai Leičių g.,650,2,46.05,9/9,Pašilaičiai,Leičių g.,Lithuania,25.2243428,54.7367895
+727,Šnipiškės Kazliškių g.,500,1,27.0,5/5,Šnipiškės,Kazliškių g.,Lithuania,23.54404,54.78748
+728,Senamiestis Šv.Stepono g.,950,3,58.0,1/3,Senamiestis,Šv.Stepono g.,Lithuania,25.287693,54.683127
+729,Žirmūnai Žirmūnų g.,650,2,44.0,5/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+730,Lazdynėliai Šarmos g.,530,2,24.0,1/1,Lazdynėliai,Šarmos g.,Lithuania,24.121971,55.106184
+731,Pilaitė M.Mažvydo g.,720,2,46.36,6/9,Pilaitė,M.Mažvydo g.,Lithuania,25.182761,54.706948
+732,Senamiestis Subačiaus g.,600,1,20.35,5/5,Senamiestis,Subačiaus g.,Lithuania,25.2964286,54.6765474
+733,Pašilaičiai Dociškių g.,850,3,69.0,2/6,Pašilaičiai,Dociškių g.,Lithuania,25.2178342,54.7322779
+734,Žirmūnai Žirmūnų g.,500,1,36.0,6/12,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+735,Naujamiestis Savanorių pr.,550,2,45.0,5/5,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+736,Fabijoniškės Salomėjos Nėries g.,580,1,40.0,4/5,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+737,Senamiestis Pilies g.,1000,2,64.0,1/3,Senamiestis,Pilies g.,Lithuania,25.2891632,54.6820404
+738,Senamiestis Kauno g.,1550,3,122.0,2/3,Senamiestis,Kauno g.,Lithuania,23.8888732,54.8996202
+739,Senamiestis Trakų g.,800,3,68.0,1/2,Senamiestis,Trakų g.,Lithuania,25.2806889,54.6805537
+740,Antakalnis Gailestingųjų Seserų g.,575,1,40.0,2/3,Antakalnis,Gailestingųjų Seserų g.,Lithuania,25.69133,55.09549
+741,Naujamiestis S.Konarskio g.,620,2,50.0,8/9,Naujamiestis,S.Konarskio g.,Lithuania,25.264768,54.680141
+742,Šnipiškės A.Juozapavičiaus g.,1300,3,70.0,1/9,Šnipiškės,A.Juozapavičiaus g.,Lithuania,25.273601,54.697375
+743,Justiniškės Taikos g.,650,3,67.0,5/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+744,Šeškinė Gelvonų g.,700,3,67.0,5/5,Šeškinė,Gelvonų g.,Lithuania,25.2576099,54.7182332
+745,Žirmūnai Žirmūnų g.,599,2,51.29,3/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+746,Žirmūnai Žirmūnų g.,500,2,50.0,4/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+747,Markučiai Subačiaus g.,570,1,34.0,3/3,Markučiai,Subačiaus g.,Lithuania,25.3110856,54.6762657
+748,Šiaurės miestelis S.Žukausko g.,580,2,44.0,2/6,Šiaurės miestelis,S.Žukausko g.,Lithuania,24.121971,55.106184
+749,Fabijoniškės Fabijoniškių g.,480,3,67.0,5/5,Fabijoniškės,Fabijoniškių g.,Lithuania,25.2374099,54.7315103
+750,Fabijoniškės L.Giros g.,670,2,70.0,1/6,Fabijoniškės,L.Giros g.,Lithuania,25.246433,54.731814
+751,Antakalnis Debesijos g.,500,4,80.58,4/5,Antakalnis,Debesijos g.,Lithuania,25.3173065,54.7019831
+752,Žemieji Paneriai Vaduvos g.,400,1,40.0,3/5,Žemieji Paneriai,Vaduvos g.,Lithuania,25.2056134,54.6436165
+753,Santariškės Žaliųjų Ežerų g.,550,1,34.13,4/7,Santariškės,Žaliųjų Ežerų g.,Lithuania,24.121971,55.106184
+754,Lazdynėliai Jonažolių g.,660,3,62.0,2/7,Lazdynėliai,Jonažolių g.,Lithuania,25.2148876,54.666674
+755,Markučiai Subačiaus g.,420,1,17.0,5/9,Markučiai,Subačiaus g.,Lithuania,25.3110856,54.6762657
+756,Senamiestis Subačiaus g.,530,2,40.0,3/12,Senamiestis,Subačiaus g.,Lithuania,25.2964286,54.6765474
+757,Pašilaičiai Sviliškių g.,700,2,39.0,4/4,Pašilaičiai,Sviliškių g.,Lithuania,25.2162652,54.7321521
+758,Markučiai Paplaujos g.,900,2,69.0,2/4,Markučiai,Paplaujos g.,Lithuania,25.3150449,54.6793174
+759,Šnipiškės Rinktinės g.,600,3,64.0,5/9,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+760,Pilaitė Karaliaučiaus g.,450,1,30.24,3/5,Pilaitė,Karaliaučiaus g.,Lithuania,25.1759723,54.7135023
+761,Viršuliškės Viršuliškių g.,390,1,32.88,3/9,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+762,Senamiestis Gėlių g.,800,2,57.0,3/3,Senamiestis,Gėlių g.,Lithuania,23.2373962,54.4141552
+763,Pilaitė Papilėnų g.,175,3,12.0,5/5,Pilaitė,Papilėnų g.,Lithuania,25.1865258,54.7046867
+764,Šnipiškės Kalvarijų g.,430,1,33.0,5/5,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+765,Senamiestis Stiklių g.,750,2,70.0,2/3,Senamiestis,Stiklių g.,Lithuania,25.2874555,54.6792458
+766,Naujamiestis Savanorių pr.,599,2,40.0,3/3,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+767,Naujamiestis Vytenio g.,570,2,40.0,1/5,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+768,Senamiestis A.Smetonos g.,549,1,36.0,3/4,Senamiestis,A.Smetonos g.,Lithuania,25.287693,54.683127
+769,Pilaitė I.Simonaitytės g.,800,3,59.28,2/4,Pilaitė,I.Simonaitytės g.,Lithuania,25.182761,54.706948
+770,Pilaitė Karaliaučiaus g.,420,1,36.0,6/8,Pilaitė,Karaliaučiaus g.,Lithuania,25.1759723,54.7135023
+771,Baltupiai Trinapolio g.,200,1,19.0,11/12,Baltupiai,Trinapolio g.,Lithuania,25.2876241,54.7257187
+772,Santariškės Bajorų kel.,550,2,42.0,7/7,Santariškės,Bajorų kel.,Lithuania,25.2604085,54.7557984
+773,Bajorai Bajorų kel.,600,2,50.0,1/4,Bajorai,Bajorų kel.,Lithuania,24.121971,55.106184
+774,Naujamiestis S.Konarskio g.,420,2,50.0,1/5,Naujamiestis,S.Konarskio g.,Lithuania,25.264768,54.680141
+775,Naujamiestis Geležinio Vilko g.,290,1,16.0,1/5,Naujamiestis,Geležinio Vilko g.,Lithuania,25.263597,54.69795
+776,Užupis Paplaujos g.,800,2,60.0,2/4,Užupis,Paplaujos g.,Lithuania,24.121971,55.106184
+777,Šnipiškės Linkmenų g.,850,2,52.53,3/7,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+778,Naujamiestis T.Ševčenkos g.,1000,2,95.0,4/4,Naujamiestis,T.Ševčenkos g.,Lithuania,25.264768,54.680141
+779,Šnipiškės Linkmenų g.,600,1,35.0,6/7,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+780,Pilaitė Bitėnų g.,650,2,41.0,3/5,Pilaitė,Bitėnų g.,Lithuania,25.1735297,54.7032848
+781,Šeškinė Ukmergės g.,650,2,50.0,3/9,Šeškinė,Ukmergės g.,Lithuania,25.2521677,54.7097664
+782,Šnipiškės Sporto g.,850,2,65.0,4/6,Šnipiškės,Sporto g.,Lithuania,25.273601,54.697375
+783,Naujamiestis Mindaugo g.,890,2,41.0,5/5,Naujamiestis,Mindaugo g.,Lithuania,25.2738379,54.6770904
+784,Pašilaičiai Leičių g.,600,2,45.53,7/9,Pašilaičiai,Leičių g.,Lithuania,25.2243428,54.7367895
+785,Žvėrynas Stumbrų g.,300,3,70.0,1/1,Žvėrynas,Stumbrų g.,Lithuania,25.2538475,54.6997206
+786,Lazdynėliai Jonažolių g.,650,2,57.0,9/9,Lazdynėliai,Jonažolių g.,Lithuania,25.2148876,54.666674
+787,Pašilaičiai Žemynos g.,390,1,37.0,2/9,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+788,Burbiškės Burbiškių g.,650,2,42.95,1/3,Burbiškės,Burbiškių g.,Lithuania,25.2554692,54.6522728
+789,Užupis Užupio g.,1800,3,97.0,1/3,Užupis,Užupio g.,Lithuania,25.2923965,54.6805074
+790,Jeruzalė Kviečių g.,930,3,89.0,3/9,Jeruzalė,Kviečių g.,Lithuania,25.2734687,54.7423179
+791,Senamiestis Sodų g.,750,2,34.0,2/3,Senamiestis,Sodų g.,Lithuania,23.2457351,54.420003
+792,Karoliniškės Sausio 13-osios g.,599,2,38.0,2/7,Karoliniškės,Sausio 13-osios g.,Lithuania,26.471776,55.626535
+793,Karoliniškės Laisvės pr.,600,2,49.5,7/9,Karoliniškės,Laisvės pr.,Lithuania,25.2173677,54.6928201
+794,Antakalnis Antakalnio g.,750,2,78.0,9/13,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+795,Naujamiestis Gerosios Vilties g.,600,2,48.0,4/5,Naujamiestis,Gerosios Vilties g.,Lithuania,25.246189,54.669892
+796,Šiaurės miestelis S.Žukausko g.,950,3,86.0,6/7,Šiaurės miestelis,S.Žukausko g.,Lithuania,24.121971,55.106184
+797,Antakalnis J.Biliūno g.,730,2,80.0,1/3,Antakalnis,J.Biliūno g.,Lithuania,25.312009,54.705407
+798,Žvėrynas Birutės g.,1400,3,94.0,1/2,Žvėrynas,Birutės g.,Lithuania,25.2405189,54.6983927
+799,Bajorai Fizikų g.,650,2,43.0,7/7,Bajorai,Fizikų g.,Lithuania,24.121971,55.106184
+800,Šnipiškės Krokuvos g.,500,1,40.0,9/12,Šnipiškės,Krokuvos g.,Lithuania,25.285138,54.6966918
+801,Baltupiai Vito Gerulaičio g.,650,1,28.0,2/5,Baltupiai,Vito Gerulaičio g.,Lithuania,24.121971,55.106184
+802,Markučiai Pakraščio g.,830,2,48.0,1/7,Markučiai,Pakraščio g.,Lithuania,25.319347221199315,54.67545065
+803,Užupis Polocko g.,1300,2,64.0,1/1,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+804,Užupis Polocko g.,950,2,38.0,2/3,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+805,Paupys Paupio g.,700,2,40.0,1/2,Paupys,Paupio g.,Lithuania,25.3025487,54.6785287
+806,Baltupiai Juozo Balčikonio g.,670,2,50.0,4/4,Baltupiai,Juozo Balčikonio g.,Lithuania,24.121971,55.106184
+807,Šnipiškės Rinktinės g.,800,1,35.0,7/7,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+808,Naujamiestis Smolensko g.,750,3,57.0,3/5,Naujamiestis,Smolensko g.,Lithuania,25.2585443,54.6749755
+809,Senamiestis Vokiečių g.,700,1,20.0,3/4,Senamiestis,Vokiečių g.,Lithuania,25.2840381,54.6789287
+810,Šeškinė Ukmergės g.,550,2,52.0,2/16,Šeškinė,Ukmergės g.,Lithuania,25.2521677,54.7097664
+811,Bajorai Bajorų kel.,650,2,52.0,4/4,Bajorai,Bajorų kel.,Lithuania,24.121971,55.106184
+812,Naujamiestis Algirdo g.,750,2,45.0,2/3,Naujamiestis,Algirdo g.,Lithuania,25.2707414,54.6781128
+813,Senamiestis Šv.Ignoto g.,1000,4,87.0,2/2,Senamiestis,Šv.Ignoto g.,Lithuania,25.287693,54.683127
+814,Senamiestis Vokiečių g.,1600,4,80.0,5/5,Senamiestis,Vokiečių g.,Lithuania,25.2840381,54.6789287
+815,Naujininkai Garvežių g.,340,1,36.0,9/9,Naujininkai,Garvežių g.,Lithuania,25.2662655,54.6637216
+816,Antakalnis M.K.Paco g.,500,1,45.6,4/4,Antakalnis,M.K.Paco g.,Lithuania,25.3053738,54.6931511
+817,Šnipiškės Daugėliškio g.,560,1,30.0,2/10,Šnipiškės,Daugėliškio g.,Lithuania,25.2725536,54.7004606
+818,Visoriai Visorių g.,900,2,50.0,6/6,Visoriai,Visorių g.,Lithuania,25.2500488,54.7434059
+819,Jeruzalė Rugių g.,570,2,41.0,3/5,Jeruzalė,Rugių g.,Lithuania,25.2763332,54.7409115
+820,Naujamiestis M.K.Čiurlionio g.,270,1,18.0,2/5,Naujamiestis,M.K.Čiurlionio g.,Lithuania,25.264768,54.680141
+821,Pilaitė Tvankstos g.,700,2,43.0,1/4,Pilaitė,Tvankstos g.,Lithuania,25.1725776,54.7077174
+822,Šnipiškės Kalvarijų g.,500,2,50.0,3/5,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+823,Šnipiškės Linkmenų g.,750,2,43.62,5/5,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+824,Saulėtekis Pragiedrulių Sodų 6-oji g.,260,1,17.0,2/3,Saulėtekis,Pragiedrulių Sodų 6-oji g.,Lithuania,23.727445,54.093939
+825,Naujamiestis Vingrių g.,900,2,45.0,2/4,Naujamiestis,Vingrių g.,Lithuania,25.277278,54.678112
+826,Naujininkai Zanavykų g.,370,1,33.0,3/5,Naujininkai,Zanavykų g.,Lithuania,25.2827237,54.6663736
+827,Markučiai Subačiaus g.,320,1,12.6,4/5,Markučiai,Subačiaus g.,Lithuania,25.3110856,54.6762657
+828,Paupys Aukštaičių g.,1200,2,40.0,4/4,Paupys,Aukštaičių g.,Lithuania,25.3032805,54.6786994
+829,Šnipiškės Šatrijos g.,750,2,43.18,4/6,Šnipiškės,Šatrijos g.,Lithuania,25.2724914,54.7019511
+830,Visoriai Visorių g.,700,2,58.0,2/6,Visoriai,Visorių g.,Lithuania,25.2500488,54.7434059
+831,Baltupiai Baltupio g.,350,1,25.0,9/12,Baltupiai,Baltupio g.,Lithuania,25.265448944117644,54.73593325
+832,Pilaitė I.Kanto al.,400,1,36.0,9/9,Pilaitė,I.Kanto al.,Lithuania,25.176304,54.70432
+833,Filaretai Šarkų g.,320,1,29.0,2/2,Filaretai,Šarkų g.,Lithuania,25.319121,54.685535
+834,Šnipiškės Kalvarijų g.,230,1,12.0,5/12,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+835,Salininkai Gervėbalės g.,475,1,30.0,1/2,Salininkai,Gervėbalės g.,Lithuania,25.2679577,54.6084244
+836,Antakalnis Antakalnio g.,450,1,30.0,3/5,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+837,Antakalnis Antakalnio g.,600,2,44.0,3/5,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+838,Antakalnis Antakalnio g.,620,2,42.47,4/5,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+839,Naujamiestis Gedimino pr.,1250,2,60.0,4/5,Naujamiestis,Gedimino pr.,Lithuania,25.26183902135083,54.6912607
+840,Pilaitė Zujūnų g.,200,5,46.0,2/2,Pilaitė,Zujūnų g.,Lithuania,25.182761,54.706948
+841,Fabijoniškės S.Stanevičiaus g.,495,1,36.0,2/5,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+842,Markučiai Kaukysos g.,850,2,45.0,4/6,Markučiai,Kaukysos g.,Lithuania,25.3180472,54.6763855
+843,Lazdynėliai Šerkšno g.,620,2,52.0,1/3,Lazdynėliai,Šerkšno g.,Lithuania,24.121971,55.106184
+844,Fabijoniškės S.Stanevičiaus g.,600,3,66.0,7/10,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+845,Pilaitė Priegliaus g.,660,2,50.0,3/6,Pilaitė,Priegliaus g.,Lithuania,25.1867437,54.7119404
+846,Pilaitė Karaliaučiaus g.,460,1,43.0,3/5,Pilaitė,Karaliaučiaus g.,Lithuania,25.1759723,54.7135023
+847,Senamiestis Jogailos g.,650,2,44.0,1/4,Senamiestis,Jogailos g.,Lithuania,25.2778908,54.6850306
+848,Naujamiestis Smolensko g.,239,1,20.0,5/5,Naujamiestis,Smolensko g.,Lithuania,25.2585443,54.6749755
+849,Žvėrynas Pieninės g.,800,2,53.5,4/6,Žvėrynas,Pieninės g.,Lithuania,25.2555644,54.7024374
+850,Bajorai Jono Kairiūkščio g.,600,2,39.0,2/9,Bajorai,Jono Kairiūkščio g.,Lithuania,21.222038,55.871281
+851,Senamiestis Geležinkelio g.,300,9,30.0,4/5,Senamiestis,Geležinkelio g.,Lithuania,25.2894009,54.6719727
+852,Senamiestis Rinktinės g.,900,2,46.0,1/7,Senamiestis,Rinktinės g.,Lithuania,22.250943,55.983929
+853,Kalnėnai Gurių g.,650,2,52.0,1/3,Kalnėnai,Gurių g.,Lithuania,25.3313597,54.6545836
+854,Žirmūnai Apkasų g.,199,1,20.0,5/5,Žirmūnai,Apkasų g.,Lithuania,25.2883611,54.7036477
+855,Užupis Filaretų g.,800,2,63.0,8/8,Užupis,Filaretų g.,Lithuania,25.3035011,54.6837083
+856,Žvėrynas Stirnų g.,850,2,46.0,5/5,Žvėrynas,Stirnų g.,Lithuania,25.249828,54.695925
+857,Pilaitė Gilužio g.,550,1,30.0,1/3,Pilaitė,Gilužio g.,Lithuania,25.1793994,54.7019012
+858,Santariškės Santariškių g.,625,2,43.0,3/3,Santariškės,Santariškių g.,Lithuania,25.2803027,54.7528454
+859,Naujamiestis A.Juozapavičiaus g.,850,2,75.0,5/10,Naujamiestis,A.Juozapavičiaus g.,Lithuania,25.264768,54.680141
+860,Senamiestis Odminių g.,1199,3,69.0,3/3,Senamiestis,Odminių g.,Lithuania,25.283398,54.6849125
+861,Šnipiškės Krokuvos g.,650,2,43.0,4/4,Šnipiškės,Krokuvos g.,Lithuania,25.285138,54.6966918
+862,Baltupiai Baltupio g.,900,3,53.0,1/7,Baltupiai,Baltupio g.,Lithuania,25.265448944117644,54.73593325
+863,Baltupiai Ozo g.,600,1,29.0,1/8,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+864,Naujamiestis T.Ševčenkos g.,670,2,32.55,5/5,Naujamiestis,T.Ševčenkos g.,Lithuania,25.264768,54.680141
+865,Baltupiai Jurgio Lebedžio g.,750,2,44.0,1/5,Baltupiai,Jurgio Lebedžio g.,Lithuania,24.121971,55.106184
+866,Naujininkai Eišiškių pl.,560,1,32.0,3/5,Naujininkai,Eišiškių pl.,Lithuania,25.2709531,54.6518753
+867,Šnipiškės Šatrijos g.,750,2,43.26,2/6,Šnipiškės,Šatrijos g.,Lithuania,25.2724914,54.7019511
+868,Senamiestis Šaltinių g.,900,2,45.0,3/3,Senamiestis,Šaltinių g.,Lithuania,23.9626662,54.0248461
+869,Viršuliškės Spaudos g.,800,3,57.0,10/16,Viršuliškės,Spaudos g.,Lithuania,25.2129169,54.7009093
+870,Šnipiškės Rinktinės g.,620,2,54.0,3/4,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+871,Senamiestis Tilto g.,600,1,24.0,2/3,Senamiestis,Tilto g.,Lithuania,25.2817712,54.6892593
+872,Antakalnis Žolyno g.,500,2,49.99,3/5,Antakalnis,Žolyno g.,Lithuania,25.31507,54.7117059
+873,Naujininkai Pelesos g.,570,2,44.5,3/5,Naujininkai,Pelesos g.,Lithuania,25.2738665,54.6659553
+874,Baltupiai Ozo g.,770,2,47.0,5/8,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+875,Užupis Krivių g.,850,2,69.0,2/4,Užupis,Krivių g.,Lithuania,25.301823076879643,54.68413115
+876,Senamiestis Savičiaus g.,1250,2,40.0,1/3,Senamiestis,Savičiaus g.,Lithuania,25.2897244,54.6793386
+877,Justiniškės Justiniškių g.,450,1,35.0,7/9,Justiniškės,Justiniškių g.,Lithuania,25.2221629,54.7175726
+878,Naujininkai Zanavykų g.,490,1,29.57,4/4,Naujininkai,Zanavykų g.,Lithuania,25.2827237,54.6663736
+879,Pilaitė Karaliaučiaus g.,480,1,30.3,5/5,Pilaitė,Karaliaučiaus g.,Lithuania,25.1759723,54.7135023
+880,Šnipiškės Rinktinės g.,180,1,15.0,3/9,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+881,Senamiestis Kruopų g.,700,3,68.0,2/3,Senamiestis,Kruopų g.,Lithuania,25.2799354,54.6751868
+882,Naujoji Vilnia Dūmų g.,400,2,28.0,2/2,Naujoji Vilnia,Dūmų g.,Lithuania,25.4022261,54.693305
+883,Antakalnis P.Vileišio g.,199,1,20.0,1/5,Antakalnis,P.Vileišio g.,Lithuania,25.311821157774403,54.71195935
+884,Šnipiškės Kalvarijų g.,400,1,25.0,1/9,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+885,Pašilaičiai Eitminų g.,650,2,52.0,2/9,Pašilaičiai,Eitminų g.,Lithuania,25.2206319,54.7411864
+886,Žirmūnai Piromonto g.,520,1,30.0,2/6,Žirmūnai,Piromonto g.,Lithuania,25.2922688,54.7024694
+887,Žvėrynas Studentų g.,490,1,18.0,2/5,Žvėrynas,Studentų g.,Lithuania,25.2575185,54.6955659
+888,Visoriai Fizikų g.,550,1,36.28,2/3,Visoriai,Fizikų g.,Lithuania,25.2659092,54.7547466
+889,Viršuliškės Viršuliškių g.,800,2,44.0,10/11,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+890,Lazdynėliai Lazdynėlių g.,650,2,42.0,3/5,Lazdynėliai,Lazdynėlių g.,Lithuania,25.1927074,54.663469
+891,Pašilaičiai Gabijos g.,450,2,50.0,3/5,Pašilaičiai,Gabijos g.,Lithuania,25.2236397,54.7313146
+892,Šnipiškės Kernavės g.,800,2,42.0,4/8,Šnipiškės,Kernavės g.,Lithuania,25.2770623,54.7121167
+893,Lazdynai Jonažolių g.,649,2,58.0,4/6,Lazdynai,Jonažolių g.,Lithuania,25.2148876,54.666674
+894,Pašilaičiai Pašilaičių g.,500,2,52.0,3/9,Pašilaičiai,Pašilaičių g.,Lithuania,25.2316746,54.7314012
+895,Paupys Paupio g.,800,2,32.5,1/4,Paupys,Paupio g.,Lithuania,25.3025487,54.6785287
+896,Šnipiškės Herkaus Manto g.,420,1,18.0,3/4,Šnipiškės,Herkaus Manto g.,Lithuania,25.269068,54.699929
+897,Viršuliškės Viršuliškių g.,700,2,46.0,11/11,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+898,Senamiestis A.Vienuolio g.,950,2,60.0,4/6,Senamiestis,A.Vienuolio g.,Lithuania,25.287693,54.683127
+899,Jeruzalė Rugių g.,550,2,50.0,5/5,Jeruzalė,Rugių g.,Lithuania,25.2763332,54.7409115
+900,Pašilaičiai Žemynos g.,550,3,67.0,6/9,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+901,Pašilaičiai Jurgio Baltrušaičio g.,500,2,52.0,3/10,Pašilaičiai,Jurgio Baltrušaičio g.,Lithuania,25.228239,54.711003
+902,Antakalnis Antakalnio g.,400,1,30.0,6/9,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+903,Lazdynai Architektų g.,580,2,47.0,2/5,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+904,Žirmūnai Žygio g.,990,3,65.0,2/4,Žirmūnai,Žygio g.,Lithuania,25.2941771,54.7099347
+905,Naujamiestis Šaltinių g.,850,2,55.44,1/4,Naujamiestis,Šaltinių g.,Lithuania,25.2758412,54.675117
+906,Antakalnis B.Sruogos g.,230,1,25.0,3/3,Antakalnis,B.Sruogos g.,Lithuania,25.69133,55.09549
+907,Naujamiestis Žemaitės g.,390,1,27.0,8/9,Naujamiestis,Žemaitės g.,Lithuania,25.2588027,54.6703567
+908,Justiniškės Justiniškių g.,490,2,50.29,1/5,Justiniškės,Justiniškių g.,Lithuania,25.2221629,54.7175726
+909,Lazdynai Erfurto g.,179,1,20.0,5/5,Lazdynai,Erfurto g.,Lithuania,25.2027702,54.6708027
+910,Antakalnis Antakalnio g.,480,2,42.0,3/4,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+911,Markučiai Subačiaus g.,1000,3,62.04,2/3,Markučiai,Subačiaus g.,Lithuania,25.3110856,54.6762657
+912,Naujamiestis M.K.Čiurlionio g.,300,1,18.0,3/5,Naujamiestis,M.K.Čiurlionio g.,Lithuania,25.264768,54.680141
+913,Žvėrynas Kęstučio g.,630,2,50.0,2/2,Žvėrynas,Kęstučio g.,Lithuania,25.25119,54.6924339
+914,Viršuliškės Viršuliškių g.,750,2,50.0,4/7,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+915,Naujoji Vilnia Pramonės g.,320,1,20.0,3/4,Naujoji Vilnia,Pramonės g.,Lithuania,25.440378,54.6952323
+916,Šnipiškės Juozo Balčikonio g.,700,2,51.0,2/5,Šnipiškės,Juozo Balčikonio g.,Lithuania,25.245806,54.669575
+917,Jeruzalė Bitininkų g.,490,1,48.02,2/9,Jeruzalė,Bitininkų g.,Lithuania,25.2720408,54.7412661
+918,Jeruzalė Jeruzalės g.,650,3,55.0,2/6,Jeruzalė,Jeruzalės g.,Lithuania,25.2778893,54.7441863
+919,Pašilaičiai Ukmergės g.,850,3,88.6,4/6,Pašilaičiai,Ukmergės g.,Lithuania,25.2256323,54.7405473
+920,Karoliniškės Virginijaus Druskio g.,590,2,47.0,4/5,Karoliniškės,Virginijaus Druskio g.,Lithuania,25.202447,54.685872
+921,Lazdynai Erfurto g.,750,3,63.0,3/5,Lazdynai,Erfurto g.,Lithuania,25.2027702,54.6708027
+922,Markučiai Manufaktūrų g.,900,1,55.0,1/5,Markučiai,Manufaktūrų g.,Lithuania,25.3207304,54.6768792
+923,Šnipiškės Kalvarijų g.,650,2,54.4,5/9,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+924,Pašilaičiai Perkūnkiemio g.,650,2,49.0,8/8,Pašilaičiai,Perkūnkiemio g.,Lithuania,25.219637,54.7387996
+925,Fabijoniškės S.Stanevičiaus g.,580,2,41.0,4/5,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+926,Šeškinė Čiobiškio g.,570,2,52.0,3/12,Šeškinė,Čiobiškio g.,Lithuania,25.2356422,54.7147111
+927,Pilaitė I.Kanto al.,400,1,36.0,1/5,Pilaitė,I.Kanto al.,Lithuania,25.176304,54.70432
+928,Baltupiai Juozo Balčikonio g.,765,2,45.0,3/5,Baltupiai,Juozo Balčikonio g.,Lithuania,24.121971,55.106184
+929,Fabijoniškės S.Stanevičiaus g.,590,2,50.0,6/9,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+930,Rasos Povilo Višinskio g.,750,2,50.0,3/4,Rasos,Povilo Višinskio g.,Lithuania,24.121971,55.106184
+931,Markučiai Povilo Višinskio g.,750,2,50.0,3/4,Markučiai,Povilo Višinskio g.,Lithuania,25.319156,54.674879
+932,Grigiškės Kovo 11-osios g.,350,1,33.0,8/9,Grigiškės,Kovo 11-osios g.,Lithuania,25.09617281287684,54.66914785
+933,Verkiai Skalvos g.,700,4,83.0,1/2,Verkiai,Skalvos g.,Lithuania,25.293707,54.751299
+934,Šiaurės miestelis Apkasų g.,500,1,26.0,3/5,Šiaurės miestelis,Apkasų g.,Lithuania,24.121971,55.106184
+935,Lazdynėliai Jonažolių g.,570,2,55.0,2/9,Lazdynėliai,Jonažolių g.,Lithuania,25.2148876,54.666674
+936,Fabijoniškės Visorių g.,650,3,76.0,4/5,Fabijoniškės,Visorių g.,Lithuania,25.25746,54.7385094
+937,Naujoji Vilnia Pramonės g.,290,1,20.0,5/8,Naujoji Vilnia,Pramonės g.,Lithuania,25.440378,54.6952323
+938,Šeškinė Ukmergės g.,350,1,40.0,1/5,Šeškinė,Ukmergės g.,Lithuania,25.2521677,54.7097664
+939,Naujamiestis Kauno g.,750,2,45.0,8/12,Naujamiestis,Kauno g.,Lithuania,25.2626184,54.6705058
+940,Antakalnis P.Vileišio g.,400,1,20.0,2/4,Antakalnis,P.Vileišio g.,Lithuania,25.311821157774403,54.71195935
+941,Verkiai Verkių g.,950,2,45.0,3/8,Verkiai,Verkių g.,Lithuania,25.3467284,54.7614831
+942,Naujininkai Geologų g.,350,1,23.0,2/2,Naujininkai,Geologų g.,Lithuania,25.273563,54.662677
+943,Šiaurės miestelis V.Nagevičiaus g.,700,2,53.56,5/5,Šiaurės miestelis,V.Nagevičiaus g.,Lithuania,24.121971,55.106184
+944,Karoliniškės Algimanto Petro Kavoliuko g.,600,2,41.0,8/9,Karoliniškės,Algimanto Petro Kavoliuko g.,Lithuania,25.21827851645063,54.6953297
+945,Šeškinė Fabijoniškių g.,599,2,33.0,8/11,Šeškinė,Fabijoniškių g.,Lithuania,25.2499374,54.7202018
+946,Pilaitė I.Simonaitytės g.,790,3,63.0,2/4,Pilaitė,I.Simonaitytės g.,Lithuania,25.182761,54.706948
+947,Naujamiestis Skroblų g.,550,2,50.4,1/5,Naujamiestis,Skroblų g.,Lithuania,25.254835,54.670731
+948,Antakalnis Tverečiaus g.,200,1,14.0,2/5,Antakalnis,Tverečiaus g.,Lithuania,25.3189678,54.7164695
+949,Lazdynai Erfurto g.,460,2,47.08,4/5,Lazdynai,Erfurto g.,Lithuania,25.2027702,54.6708027
+950,Viršuliškės Viršuliškių g.,600,3,65.0,9/9,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+951,Šnipiškės Sporto g.,750,2,50.0,3/5,Šnipiškės,Sporto g.,Lithuania,25.273601,54.697375
+952,Šiaurės miestelis Žirmūnų g.,580,1,30.0,4/5,Šiaurės miestelis,Žirmūnų g.,Lithuania,25.3045857,54.71086
+953,Senamiestis Trakų g.,1600,4,100.0,3/3,Senamiestis,Trakų g.,Lithuania,25.2806889,54.6805537
+954,Visoriai Visorių g.,780,2,60.0,4/6,Visoriai,Visorių g.,Lithuania,25.2500488,54.7434059
+955,Antakalnis Žolyno g.,420,1,18.0,3/5,Antakalnis,Žolyno g.,Lithuania,25.31507,54.7117059
+956,Pašilaičiai Jurgio Baltrušaičio g.,570,2,57.0,2/10,Pašilaičiai,Jurgio Baltrušaičio g.,Lithuania,25.228239,54.711003
+957,Užupis Polocko g.,1600,3,75.0,0/4,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+958,Naujamiestis S.Konarskio g.,750,3,62.0,5/5,Naujamiestis,S.Konarskio g.,Lithuania,25.264768,54.680141
+959,Senamiestis Šv.Stepono g.,700,2,60.0,1/5,Senamiestis,Šv.Stepono g.,Lithuania,25.287693,54.683127
+960,Visoriai Visorių g.,550,2,30.23,3/5,Visoriai,Visorių g.,Lithuania,25.2500488,54.7434059
+961,Fabijoniškės Liudviko Zamenhofo g.,550,2,66.0,5/6,Fabijoniškės,Liudviko Zamenhofo g.,Lithuania,25.232637,54.739646
+962,Karoliniškės Vido Maciulevičiaus g.,570,2,41.0,3/3,Karoliniškės,Vido Maciulevičiaus g.,Lithuania,25.205018,54.688955
+963,Žirmūnai Žirmūnų g.,199,1,20.0,8/10,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+964,Justiniškės Taikos g.,450,2,50.0,3/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+965,Užupis Olandų g.,550,2,45.0,1/5,Užupis,Olandų g.,Lithuania,25.3049778,54.6914821
+966,Naujininkai Pelesos g.,120,1,10.5,1/5,Naujininkai,Pelesos g.,Lithuania,25.2738665,54.6659553
+967,Karoliniškės Virginijaus Druskio g.,750,3,63.0,5/9,Karoliniškės,Virginijaus Druskio g.,Lithuania,25.202447,54.685872
+968,Antakalnis Antakalnio g.,500,2,42.0,4/5,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+969,Užupis Filaretų g.,700,2,47.0,2/3,Užupis,Filaretų g.,Lithuania,25.3035011,54.6837083
+970,Fabijoniškės Fabijoniškių g.,370,1,40.0,4/5,Fabijoniškės,Fabijoniškių g.,Lithuania,25.2374099,54.7315103
+971,Baltupiai Jurgio Lebedžio g.,620,2,32.0,2/5,Baltupiai,Jurgio Lebedžio g.,Lithuania,24.121971,55.106184
+972,Lazdynai Lazdynų g.,630,2,47.0,2/6,Lazdynai,Lazdynų g.,Lithuania,25.2164788,54.6787988
+973,Šnipiškės Rinktinės g.,560,1,33.0,3/9,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+974,Pašilaičiai Sviliškių g.,600,2,54.0,3/5,Pašilaičiai,Sviliškių g.,Lithuania,25.2162652,54.7321521
+975,Žirmūnai Žirmūnų g.,600,2,48.0,1/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+976,Antakalnis P.Vileišio g.,700,3,50.0,1/4,Antakalnis,P.Vileišio g.,Lithuania,25.311821157774403,54.71195935
+977,Santariškės Santariškių g.,720,3,72.21,2/3,Santariškės,Santariškių g.,Lithuania,25.2803027,54.7528454
+978,Justiniškės Taikos g.,550,2,53.0,8/9,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+979,Naujininkai Dariaus ir Girėno g.,350,1,26.0,2/9,Naujininkai,Dariaus ir Girėno g.,Lithuania,25.2730874,54.6608848
+980,Antakalnis Vytauto Žalakevičiaus g.,750,2,51.0,1/6,Antakalnis,Vytauto Žalakevičiaus g.,Lithuania,25.783394,54.98187
+981,Šeškinė Paberžės g.,550,3,67.0,2/5,Šeškinė,Paberžės g.,Lithuania,25.2545267,54.7162133
+982,Šnipiškės Rinktinės g.,1200,3,55.0,2/7,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+983,Naujamiestis M.K.Čiurlionio g.,1000,4,100.0,2/5,Naujamiestis,M.K.Čiurlionio g.,Lithuania,25.264768,54.680141
+984,Naujamiestis Gedimino pr.,1200,3,70.0,3/5,Naujamiestis,Gedimino pr.,Lithuania,25.26183902135083,54.6912607
+985,Antakalnis Tverečiaus g.,340,1,20.0,2/2,Antakalnis,Tverečiaus g.,Lithuania,25.3189678,54.7164695
+986,Lazdynėliai Lazdynėlių g.,650,1,30.0,4/4,Lazdynėliai,Lazdynėlių g.,Lithuania,25.1927074,54.663469
+987,Antakalnis V.Grybo g.,300,1,18.0,2/5,Antakalnis,V.Grybo g.,Lithuania,25.312009,54.705407
+988,Viršuliškės Viršuliškių g.,550,2,22.0,2/7,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+989,Lazdynai Erfurto g.,650,3,65.0,3/5,Lazdynai,Erfurto g.,Lithuania,25.2027702,54.6708027
+990,Naujamiestis Aludarių g.,1050,2,50.07,4/5,Naujamiestis,Aludarių g.,Lithuania,25.2659857,54.6866673
+991,Šeškinė Šeškinės g.,449,2,49.0,7/13,Šeškinė,Šeškinės g.,Lithuania,25.242989,54.7161316
+992,Lazdynai Erfurto g.,650,2,49.18,9/9,Lazdynai,Erfurto g.,Lithuania,25.2027702,54.6708027
+993,Naujininkai Darbininkų g.,320,1,18.0,3/4,Naujininkai,Darbininkų g.,Lithuania,25.2708871,54.6612582
+994,Lazdynėliai Lazdynėlių g.,650,2,42.5,4/4,Lazdynėliai,Lazdynėlių g.,Lithuania,25.1927074,54.663469
+995,Paupys Aukštaičių g.,1050,2,37.5,4/6,Paupys,Aukštaičių g.,Lithuania,25.3032805,54.6786994
+996,Žvėrynas Sakalų g.,385,1,15.0,6/6,Žvėrynas,Sakalų g.,Lithuania,25.251978,54.6963621
+997,Senamiestis Pilies g.,1050,2,41.0,2/3,Senamiestis,Pilies g.,Lithuania,25.2891632,54.6820404
+998,Šnipiškės Herkaus Manto g.,520,1,29.0,2/4,Šnipiškės,Herkaus Manto g.,Lithuania,25.269068,54.699929
+999,Šnipiškės Herkaus Manto g.,520,2,29.0,2/4,Šnipiškės,Herkaus Manto g.,Lithuania,25.269068,54.699929
+1000,Pašilaičiai Virbeliškių g.,1200,4,89.0,1/9,Pašilaičiai,Virbeliškių g.,Lithuania,25.2176973,54.7293428
+1001,Naujamiestis Kauno g.,320,1,17.0,4/5,Naujamiestis,Kauno g.,Lithuania,25.2626184,54.6705058
+1002,Baltupiai Baltupio g.,490,1,28.0,3/7,Baltupiai,Baltupio g.,Lithuania,25.265448944117644,54.73593325
+1003,Paneriai Juodšilių g.,500,2,50.47,1/2,Paneriai,Juodšilių g.,Lithuania,25.1856659,54.6250613
+1004,Naujamiestis Savanorių pr.,400,1,30.0,3/9,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+1005,Žirmūnai Žirmūnų g.,450,1,21.5,6/9,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1006,Karoliniškės Algimanto Petro Kavoliuko g.,650,3,64.0,8/9,Karoliniškės,Algimanto Petro Kavoliuko g.,Lithuania,25.21827851645063,54.6953297
+1007,Antakalnis Smėlio g.,560,1,28.69,4/4,Antakalnis,Smėlio g.,Lithuania,25.3118899,54.7033583
+1008,Pilaitė Vydūno g.,690,3,64.0,3/7,Pilaitė,Vydūno g.,Lithuania,25.18829606875669,54.7071226
+1009,Naujamiestis Panerių g.,550,1,26.0,4/4,Naujamiestis,Panerių g.,Lithuania,25.2611411,54.6675994
+1010,Pašilaičiai Žemynos g.,370,1,35.0,1/9,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+1011,Fabijoniškės Fabijoniškių g.,550,2,58.0,3/5,Fabijoniškės,Fabijoniškių g.,Lithuania,25.2374099,54.7315103
+1012,Naujininkai Dzūkų g.,390,1,15.6,4/5,Naujininkai,Dzūkų g.,Lithuania,25.2830471,54.6640112
+1013,Senamiestis Tilto g.,750,2,30.0,1/2,Senamiestis,Tilto g.,Lithuania,25.2817712,54.6892593
+1014,Žirmūnai Žirmūnų g.,780,3,60.93,4/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1015,Žirmūnai Kalvarijų g.,550,2,26.34,3/3,Žirmūnai,Kalvarijų g.,Lithuania,25.2869142,54.7153427
+1016,Šiaurės miestelis S.Žukausko g.,610,2,45.0,4/5,Šiaurės miestelis,S.Žukausko g.,Lithuania,24.121971,55.106184
+1017,Pilaitė Bitėnų g.,630,2,50.0,4/5,Pilaitė,Bitėnų g.,Lithuania,25.1735297,54.7032848
+1018,Pilaitė Įsruties g.,390,1,36.0,3/5,Pilaitė,Įsruties g.,Lithuania,25.1820966,54.7123036
+1019,Šiaurės miestelis S.Žukausko g.,630,2,54.49,1/5,Šiaurės miestelis,S.Žukausko g.,Lithuania,24.121971,55.106184
+1020,Žirmūnai Minties g.,750,3,62.0,2/5,Žirmūnai,Minties g.,Lithuania,25.3047908,54.7056893
+1021,Šnipiškės Giedraičių g.,570,2,30.0,3/9,Šnipiškės,Giedraičių g.,Lithuania,25.278242,54.6973462
+1022,Naujamiestis Švitrigailos g.,1150,3,70.0,2/6,Naujamiestis,Švitrigailos g.,Lithuania,25.2704693,54.6692933
+1023,Naujoji Vilnia Linksmoji g.,350,1,33.0,2/5,Naujoji Vilnia,Linksmoji g.,Lithuania,23.82566,54.24385
+1024,Naujamiestis Mindaugo g.,850,2,55.0,6/6,Naujamiestis,Mindaugo g.,Lithuania,25.2738379,54.6770904
+1025,Šiaurės miestelis S.Žukausko g.,650,2,53.61,2/9,Šiaurės miestelis,S.Žukausko g.,Lithuania,24.121971,55.106184
+1026,Naujininkai Mechanikų g.,470,3,48.9,2/3,Naujininkai,Mechanikų g.,Lithuania,25.273563,54.662677
+1027,Šnipiškės Linkmenų g.,650,1,28.3,1/5,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+1028,Senamiestis Bokšto g.,1200,3,80.0,2/5,Senamiestis,Bokšto g.,Lithuania,25.2921767,54.6776383
+1029,Naujoji Vilnia Arimų g.,500,2,27.0,3/3,Naujoji Vilnia,Arimų g.,Lithuania,25.411303,54.692957
+1030,Šeškinė Ukmergės g.,550,2,52.0,8/13,Šeškinė,Ukmergės g.,Lithuania,25.2521677,54.7097664
+1031,Šnipiškės Kalvarijų g.,370,1,15.0,2/4,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+1032,Naujamiestis J.Basanavičiaus g.,750,1,42.0,3/3,Naujamiestis,J.Basanavičiaus g.,Lithuania,23.0523799,54.6364347
+1033,Baltupiai Ozo g.,850,2,47.5,4/8,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+1034,Naujamiestis Vytenio g.,660,2,40.0,4/9,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+1035,Antakalnis P.Vileišio g.,600,2,45.0,4/5,Antakalnis,P.Vileišio g.,Lithuania,25.311821157774403,54.71195935
+1036,Baltupiai Ozo g.,750,2,37.2,4/8,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+1037,Šnipiškės Lvivo g.,490,2,45.0,2/4,Šnipiškės,Lvivo g.,Lithuania,25.2688417,54.6994753
+1038,Šnipiškės Šeimyniškių g.,880,2,50.0,4/9,Šnipiškės,Šeimyniškių g.,Lithuania,25.282158,54.6947179
+1039,Pilaitė Karaliaučiaus g.,520,1,32.0,1/5,Pilaitė,Karaliaučiaus g.,Lithuania,25.1759723,54.7135023
+1040,Šnipiškės Linkmenų g.,850,2,58.0,1/5,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+1041,Baltupiai Jurgio Lebedžio g.,600,1,26.0,4/5,Baltupiai,Jurgio Lebedžio g.,Lithuania,24.121971,55.106184
+1042,Senamiestis Pamėnkalnio g.,880,2,44.46,5/6,Senamiestis,Pamėnkalnio g.,Lithuania,22.250943,55.983929
+1043,Naujamiestis J.Jasinskio g.,1000,2,40.0,2/4,Naujamiestis,J.Jasinskio g.,Lithuania,25.2597265,54.6861921
+1044,Naujamiestis Savanorių pr.,400,1,36.0,7/9,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+1045,Naujininkai Meistrų g.,350,1,17.0,2/5,Naujininkai,Meistrų g.,Lithuania,25.273563,54.662677
+1046,Naujamiestis T.Ševčenkos g.,1200,3,94.0,1/3,Naujamiestis,T.Ševčenkos g.,Lithuania,25.264768,54.680141
+1047,Lazdynėliai Žaros g.,600,2,40.0,2/3,Lazdynėliai,Žaros g.,Lithuania,25.1928924,54.6666169
+1048,Žirmūnai Žirmūnų g.,490,1,35.34,4/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1049,Antakalnis Nemenčinės pl.,700,2,34.78,2/3,Antakalnis,Nemenčinės pl.,Lithuania,25.319595220530616,54.724156199999996
+1050,Naujamiestis Naugarduko g.,620,2,52.0,3/4,Naujamiestis,Naugarduko g.,Lithuania,25.2753772,54.6767869
+1051,Antakalnis Kregždžių g.,680,3,82.46,3/4,Antakalnis,Kregždžių g.,Lithuania,25.385507,54.7277459
+1052,Baltupiai Juozo Balčikonio g.,720,2,61.0,2/5,Baltupiai,Juozo Balčikonio g.,Lithuania,24.121971,55.106184
+1053,Tarandė Putiniškių g.,270,1,30.0,2/2,Tarandė,Putiniškių g.,Lithuania,25.1824696,54.7473649
+1054,Jeruzalė Ateities g.,700,3,63.0,5/7,Jeruzalė,Ateities g.,Lithuania,25.2681728,54.7376318
+1055,Šnipiškės Kalvarijų g.,700,2,55.0,2/3,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+1056,Naujamiestis Pakalnės g.,850,2,45.0,1/3,Naujamiestis,Pakalnės g.,Lithuania,25.2642154,54.6867199
+1057,Senamiestis Trakų g.,1600,4,98.0,2/2,Senamiestis,Trakų g.,Lithuania,25.2806889,54.6805537
+1058,Senamiestis Vilniaus g.,850,2,50.0,2/5,Senamiestis Vilnia,us g.,Lithuania,25.289154500197288,54.687349749999996
+1059,Justiniškės Rygos g.,600,2,36.0,3/5,Justiniškės,Rygos g.,Lithuania,25.2219966,54.7167438
+1060,Antakalnis M.K.Oginskio g.,650,2,44.0,4/5,Antakalnis,M.K.Oginskio g.,Lithuania,25.3210522,54.7187925
+1061,Antakalnis Vytauto Žalakevičiaus g.,770,2,52.0,3/4,Antakalnis,Vytauto Žalakevičiaus g.,Lithuania,25.783394,54.98187
+1062,Naujininkai Pelesos g.,550,1,30.0,4/4,Naujininkai,Pelesos g.,Lithuania,25.2738665,54.6659553
+1063,Naujamiestis Naugarduko g.,239,1,20.0,5/5,Naujamiestis,Naugarduko g.,Lithuania,25.2753772,54.6767869
+1064,Naujamiestis Tauro g.,450,1,16.0,4/5,Naujamiestis,Tauro g.,Lithuania,25.2728154,54.6847721
+1065,Šeškinė Šeškinės g.,800,3,95.0,12/16,Šeškinė,Šeškinės g.,Lithuania,25.242989,54.7161316
+1066,Pilaitė M.Mažvydo g.,560,1,44.0,5/6,Pilaitė,M.Mažvydo g.,Lithuania,25.182761,54.706948
+1067,Fabijoniškės P.Žadeikos g.,400,2,51.94,1/14,Fabijoniškės,P.Žadeikos g.,Lithuania,25.246433,54.731814
+1068,Lazdynėliai Lazdynėlių g.,850,2,45.0,4/4,Lazdynėliai,Lazdynėlių g.,Lithuania,25.1927074,54.663469
+1069,Žirmūnai Verkių g.,320,1,18.0,5/5,Žirmūnai,Verkių g.,Lithuania,25.2960633,54.7199848
+1070,Senamiestis Žygimantų g.,500,1,29.0,4/4,Senamiestis,Žygimantų g.,Lithuania,25.2806649,54.6907962
+1071,Viršuliškės Viršuliškių g.,600,2,30.0,2/7,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+1072,Viršuliškės Viršuliškių g.,600,2,31.5,2/7,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+1073,Užupis Malūnų g.,800,2,39.12,2/3,Užupis,Malūnų g.,Lithuania,25.2937109,54.6817512
+1074,Justiniškės Taikos g.,465,2,50.0,1/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+1075,Senamiestis Bokšto g.,900,3,78.0,3/4,Senamiestis,Bokšto g.,Lithuania,25.2921767,54.6776383
+1076,Senamiestis Labdarių g.,620,2,40.0,2/2,Senamiestis,Labdarių g.,Lithuania,25.2805897,54.6849999
+1077,Senamiestis Algirdo g.,900,2,49.0,3/4,Senamiestis,Algirdo g.,Lithuania,24.3749708,55.7253825
+1078,Fabijoniškės Salomėjos Nėries g.,520,2,50.0,9/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+1079,Naujamiestis Mindaugo g.,750,2,55.0,1/5,Naujamiestis,Mindaugo g.,Lithuania,25.2738379,54.6770904
+1080,Žirmūnai Kalvarijų g.,550,2,45.0,5/5,Žirmūnai,Kalvarijų g.,Lithuania,25.2869142,54.7153427
+1081,Justiniškės Taikos g.,299,1,36.0,3/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+1082,Žirmūnai Žirmūnų g.,600,2,47.6,1/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1083,Senamiestis Labdarių g.,1550,3,60.0,4/4,Senamiestis,Labdarių g.,Lithuania,25.2805897,54.6849999
+1084,Žirmūnai Kalvarijų g.,550,2,41.34,8/12,Žirmūnai,Kalvarijų g.,Lithuania,25.2869142,54.7153427
+1085,Santariškės Santariškių g.,620,2,45.0,1/3,Santariškės,Santariškių g.,Lithuania,25.2803027,54.7528454
+1086,Naujamiestis Mindaugo g.,1100,2,62.0,7/9,Naujamiestis,Mindaugo g.,Lithuania,25.2738379,54.6770904
+1087,Naujamiestis Tauro g.,790,2,67.3,5/5,Naujamiestis,Tauro g.,Lithuania,25.2728154,54.6847721
+1088,Antakalnis Antakalnio g.,600,1,47.0,8/9,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+1089,Naujamiestis Savanorių pr.,550,2,54.0,6/9,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+1090,Šnipiškės Raitininkų g.,650,1,32.0,2/6,Šnipiškės,Raitininkų g.,Lithuania,24.11797,54.23549
+1091,Baltupiai Didlaukio g.,499,2,43.0,5/12,Baltupiai,Didlaukio g.,Lithuania,25.2784789,54.7275851
+1092,Justiniškės Taikos g.,700,3,55.0,1/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+1093,Pašilaičiai Virbeliškių g.,600,2,46.5,4/4,Pašilaičiai,Virbeliškių g.,Lithuania,25.2176973,54.7293428
+1094,Lazdynėliai Lazdynėlių g.,680,2,39.0,2/4,Lazdynėliai,Lazdynėlių g.,Lithuania,25.1927074,54.663469
+1095,Bajorai Bajorų kel.,580,1,32.5,2/9,Bajorai,Bajorų kel.,Lithuania,24.121971,55.106184
+1096,Žvėrynas Paribio g.,750,2,54.0,2/4,Žvėrynas,Paribio g.,Lithuania,25.2462426,54.7006434
+1097,Rasos Varšuvos g.,80,1,40.0,1/5,Rasos,Varšuvos g.,Lithuania,25.2976897,54.6703948
+1098,Karoliniškės Laisvės pr.,260,1,16.0,9/9,Karoliniškės,Laisvės pr.,Lithuania,25.2173677,54.6928201
+1099,Lazdynėliai Žaibo g.,699,2,40.0,4/4,Lazdynėliai,Žaibo g.,Lithuania,24.121971,55.106184
+1100,Baltupiai Didlaukio g.,590,2,50.0,1/5,Baltupiai,Didlaukio g.,Lithuania,25.2784789,54.7275851
+1101,Lazdynai Architektų g.,370,2,50.0,3/5,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+1102,Viršuliškės Viršuliškių g.,500,2,47.0,3/5,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+1103,Baltupiai Ateities g.,350,1,17.0,0/5,Baltupiai,Ateities g.,Lithuania,25.2681728,54.7376318
+1104,Žirmūnai Apkasų g.,570,2,52.0,5/5,Žirmūnai,Apkasų g.,Lithuania,25.2883611,54.7036477
+1105,Šnipiškės Žalgirio g.,650,2,65.79,5/8,Šnipiškės,Žalgirio g.,Lithuania,25.2668422,54.7044446
+1106,Pilaitė M.Mažvydo g.,500,1,32.0,6/8,Pilaitė,M.Mažvydo g.,Lithuania,25.182761,54.706948
+1107,Senamiestis Šv.Stepono g.,800,3,74.0,3/5,Senamiestis,Šv.Stepono g.,Lithuania,25.287693,54.683127
+1108,Karoliniškės Loretos Asanavičiūtės g.,550,2,48.3,12/12,Karoliniškės,Loretos Asanavičiūtės g.,Lithuania,25.196673,54.683074
+1109,Žemieji Paneriai Ūmėdžių g.,450,2,40.31,1/5,Žemieji Paneriai,Ūmėdžių g.,Lithuania,25.2103975,54.6404889
+1110,Fabijoniškės S.Stanevičiaus g.,500,2,51.0,6/9,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+1111,Pilaitė Padekaniškių g.,700,2,65.88,4/4,Pilaitė,Padekaniškių g.,Lithuania,25.182761,54.706948
+1112,Šnipiškės Šilutės g.,650,3,58.0,2/2,Šnipiškės,Šilutės g.,Lithuania,25.2801244,54.7000074
+1113,Pašilaičiai Eitminų g.,660,2,50.0,3/9,Pašilaičiai,Eitminų g.,Lithuania,25.2206319,54.7411864
+1114,Visoriai Jono Kairiūkščio g.,500,2,51.0,1/5,Visoriai,Jono Kairiūkščio g.,Lithuania,25.2647674,54.7577598
+1115,Pilaitė Gilužio g.,660,2,38.0,1/3,Pilaitė,Gilužio g.,Lithuania,25.1793994,54.7019012
+1116,Šnipiškės Daugėliškio g.,800,2,44.0,5/6,Šnipiškės,Daugėliškio g.,Lithuania,25.2725536,54.7004606
+1117,Pašilaičiai Perkūnkiemio g.,700,3,64.0,3/9,Pašilaičiai,Perkūnkiemio g.,Lithuania,25.219637,54.7387996
+1118,Šnipiškės Rinktinės g.,900,2,46.0,1/7,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+1119,Naujamiestis Šaltinių g.,850,2,46.54,3/5,Naujamiestis,Šaltinių g.,Lithuania,25.2758412,54.675117
+1120,Baltupiai Kazio Ulvydo g.,630,2,38.05,4/5,Baltupiai,Kazio Ulvydo g.,Lithuania,24.121971,55.106184
+1121,Pilaitė Įsruties g.,580,1,35.0,1/8,Pilaitė,Įsruties g.,Lithuania,25.1820966,54.7123036
+1122,Karoliniškės Virginijaus Druskio g.,400,1,32.7,5/9,Karoliniškės,Virginijaus Druskio g.,Lithuania,25.202447,54.685872
+1123,Naujamiestis Algirdo g.,650,2,45.0,1/4,Naujamiestis,Algirdo g.,Lithuania,25.2707414,54.6781128
+1124,Antakalnis K.Semenavičiaus g.,640,2,44.0,3/4,Antakalnis,K.Semenavičiaus g.,Lithuania,25.69133,55.09549
+1125,Baltupiai Baltupio g.,360,2,40.0,6/12,Baltupiai,Baltupio g.,Lithuania,25.265448944117644,54.73593325
+1126,Žirmūnai Žirmūnų g.,650,2,47.0,2/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1127,Lazdynai Architektų g.,550,1,32.7,1/5,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+1128,Šnipiškės Žalgirio g.,550,2,50.0,2/5,Šnipiškės,Žalgirio g.,Lithuania,25.2668422,54.7044446
+1129,Viršuliškės Viršuliškių g.,450,1,33.0,9/11,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+1130,Šiaurės miestelis Apkasų g.,650,2,44.5,3/5,Šiaurės miestelis,Apkasų g.,Lithuania,24.121971,55.106184
+1131,Užupis Polocko g.,900,2,54.0,2/3,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+1132,Naujamiestis Gedimino pr.,2900,2,117.0,5/5,Naujamiestis,Gedimino pr.,Lithuania,25.26183902135083,54.6912607
+1133,Žirmūnai Žirmūnų g.,300,1,22.0,4/9,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1134,Užupis Krivių g.,700,2,55.0,4/4,Užupis,Krivių g.,Lithuania,25.301823076879643,54.68413115
+1135,Žirmūnai Minties g.,380,1,32.5,4/9,Žirmūnai,Minties g.,Lithuania,25.3047908,54.7056893
+1136,Naujamiestis Savanorių pr.,400,1,30.0,5/9,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+1137,Pilaitė M.Mažvydo g.,650,2,51.3,6/7,Pilaitė,M.Mažvydo g.,Lithuania,25.182761,54.706948
+1138,Šnipiškės Kalvarijų g.,425,1,21.0,9/9,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+1139,Karoliniškės Algimanto Petro Kavoliuko g.,430,1,33.0,9/9,Karoliniškės,Algimanto Petro Kavoliuko g.,Lithuania,25.21827851645063,54.6953297
+1140,Naujamiestis Skroblų g.,980,2,53.0,7/7,Naujamiestis,Skroblų g.,Lithuania,25.254835,54.670731
+1141,Žvėrynas Sėlių g.,1200,2,73.0,3/3,Žvėrynas,Sėlių g.,Lithuania,25.2456843,54.6987056
+1142,Antakalnis Kuosų g.,850,2,48.2,5/6,Antakalnis,Kuosų g.,Lithuania,25.314813,54.6988529
+1143,Šnipiškės Kalvarijų g.,585,2,24.0,4/4,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+1144,Naujamiestis Savanorių pr.,600,2,57.0,2/4,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+1145,Pilaitė Bitėnų g.,750,2,50.0,5/5,Pilaitė,Bitėnų g.,Lithuania,25.1735297,54.7032848
+1146,Antakalnis Antakalnio g.,550,2,45.0,2/5,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+1147,Naujamiestis Tauro g.,300,1,22.0,1/6,Naujamiestis,Tauro g.,Lithuania,25.2728154,54.6847721
+1148,Baltupiai Kazio Ulvydo g.,950,3,60.0,2/5,Baltupiai,Kazio Ulvydo g.,Lithuania,24.121971,55.106184
+1149,Žirmūnai Minties g.,350,1,30.0,1/5,Žirmūnai,Minties g.,Lithuania,25.3047908,54.7056893
+1150,Naujamiestis Birželio 23-iosios g.,700,2,50.0,5/5,Naujamiestis,Birželio 23-iosios g.,Lithuania,25.261936,54.67432
+1151,Pilaitė I.Kanto al.,600,3,70.0,5/9,Pilaitė,I.Kanto al.,Lithuania,25.176304,54.70432
+1152,Žirmūnai Žirmūnų g.,400,1,21.5,8/9,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1153,Pašilaičiai Eitminų g.,580,2,55.75,6/9,Pašilaičiai,Eitminų g.,Lithuania,25.2206319,54.7411864
+1154,Pašilaičiai Pašilaičių g.,630,2,51.0,5/5,Pašilaičiai,Pašilaičių g.,Lithuania,25.2316746,54.7314012
+1155,Justiniškės Justiniškių g.,520,2,50.0,3/5,Justiniškės,Justiniškių g.,Lithuania,25.2221629,54.7175726
+1156,Žirmūnai Žirmūnų g.,530,1,31.0,2/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1157,Pašilaičiai Žemynos g.,530,2,44.0,9/9,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+1158,Senamiestis Paupio g.,1178,4,90.0,3/3,Senamiestis,Paupio g.,Lithuania,23.2313877,54.4116556
+1159,Baltupiai Baltupio g.,850,2,46.0,3/7,Baltupiai,Baltupio g.,Lithuania,25.265448944117644,54.73593325
+1160,Šnipiškės Giedraičių g.,650,1,35.0,2/9,Šnipiškės,Giedraičių g.,Lithuania,25.278242,54.6973462
+1161,Antakalnis Mileišiškių Sodų 4-oji g.,550,2,40.0,1/2,Antakalnis,Mileišiškių Sodų 4-oji g.,Lithuania,25.69133,55.09549
+1162,Fabijoniškės Salomėjos Nėries g.,600,2,50.65,9/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+1163,Pašilaičiai Medeinos g.,500,1,36.0,2/9,Pašilaičiai,Medeinos g.,Lithuania,25.227281380275763,54.7298632
+1164,Lazdynai Architektų g.,350,1,33.0,1/5,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+1165,Pašilaičiai Žemynos g.,450,1,30.0,3/5,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+1166,Naujininkai Dzūkų g.,450,1,17.0,2/2,Naujininkai,Dzūkų g.,Lithuania,25.2830471,54.6640112
+1167,Šnipiškės Giedraičių g.,680,2,44.0,3/16,Šnipiškės,Giedraičių g.,Lithuania,25.278242,54.6973462
+1168,Vilkpėdė Vilkpėdės g.,700,1,37.0,1/7,Vilkpėdė,Vilkpėdės g.,Lithuania,25.2360528,54.6636771
+1169,Naujamiestis Vilkpėdės g.,700,1,37.0,1/7,Naujamiestis,Vilkpėdės g.,Lithuania,25.248623,54.665178
+1170,Baltupiai Juozo Balčikonio g.,1150,3,77.0,5/5,Baltupiai,Juozo Balčikonio g.,Lithuania,24.121971,55.106184
+1171,Justiniškės Rygos g.,500,2,51.0,2/5,Justiniškės,Rygos g.,Lithuania,25.2219966,54.7167438
+1172,Antakalnis P.Vileišio g.,680,2,53.0,2/6,Antakalnis,P.Vileišio g.,Lithuania,25.311821157774403,54.71195935
+1173,Naujamiestis J.Basanavičiaus g.,1500,2,61.0,5/5,Naujamiestis,J.Basanavičiaus g.,Lithuania,23.0523799,54.6364347
+1174,Pašilaičiai Medeinos g.,600,3,63.0,3/9,Pašilaičiai,Medeinos g.,Lithuania,25.227281380275763,54.7298632
+1175,Senamiestis Sodų g.,2300,4,100.0,3/4,Senamiestis,Sodų g.,Lithuania,23.2457351,54.420003
+1176,Baltupiai Kazio Ulvydo g.,760,2,44.68,5/5,Baltupiai,Kazio Ulvydo g.,Lithuania,24.121971,55.106184
+1177,Baltupiai Ozo g.,915,2,58.89,1/5,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+1178,Markučiai Manufaktūrų g.,700,1,35.0,3/6,Markučiai,Manufaktūrų g.,Lithuania,25.3207304,54.6768792
+1179,Žvėrynas Pušų g.,1300,3,98.0,4/4,Žvėrynas,Pušų g.,Lithuania,25.251407,54.6916327
+1180,Naujoji Vilnia Pramonės g.,349,1,21.0,3/5,Naujoji Vilnia,Pramonės g.,Lithuania,25.440378,54.6952323
+1181,Naujamiestis Savanorių pr.,550,2,55.0,5/5,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+1182,Šnipiškės Konstitucijos pr.,730,2,50.0,3/16,Šnipiškės,Konstitucijos pr.,Lithuania,25.2706146,54.6975998
+1183,Lazdynėliai Jonažolių g.,650,2,61.21,6/9,Lazdynėliai,Jonažolių g.,Lithuania,25.2148876,54.666674
+1184,Šnipiškės Rinktinės g.,450,2,47.0,4/5,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+1185,Žirmūnai Apkasų g.,550,2,26.0,4/5,Žirmūnai,Apkasų g.,Lithuania,25.2883611,54.7036477
+1186,Naujamiestis Vingrių g.,500,1,46.0,1/3,Naujamiestis,Vingrių g.,Lithuania,25.277278,54.678112
+1187,Paneriai Kirtimų g.,350,1,14.0,4/4,Paneriai,Kirtimų g.,Lithuania,25.1505548,54.6517211
+1188,Pilaitė I.Simonaitytės g.,650,2,63.0,3/4,Pilaitė,I.Simonaitytės g.,Lithuania,25.182761,54.706948
+1189,Justiniškės Taikos g.,400,1,37.0,1/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+1190,Žvėrynas Želvos g.,510,2,26.0,1/3,Žvėrynas,Želvos g.,Lithuania,25.09824,55.21904
+1191,Vilkpėdė Šlaito g.,1200,3,78.4,1/1,Vilkpėdė,Šlaito g.,Lithuania,25.2462747,54.6658138
+1192,Antakalnis Kuosų g.,800,2,53.0,5/7,Antakalnis,Kuosų g.,Lithuania,25.314813,54.6988529
+1193,Naujamiestis Vandentiekio g.,450,2,42.0,1/4,Naujamiestis,Vandentiekio g.,Lithuania,25.245021,54.667674
+1194,Pašilaičiai Žemynos g.,590,3,61.5,4/9,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+1195,Naujamiestis Savanorių pr.,650,3,61.41,2/5,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+1196,Baltupiai Ozo g.,820,2,41.79,1/8,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+1197,Lazdynai Architektų g.,700,3,63.0,9/9,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+1198,Jeruzalė Kazio Ulvydo g.,750,2,55.0,1/5,Jeruzalė,Kazio Ulvydo g.,Lithuania,24.121971,55.106184
+1199,Žvėrynas Pušų g.,1900,4,106.0,2/3,Žvėrynas,Pušų g.,Lithuania,25.251407,54.6916327
+1200,Žirmūnai Žirmūnų g.,550,2,56.0,6/12,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1201,Senamiestis Gedimino pr.,1000,3,70.0,3/5,Senamiestis,Gedimino pr.,Lithuania,25.2824605,54.6865081
+1202,Viršuliškės Viršuliškių g.,820,2,43.0,5/11,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+1203,Fabijoniškės S.Stanevičiaus g.,350,1,35.0,2/5,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+1204,Šnipiškės Herkaus Manto g.,400,1,17.0,1/1,Šnipiškės,Herkaus Manto g.,Lithuania,25.269068,54.699929
+1205,Naujamiestis Algirdo g.,800,1,42.0,2/3,Naujamiestis,Algirdo g.,Lithuania,25.2707414,54.6781128
+1206,Filaretai Filaretų g.,700,2,56.0,2/8,Filaretai,Filaretų g.,Lithuania,25.305906651536606,54.6843502
+1207,Naujamiestis Vytenio g.,550,1,20.0,2/5,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+1208,Pašilaičiai Gabijos g.,610,2,54.0,3/7,Pašilaičiai,Gabijos g.,Lithuania,25.2236397,54.7313146
+1209,Naujamiestis S.Konarskio g.,470,2,29.0,1/4,Naujamiestis,S.Konarskio g.,Lithuania,25.264768,54.680141
+1210,Kalnėnai Gurių g.,650,2,53.6,2/4,Kalnėnai,Gurių g.,Lithuania,25.3313597,54.6545836
+1211,Jeruzalė Ateities g.,450,1,34.0,2/5,Jeruzalė,Ateities g.,Lithuania,25.2681728,54.7376318
+1212,Rasos Gardino g.,550,2,41.02,1/2,Rasos,Gardino g.,Lithuania,25.3017775,54.6656981
+1213,Senamiestis Raugyklos g.,1000,3,60.0,3/3,Senamiestis,Raugyklos g.,Lithuania,25.2789843,54.6728266
+1214,Žirmūnai Žirmūnų g.,450,1,30.0,7/9,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1215,Fabijoniškės Salomėjos Nėries g.,550,2,56.0,7/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+1216,Pašilaičiai Jurgio Baltrušaičio g.,1150,4,102.67,4/5,Pašilaičiai,Jurgio Baltrušaičio g.,Lithuania,25.228239,54.711003
+1217,Žvėrynas Lūšių g.,800,3,67.0,2/4,Žvėrynas,Lūšių g.,Lithuania,25.2494676,54.7009206
+1218,Naujininkai Kapsų g.,380,1,20.0,1/5,Naujininkai,Kapsų g.,Lithuania,25.2800463,54.6606221
+1219,Senamiestis Šv.Stepono g.,649,2,66.0,1/3,Senamiestis,Šv.Stepono g.,Lithuania,25.287693,54.683127
+1220,Senamiestis Gaono g.,999,3,70.0,1/2,Senamiestis,Gaono g.,Lithuania,25.2863833,54.6816203
+1221,Justiniškės Taikos g.,500,2,50.0,4/9,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+1222,Senamiestis Sodų g.,1000,3,60.0,3/3,Senamiestis,Sodų g.,Lithuania,23.2457351,54.420003
+1223,Baltupiai Didlaukio g.,450,2,48.0,2/5,Baltupiai,Didlaukio g.,Lithuania,25.2784789,54.7275851
+1224,Karoliniškės Dariaus Gerbutavičiaus g.,380,2,47.0,2/5,Karoliniškės,Dariaus Gerbutavičiaus g.,Lithuania,25.210939,54.693555
+1225,Fabijoniškės Fabijoniškių g.,400,1,40.0,2/12,Fabijoniškės,Fabijoniškių g.,Lithuania,25.2374099,54.7315103
+1226,Žvėrynas Blindžių g.,430,1,33.0,1/5,Žvėrynas,Blindžių g.,Lithuania,25.2450966,54.6986295
+1227,Baltupiai Kalvarijų g.,700,2,57.0,13/16,Baltupiai,Kalvarijų g.,Lithuania,25.2801343,54.7282735
+1228,Šnipiškės Rinktinės g.,650,2,47.0,1/9,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+1229,Naujamiestis Švitrigailos g.,1050,3,68.0,4/5,Naujamiestis,Švitrigailos g.,Lithuania,25.2704693,54.6692933
+1230,Senamiestis Aludarių g.,750,2,50.0,1/4,Senamiestis,Aludarių g.,Lithuania,25.26602,54.686825
+1231,Justiniškės Taikos g.,520,2,52.0,4/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+1232,Lazdynėliai Bukčių g.,680,2,59.93,4/5,Lazdynėliai,Bukčių g.,Lithuania,25.2158687,54.6671298
+1233,Santariškės Santariškių g.,850,2,44.75,1/3,Santariškės,Santariškių g.,Lithuania,25.2803027,54.7528454
+1234,Naujininkai Šaltkalvių g.,180,1,18.0,1/5,Naujininkai,Šaltkalvių g.,Lithuania,25.273605,54.661445
+1235,Pilaitė Priegliaus g.,640,2,45.0,3/5,Pilaitė,Priegliaus g.,Lithuania,25.1867437,54.7119404
+1236,Šnipiškės Videniškių g.,750,2,45.0,2/6,Šnipiškės,Videniškių g.,Lithuania,25.2726757,54.7038281
+1237,Pašilaičiai Laisvės pr.,500,2,52.0,3/9,Pašilaičiai,Laisvės pr.,Lithuania,25.2372018,54.7296563
+1238,Senamiestis L.Stuokos-Gucevičiaus g.,1200,3,80.0,2/3,Senamiestis,L.Stuokos-Gucevičiaus g.,Lithuania,,
+1239,Valakampiai Elniakampio g.,900,2,62.64,2/3,Valakampiai,Elniakampio g.,Lithuania,25.3119377,54.7398962
+1240,Naujamiestis M.K.Čiurlionio g.,1800,3,130.0,4/5,Naujamiestis,M.K.Čiurlionio g.,Lithuania,25.264768,54.680141
+1241,Pilaitė Karaliaučiaus g.,370,1,35.0,3/5,Pilaitė,Karaliaučiaus g.,Lithuania,25.1759723,54.7135023
+1242,Žirmūnai Žirmūnų g.,430,1,30.0,1/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1243,Žvėrynas Siesikų g.,700,2,46.0,5/9,Žvėrynas,Siesikų g.,Lithuania,25.249828,54.695925
+1244,Antakalnis Debesijos g.,1200,4,86.0,2/5,Antakalnis,Debesijos g.,Lithuania,25.3173065,54.7019831
+1245,Kairėnai Mėtų g.,500,2,60.0,3/3,Kairėnai,Mėtų g.,Lithuania,25.4004403,54.7217403
+1246,Naujoji Vilnia Pramonės g.,150,1,28.59,4/4,Naujoji Vilnia,Pramonės g.,Lithuania,25.440378,54.6952323
+1247,Senamiestis Jogailos g.,1500,2,58.0,2/4,Senamiestis,Jogailos g.,Lithuania,25.2778908,54.6850306
+1248,Fabijoniškės Salomėjos Nėries g.,580,2,54.0,4/9,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+1249,Žvėrynas Studentų g.,350,1,18.0,4/5,Žvėrynas,Studentų g.,Lithuania,25.2575185,54.6955659
+1250,Jeruzalė Rugių g.,550,2,57.0,1/5,Jeruzalė,Rugių g.,Lithuania,25.2763332,54.7409115
+1251,Naujamiestis Birželio 23-iosios g.,600,3,65.0,4/5,Naujamiestis,Birželio 23-iosios g.,Lithuania,25.261936,54.67432
+1252,Senamiestis Pylimo g.,650,2,45.0,3/3,Senamiestis,Pylimo g.,Lithuania,25.283634,54.6752973
+1253,Senamiestis Vilniaus g.,550,1,28.0,1/3,Senamiestis Vilnia,us g.,Lithuania,25.289154500197288,54.687349749999996
+1254,Naujamiestis Savanorių pr.,550,3,72.0,11/12,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+1255,Naujamiestis Marijampolės g.,470,1,25.0,2/4,Naujamiestis,Marijampolės g.,Lithuania,23.0523799,54.6364347
+1256,Antakalnis Antakalnio g.,350,1,27.0,7/9,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+1257,Senamiestis Algirdo g.,500,1,25.0,2/4,Senamiestis,Algirdo g.,Lithuania,24.3749708,55.7253825
+1258,Naujamiestis V.Pietario g.,350,1,20.0,4/5,Naujamiestis,V.Pietario g.,Lithuania,25.264768,54.680141
+1259,Justiniškės Rygos g.,550,3,67.0,9/9,Justiniškės,Rygos g.,Lithuania,25.2219966,54.7167438
+1260,Šnipiškės Olimpiečių g.,1100,2,62.0,2/4,Šnipiškės,Olimpiečių g.,Lithuania,25.273601,54.697375
+1261,Naujininkai Šaltkalvių g.,350,2,33.0,6/9,Naujininkai,Šaltkalvių g.,Lithuania,25.273605,54.661445
+1262,Naujamiestis Vašingtono a.,1000,4,101.57,2/5,Naujamiestis,Vašingtono a.,Lithuania,25.2697694,54.691778
+1263,Senamiestis Gedimino pr.,1900,4,190.0,4/4,Senamiestis,Gedimino pr.,Lithuania,25.2824605,54.6865081
+1264,Jeruzalė Pranciškaus Smuglevičiaus g.,1000,3,84.0,2/5,Jeruzalė,Pranciškaus Smuglevičiaus g.,Lithuania,24.121971,55.106184
+1265,Senamiestis Mindaugo g.,1100,3,73.0,3/8,Senamiestis,Mindaugo g.,Lithuania,24.3494462,55.7358126
+1266,Fabijoniškės Fabijoniškių g.,1300,4,89.0,9/9,Fabijoniškės,Fabijoniškių g.,Lithuania,25.2374099,54.7315103
+1267,Pašilaičiai Leičių g.,835,3,72.0,8/9,Pašilaičiai,Leičių g.,Lithuania,25.2243428,54.7367895
+1268,Viršuliškės Viršuliškių g.,599,2,49.0,1/9,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+1269,Naujininkai Pelesos g.,350,1,23.0,1/5,Naujininkai,Pelesos g.,Lithuania,25.2738665,54.6659553
+1270,Karoliniškės Virginijaus Druskio g.,500,1,32.6,12/12,Karoliniškės,Virginijaus Druskio g.,Lithuania,25.202447,54.685872
+1271,Naujamiestis Palangos g.,750,2,40.0,5/5,Naujamiestis,Palangos g.,Lithuania,23.0418084,54.6513297
+1272,Naujamiestis M.K.Čiurlionio g.,1600,4,101.09,1/4,Naujamiestis,M.K.Čiurlionio g.,Lithuania,25.264768,54.680141
+1273,Naujininkai Kaminkelio g.,110,1,15.0,5/5,Naujininkai,Kaminkelio g.,Lithuania,25.27908,54.6591884
+1274,Baltupiai Kalvarijų g.,650,2,64.69,2/16,Baltupiai,Kalvarijų g.,Lithuania,25.2801343,54.7282735
+1275,Jeruzalė Kazio Borutos g.,550,2,57.13,2/4,Jeruzalė,Kazio Borutos g.,Lithuania,24.121971,55.106184
+1276,Šeškinė Šeškinės g.,410,2,52.0,6/12,Šeškinė,Šeškinės g.,Lithuania,25.242989,54.7161316
+1277,Baltupiai Baltupio g.,650,2,40.0,3/9,Baltupiai,Baltupio g.,Lithuania,25.265448944117644,54.73593325
+1278,Pašilaičiai Perkūnkiemio g.,800,3,74.0,6/9,Pašilaičiai,Perkūnkiemio g.,Lithuania,25.219637,54.7387996
+1279,Žirmūnai Rinktinės g.,650,3,64.0,5/9,Žirmūnai,Rinktinės g.,Lithuania,25.2876758,54.703055
+1280,Antakalnis Petro Rimšos g.,950,3,107.0,2/3,Antakalnis,Petro Rimšos g.,Lithuania,25.403316,55.217339
+1281,Naujamiestis Gynėjų g.,750,2,68.0,5/9,Naujamiestis,Gynėjų g.,Lithuania,25.26530721591329,54.691336899999996
+1282,Šeškinė Šeškinės g.,600,2,43.0,2/6,Šeškinė,Šeškinės g.,Lithuania,25.242989,54.7161316
+1283,Viršuliškės Rygos g.,750,3,72.0,7/11,Viršuliškės,Rygos g.,Lithuania,25.2246166,54.7166103
+1284,Žvėrynas Vykinto g.,1500,4,126.0,2/2,Žvėrynas,Vykinto g.,Lithuania,25.2515784,54.6892077
+1285,Pašilaičiai Leičių g.,600,2,46.14,2/9,Pašilaičiai,Leičių g.,Lithuania,25.2243428,54.7367895
+1286,Naujininkai Zanavykų g.,390,1,27.2,1/4,Naujininkai,Zanavykų g.,Lithuania,25.2827237,54.6663736
+1287,Naujamiestis Aludarių g.,1200,2,51.29,3/5,Naujamiestis,Aludarių g.,Lithuania,25.2659857,54.6866673
+1288,Šnipiškės Linkmenų g.,850,2,45.65,6/7,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+1289,Senamiestis Didžioji g.,2500,2,79.0,3/4,Senamiestis,Didžioji g.,Lithuania,21.1334853,55.7105565
+1290,Naujamiestis J.Basanavičiaus g.,590,2,26.0,1/2,Naujamiestis,J.Basanavičiaus g.,Lithuania,23.0523799,54.6364347
+1291,Senamiestis Didžioji g.,2500,2,76.25,3/4,Senamiestis,Didžioji g.,Lithuania,21.1334853,55.7105565
+1292,Justiniškės Taikos g.,450,1,35.44,2/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+1293,Baltupiai Didlaukio g.,650,2,64.0,5/16,Baltupiai,Didlaukio g.,Lithuania,25.2784789,54.7275851
+1294,Žirmūnai Kareivių g.,250,1,14.48,2/5,Žirmūnai,Kareivių g.,Lithuania,25.300621223729205,54.71858105
+1295,Pašilaičiai Girulių g.,500,1,33.91,5/6,Pašilaičiai,Girulių g.,Lithuania,25.2164886,54.7385893
+1296,Paneriai V.A.Graičiūno g.,250,1,16.0,4/5,Paneriai,V.A.Graičiūno g.,Lithuania,25.174049,54.629101
+1297,Paneriai V.A.Graičiūno g.,250,1,11.0,3/5,Paneriai,V.A.Graičiūno g.,Lithuania,25.174049,54.629101
+1298,Pilaitė Vydūno g.,750,3,65.6,3/9,Pilaitė,Vydūno g.,Lithuania,25.18829606875669,54.7071226
+1299,Jeruzalė Bitininkų g.,700,3,77.6,6/9,Jeruzalė,Bitininkų g.,Lithuania,25.2720408,54.7412661
+1300,Naujoji Vilnia Dūmų g.,350,2,35.0,2/2,Naujoji Vilnia,Dūmų g.,Lithuania,25.4022261,54.693305
+1301,Baltupiai Kazio Ulvydo g.,550,1,35.0,4/5,Baltupiai,Kazio Ulvydo g.,Lithuania,24.121971,55.106184
+1302,Naujamiestis Savanorių pr.,500,3,48.0,1/5,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+1303,Naujamiestis Z.Sierakausko g.,1700,4,117.0,2/6,Naujamiestis,Z.Sierakausko g.,Lithuania,25.264768,54.680141
+1304,Pavilnys Tolimosios Sodų 4-oji g.,550,2,48.0,3/3,Pavilnys,Tolimosios Sodų 4-oji g.,Lithuania,25.354774,54.678549
+1305,Šnipiškės Žalgirio g.,580,2,48.0,5/9,Šnipiškės,Žalgirio g.,Lithuania,25.2668422,54.7044446
+1306,Senamiestis V.Šopeno g.,360,1,24.0,2/5,Senamiestis,V.Šopeno g.,Lithuania,25.287693,54.683127
+1307,Pilaitė Įsruties g.,900,2,60.0,2/9,Pilaitė,Įsruties g.,Lithuania,25.1820966,54.7123036
+1308,Antakalnis Vytauto Žalakevičiaus g.,1300,4,91.0,6/6,Antakalnis,Vytauto Žalakevičiaus g.,Lithuania,25.783394,54.98187
+1309,Šnipiškės Šeimyniškių g.,850,2,44.0,7/9,Šnipiškės,Šeimyniškių g.,Lithuania,25.282158,54.6947179
+1310,Baltupiai Jurgio Lebedžio g.,530,1,25.0,1/5,Baltupiai,Jurgio Lebedžio g.,Lithuania,24.121971,55.106184
+1311,Žvėrynas Stirnų g.,700,2,48.0,3/6,Žvėrynas,Stirnų g.,Lithuania,25.249828,54.695925
+1312,Naujininkai Butrimonių g.,550,2,40.06,1/4,Naujininkai,Butrimonių g.,Lithuania,24.12471,55.49939
+1313,Pilaitė I.Kanto al.,470,2,52.0,4/9,Pilaitė,I.Kanto al.,Lithuania,25.176304,54.70432
+1314,Žvėrynas Paribio g.,270,1,35.0,2/2,Žvėrynas,Paribio g.,Lithuania,25.2462426,54.7006434
+1315,Naujoji Vilnia Arimų g.,225,1,16.5,2/2,Naujoji Vilnia,Arimų g.,Lithuania,25.411303,54.692957
+1316,Užupis Užupio g.,600,2,40.0,2/2,Užupis,Užupio g.,Lithuania,25.2923965,54.6805074
+1317,Naujoji Vilnia Darželio g.,400,1,29.0,4/4,Naujoji Vilnia,Darželio g.,Lithuania,25.4179718,54.689513
+1318,Santariškės Santariškių g.,900,4,120.0,3/3,Santariškės,Santariškių g.,Lithuania,25.2803027,54.7528454
+1319,Naujamiestis Vytenio g.,800,2,43.0,4/5,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+1320,Žirmūnai Žirmūnų g.,400,1,30.0,9/9,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1321,Šnipiškės Sporto g.,3500,4,130.0,2/3,Šnipiškės,Sporto g.,Lithuania,25.273601,54.697375
+1322,Antakalnis Petro Rimšos g.,1000,3,107.0,2/3,Antakalnis,Petro Rimšos g.,Lithuania,25.403316,55.217339
+1323,Pašilaičiai Pašilaičių g.,530,3,59.0,2/9,Pašilaičiai,Pašilaičių g.,Lithuania,25.2316746,54.7314012
+1324,Pilaitė Priegliaus g.,500,1,35.0,9/9,Pilaitė,Priegliaus g.,Lithuania,25.1867437,54.7119404
+1325,Santariškės Mykolo Marcinkevičiaus g.,460,1,40.0,2/5,Santariškės,Mykolo Marcinkevičiaus g.,Lithuania,24.121971,55.106184
+1326,Grigiškės Vilniaus g.,500,2,49.0,7/9,Grigiškės Vilnia,us g.,Lithuania,25.0864043,54.6757303
+1327,Naujamiestis Savanorių pr.,1350,3,94.0,16/27,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+1328,Senamiestis Aguonų g.,1500,3,70.0,1/4,Senamiestis,Aguonų g.,Lithuania,21.1561878,55.7101682
+1329,Šnipiškės Šeimyniškių g.,650,1,40.0,1/11,Šnipiškės,Šeimyniškių g.,Lithuania,25.282158,54.6947179
+1330,Karoliniškės Vido Maciulevičiaus g.,550,2,40.25,3/3,Karoliniškės,Vido Maciulevičiaus g.,Lithuania,25.205018,54.688955
+1331,Senamiestis Rūdninkų g.,950,2,58.54,3/3,Senamiestis,Rūdninkų g.,Lithuania,25.285116,54.6772258
+1332,Šeškinė Gelvonų g.,450,2,50.0,4/9,Šeškinė,Gelvonų g.,Lithuania,25.2576099,54.7182332
+1333,Naujamiestis Mindaugo g.,900,2,56.0,2/6,Naujamiestis,Mindaugo g.,Lithuania,25.2738379,54.6770904
+1334,Karoliniškės Vido Maciulevičiaus g.,600,2,49.1,5/9,Karoliniškės,Vido Maciulevičiaus g.,Lithuania,25.205018,54.688955
+1335,Senamiestis Sodų g.,750,1,27.0,1/3,Senamiestis,Sodų g.,Lithuania,23.2457351,54.420003
+1336,Senamiestis Gedimino pr.,800,2,70.0,2/4,Senamiestis,Gedimino pr.,Lithuania,25.2824605,54.6865081
+1337,Pavilnys Švarioji g.,750,2,51.0,2/4,Pavilnys,Švarioji g.,Lithuania,25.3640181,54.6720052
+1338,Fabijoniškės S.Stanevičiaus g.,300,2,50.0,4/9,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+1339,Pašilaičiai Perkūnkiemio g.,650,2,59.0,10/12,Pašilaičiai,Perkūnkiemio g.,Lithuania,25.219637,54.7387996
+1340,Šnipiškės Raitininkų g.,750,2,41.0,2/7,Šnipiškės,Raitininkų g.,Lithuania,24.11797,54.23549
+1341,Žirmūnai Tuskulėnų g.,500,2,47.0,2/5,Žirmūnai,Tuskulėnų g.,Lithuania,25.2885331,54.703226
+1342,Justiniškės Taikos g.,450,2,52.0,3/9,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+1343,Baltupiai Didlaukio g.,750,2,40.25,3/5,Baltupiai,Didlaukio g.,Lithuania,25.2784789,54.7275851
+1344,Fabijoniškės S.Stanevičiaus g.,1000,3,89.34,5/5,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+1345,Pašilaičiai Leičių g.,630,2,46.23,6/9,Pašilaičiai,Leičių g.,Lithuania,25.2243428,54.7367895
+1346,Pašilaičiai Justiniškių g.,580,3,43.78,1/4,Pašilaičiai,Justiniškių g.,Lithuania,25.218555,54.7288412
+1347,Senamiestis Šv.Stepono g.,950,2,58.0,2/3,Senamiestis,Šv.Stepono g.,Lithuania,25.287693,54.683127
+1348,Senamiestis Klaipėdos g.,1100,3,51.0,2/3,Senamiestis,Klaipėdos g.,Lithuania,21.520287,56.270111
+1349,Viršuliškės Viršuliškių g.,400,1,36.0,7/9,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+1350,Žirmūnai Minties g.,500,2,44.0,5/5,Žirmūnai,Minties g.,Lithuania,25.3047908,54.7056893
+1351,Pašilaičiai Laisvės pr.,450,2,44.0,6/9,Pašilaičiai,Laisvės pr.,Lithuania,25.2372018,54.7296563
+1352,Naujamiestis Vytenio g.,800,2,40.0,4/5,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+1353,Pašilaičiai Ukmergės g.,800,3,88.78,4/5,Pašilaičiai,Ukmergės g.,Lithuania,25.2256323,54.7405473
+1354,Senamiestis Šv.Mykolo g.,1450,2,80.0,1/4,Senamiestis,Šv.Mykolo g.,Lithuania,25.287693,54.683127
+1355,Pilaitė Pajautos g.,550,2,56.0,1/5,Pilaitė,Pajautos g.,Lithuania,25.16205283294591,54.71028285
+1356,Senamiestis L.Stuokos-Gucevičiaus g.,2500,7,225.0,3/4,Senamiestis,L.Stuokos-Gucevičiaus g.,Lithuania,,
+1357,Naujamiestis Algirdo g.,520,2,39.0,4/4,Naujamiestis,Algirdo g.,Lithuania,25.2707414,54.6781128
+1358,Pilaitė M.Mažvydo g.,650,3,60.0,6/6,Pilaitė,M.Mažvydo g.,Lithuania,25.182761,54.706948
+1359,Senamiestis Šv.Stepono g.,400,2,32.0,4/4,Senamiestis,Šv.Stepono g.,Lithuania,25.287693,54.683127
+1360,Naujamiestis Eglių g.,800,1,36.0,3/5,Naujamiestis,Eglių g.,Lithuania,22.7434842,55.0843441
+1361,Fabijoniškės Salomėjos Nėries g.,500,2,42.0,10/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+1362,Šeškinė Dūkštų g.,380,2,45.0,5/9,Šeškinė,Dūkštų g.,Lithuania,25.2388274,54.7123434
+1363,Fabijoniškės Pašilaičių g.,550,2,53.0,4/9,Fabijoniškės,Pašilaičių g.,Lithuania,25.2168535,54.7474346
+1364,Baltupiai Jurgio Lebedžio g.,530,1,23.0,3/5,Baltupiai,Jurgio Lebedžio g.,Lithuania,24.121971,55.106184
+1365,Žirmūnai Verkių g.,650,1,27.08,2/9,Žirmūnai,Verkių g.,Lithuania,25.2960633,54.7199848
+1366,Fabijoniškės Fabijoniškių g.,670,2,37.0,3/7,Fabijoniškės,Fabijoniškių g.,Lithuania,25.2374099,54.7315103
+1367,Senamiestis Rinktinės g.,650,1,33.0,3/4,Senamiestis,Rinktinės g.,Lithuania,22.250943,55.983929
+1368,Antakalnis Filaretų g.,450,2,40.0,5/5,Antakalnis,Filaretų g.,Lithuania,25.3272906,54.6961048
+1369,Šnipiškės Slucko g.,640,2,48.0,2/5,Šnipiškės,Slucko g.,Lithuania,25.2853346,54.6956751
+1370,Antakalnis Antakalnio g.,520,3,64.0,1/4,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+1371,Senamiestis Dainavos g.,730,2,39.5,1/5,Senamiestis,Dainavos g.,Lithuania,23.3166804,55.9238556
+1372,Grigiškės Kunigiškių g.,600,2,56.0,3/4,Grigiškės,Kunigiškių g.,Lithuania,25.0920912,54.6719349
+1373,Baltupiai Vito Gerulaičio g.,650,1,31.0,1/6,Baltupiai,Vito Gerulaičio g.,Lithuania,24.121971,55.106184
+1374,Jeruzalė Rugių g.,550,2,47.0,5/5,Jeruzalė,Rugių g.,Lithuania,25.2763332,54.7409115
+1375,Pilaitė M.Mažvydo g.,600,3,71.44,1/6,Pilaitė,M.Mažvydo g.,Lithuania,25.182761,54.706948
+1376,Naujamiestis T.Ševčenkos g.,650,2,25.0,4/4,Naujamiestis,T.Ševčenkos g.,Lithuania,25.264768,54.680141
+1377,Pašilaičiai Perkūnkiemio g.,470,2,42.0,1/9,Pašilaičiai,Perkūnkiemio g.,Lithuania,25.219637,54.7387996
+1378,Šeškinė Laisvės pr.,600,2,62.0,4/5,Šeškinė,Laisvės pr.,Lithuania,25.2323775,54.7193989
+1379,Karoliniškės Loretos Asanavičiūtės g.,580,2,43.0,2/4,Karoliniškės,Loretos Asanavičiūtės g.,Lithuania,25.196673,54.683074
+1380,Naujamiestis Panerių g.,850,3,58.0,2/2,Naujamiestis,Panerių g.,Lithuania,25.2611411,54.6675994
+1381,Naujamiestis A.Jakšto g.,1300,3,85.0,5/6,Naujamiestis,A.Jakšto g.,Lithuania,25.264768,54.680141
+1382,Karoliniškės Dariaus Gerbutavičiaus g.,900,3,80.0,2/5,Karoliniškės,Dariaus Gerbutavičiaus g.,Lithuania,25.210939,54.693555
+1383,Fabijoniškės Salomėjos Nėries g.,450,2,45.0,3/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+1384,Pašilaičiai Perkūnkiemio g.,670,3,65.0,2/12,Pašilaičiai,Perkūnkiemio g.,Lithuania,25.219637,54.7387996
+1385,Senamiestis Pilies g.,800,1,30.0,1/4,Senamiestis,Pilies g.,Lithuania,25.2891632,54.6820404
+1386,Pilaitė M.Mažvydo g.,550,1,38.0,2/5,Pilaitė,M.Mažvydo g.,Lithuania,25.182761,54.706948
+1387,Baltupiai Ozo g.,850,2,48.0,2/8,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+1388,Žvėrynas Paribio g.,700,2,70.0,1/5,Žvėrynas,Paribio g.,Lithuania,25.2462426,54.7006434
+1389,Baltupiai Jurgio Lebedžio g.,540,1,22.44,4/5,Baltupiai,Jurgio Lebedžio g.,Lithuania,24.121971,55.106184
+1390,Žirmūnai Žirmūnų g.,350,1,36.0,3/12,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1391,Senamiestis Pylimo g.,750,2,54.4,3/3,Senamiestis,Pylimo g.,Lithuania,25.283634,54.6752973
+1392,Pašilaičiai Justiniškių g.,520,2,46.0,1/6,Pašilaičiai,Justiniškių g.,Lithuania,25.218555,54.7288412
+1393,Justiniškės Taikos g.,430,1,37.0,4/9,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+1394,Naujamiestis Skroblų g.,850,2,46.75,3/7,Naujamiestis,Skroblų g.,Lithuania,25.254835,54.670731
+1395,Žirmūnai Tuskulėnų g.,500,1,33.0,3/9,Žirmūnai,Tuskulėnų g.,Lithuania,25.2885331,54.703226
+1396,Lazdynėliai Bukčių g.,700,2,37.0,2/5,Lazdynėliai,Bukčių g.,Lithuania,25.2158687,54.6671298
+1397,Naujamiestis Kauno g.,1200,3,71.46,3/9,Naujamiestis,Kauno g.,Lithuania,25.2626184,54.6705058
+1398,Karoliniškės Algimanto Petro Kavoliuko g.,400,1,32.7,4/5,Karoliniškės,Algimanto Petro Kavoliuko g.,Lithuania,25.21827851645063,54.6953297
+1399,Pašilaičiai Dociškių g.,670,2,70.0,3/5,Pašilaičiai,Dociškių g.,Lithuania,25.2178342,54.7322779
+1400,Senamiestis Kruopų g.,650,2,49.0,1/3,Senamiestis,Kruopų g.,Lithuania,25.2799354,54.6751868
+1401,Užupis Polocko g.,1600,3,74.0,2/4,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+1402,Šnipiškės Apkasų g.,500,2,48.0,2/5,Šnipiškės,Apkasų g.,Lithuania,25.273601,54.697375
+1403,Baltupiai Ozo g.,560,1,30.0,5/9,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+1404,Vilkpėdė Vilkpėdės g.,650,2,59.0,5/7,Vilkpėdė,Vilkpėdės g.,Lithuania,25.2360528,54.6636771
+1405,Naujininkai Dariaus ir Girėno g.,450,2,45.0,2/4,Naujininkai,Dariaus ir Girėno g.,Lithuania,25.2730874,54.6608848
+1406,Šnipiškės A.Juozapavičiaus g.,1100,3,109.72,2/7,Šnipiškės,A.Juozapavičiaus g.,Lithuania,25.273601,54.697375
+1407,Karoliniškės Vido Maciulevičiaus g.,400,1,34.0,3/5,Karoliniškės,Vido Maciulevičiaus g.,Lithuania,25.205018,54.688955
+1408,Viršuliškės Viršuliškių g.,200,1,16.56,3/9,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+1409,Senamiestis Gedimino pr.,1400,3,75.0,4/6,Senamiestis,Gedimino pr.,Lithuania,25.2824605,54.6865081
+1410,Naujamiestis Smolensko g.,1400,3,102.0,4/4,Naujamiestis,Smolensko g.,Lithuania,25.2585443,54.6749755
+1411,Užupis Polocko g.,360,2,28.09,1/3,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+1412,Antakalnis P.Vileišio g.,620,2,40.0,2/4,Antakalnis,P.Vileišio g.,Lithuania,25.311821157774403,54.71195935
+1413,Šnipiškės Lvivo g.,700,2,40.0,5/6,Šnipiškės,Lvivo g.,Lithuania,25.2688417,54.6994753
+1414,Baltupiai Ozo g.,580,1,30.0,4/9,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+1415,Žirmūnai Tuskulėnų g.,430,1,33.0,2/5,Žirmūnai,Tuskulėnų g.,Lithuania,25.2885331,54.703226
+1416,Viršuliškės Juozo Rutkausko g.,1100,3,62.0,16/16,Viršuliškės,Juozo Rutkausko g.,Lithuania,24.121971,55.106184
+1417,Senamiestis Aludarių g.,1000,2,46.0,4/5,Senamiestis,Aludarių g.,Lithuania,25.26602,54.686825
+1418,Lazdynai Architektų g.,530,2,47.0,1/5,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+1419,Viršuliškės Tujų g.,650,3,65.0,3/5,Viršuliškės,Tujų g.,Lithuania,25.2299093,54.7032846
+1420,Senamiestis Vokiečių g.,1300,2,57.0,2/5,Senamiestis,Vokiečių g.,Lithuania,25.2840381,54.6789287
+1421,Fabijoniškės S.Stanevičiaus g.,330,1,35.0,9/9,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+1422,Žvėrynas Blindžių g.,1299,3,80.0,2/4,Žvėrynas,Blindžių g.,Lithuania,25.2450966,54.6986295
+1423,Naujamiestis Naugarduko g.,750,2,38.0,2/4,Naujamiestis,Naugarduko g.,Lithuania,25.2753772,54.6767869
+1424,Šiaurės miestelis J.Galvydžio g.,700,3,56.0,3/7,Šiaurės miestelis,J.Galvydžio g.,Lithuania,24.121971,55.106184
+1425,Jeruzalė Jeruzalės g.,370,1,21.0,2/4,Jeruzalė,Jeruzalės g.,Lithuania,25.2778893,54.7441863
+1426,Antakalnis Antakalnio g.,420,1,27.0,3/9,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+1427,Antakalnis Vytauto Žalakevičiaus g.,1000,3,73.0,1/5,Antakalnis,Vytauto Žalakevičiaus g.,Lithuania,25.783394,54.98187
+1428,Žvėrynas Miglos g.,790,3,70.0,1/5,Žvėrynas,Miglos g.,Lithuania,25.247681,54.7015642
+1429,Naujininkai Šaltkalvių g.,400,2,42.0,1/2,Naujininkai,Šaltkalvių g.,Lithuania,25.273605,54.661445
+1430,Užupis Polocko g.,1450,2,50.0,2/4,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+1431,Žirmūnai Žirmūnų g.,600,2,47.0,2/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1432,Senamiestis Bazilijonų g.,750,2,37.0,2/4,Senamiestis,Bazilijonų g.,Lithuania,25.2855354,54.6740589
+1433,Santariškės Santariškių g.,900,4,85.39,3/4,Santariškės,Santariškių g.,Lithuania,25.2803027,54.7528454
+1434,Lazdynėliai Lazdynėlių g.,750,2,46.0,2/4,Lazdynėliai,Lazdynėlių g.,Lithuania,25.1927074,54.663469
+1435,Naujamiestis J.Basanavičiaus g.,650,2,57.0,4/4,Naujamiestis,J.Basanavičiaus g.,Lithuania,23.0523799,54.6364347
+1436,Pašilaičiai Ukmergės g.,750,3,64.0,5/8,Pašilaičiai,Ukmergės g.,Lithuania,25.2256323,54.7405473
+1437,Paupys Aukštaičių g.,1300,3,50.0,1/2,Paupys,Aukštaičių g.,Lithuania,25.3032805,54.6786994
+1438,Šnipiškės Konstitucijos pr.,2400,3,92.0,18/29,Šnipiškės,Konstitucijos pr.,Lithuania,25.2706146,54.6975998
+1439,Antakalnis Antakalnio g.,650,2,49.0,3/4,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+1440,Žemieji Paneriai Vaduvos g.,350,1,33.19,5/9,Žemieji Paneriai,Vaduvos g.,Lithuania,25.2056134,54.6436165
+1441,Antakalnis M.Počobuto g.,450,1,40.0,1/3,Antakalnis,M.Počobuto g.,Lithuania,25.69133,55.09549
+1442,Šnipiškės Rinktinės g.,800,2,36.0,3/9,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+1443,Lazdynėliai M.Mironaitės g.,850,3,75.66,4/6,Lazdynėliai,M.Mironaitės g.,Lithuania,24.121971,55.106184
+1444,Fabijoniškės Salomėjos Nėries g.,550,2,57.0,2/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+1445,Markučiai Paplaujos g.,650,2,39.0,3/5,Markučiai,Paplaujos g.,Lithuania,25.3150449,54.6793174
+1446,Senamiestis Gedimino pr.,1500,2,54.22,4/6,Senamiestis,Gedimino pr.,Lithuania,25.2824605,54.6865081
+1447,Antakalnis P.Vileišio g.,600,2,47.0,4/5,Antakalnis,P.Vileišio g.,Lithuania,25.311821157774403,54.71195935
+1448,Fabijoniškės Salomėjos Nėries g.,500,2,33.0,10/16,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+1449,Šnipiškės Rinktinės g.,450,1,28.0,1/3,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+1450,Žirmūnai Žirmūnų g.,400,1,30.0,5/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1451,Žvėrynas Saltoniškių g.,3900,4,205.69,10/10,Žvėrynas,Saltoniškių g.,Lithuania,25.260394,54.700248
+1452,Baltupiai Vito Gerulaičio g.,530,1,24.0,4/5,Baltupiai,Vito Gerulaičio g.,Lithuania,24.121971,55.106184
+1453,Senamiestis Trakų g.,600,2,25.0,2/2,Senamiestis,Trakų g.,Lithuania,25.2806889,54.6805537
+1454,Šnipiškės Vito Gerulaičio g.,750,2,64.0,2/5,Šnipiškės,Vito Gerulaičio g.,Lithuania,25.274536,54.715568
+1455,Pašilaičiai Žemynos g.,550,3,65.0,5/9,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+1456,Lazdynai Architektų g.,450,2,48.0,4/5,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+1457,Jeruzalė Bitininkų g.,470,1,38.69,5/6,Jeruzalė,Bitininkų g.,Lithuania,25.2720408,54.7412661
+1458,Senamiestis A.Jakšto g.,650,2,54.0,6/6,Senamiestis,A.Jakšto g.,Lithuania,25.287693,54.683127
+1459,Pašilaičiai Žemynos g.,220,1,17.0,1/9,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+1460,Antakalnis V.Sezemano g.,800,3,70.0,3/3,Antakalnis,V.Sezemano g.,Lithuania,25.312009,54.705407
+1461,Žirmūnai Žirmūnų g.,700,3,48.91,3/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1462,Naujamiestis Gerosios Vilties g.,350,1,33.0,5/5,Naujamiestis,Gerosios Vilties g.,Lithuania,25.246189,54.669892
+1463,Pašilaičiai Laisvės pr.,500,2,45.0,2/5,Pašilaičiai,Laisvės pr.,Lithuania,25.2372018,54.7296563
+1464,Naujamiestis Smolensko g.,750,2,41.0,7/8,Naujamiestis,Smolensko g.,Lithuania,25.2585443,54.6749755
+1465,Pilaitė Gilužio g.,990,3,60.92,1/3,Pilaitė,Gilužio g.,Lithuania,25.1793994,54.7019012
+1466,Naujamiestis Smolensko g.,1900,4,148.0,4/4,Naujamiestis,Smolensko g.,Lithuania,25.2585443,54.6749755
+1467,Senamiestis Bazilijonų g.,1500,3,72.0,1/4,Senamiestis,Bazilijonų g.,Lithuania,25.2855354,54.6740589
+1468,Naujamiestis J.Jasinskio g.,900,2,54.0,2/5,Naujamiestis,J.Jasinskio g.,Lithuania,25.2597265,54.6861921
+1469,Šnipiškės Olimpiečių g.,1900,4,145.91,4/6,Šnipiškės,Olimpiečių g.,Lithuania,25.273601,54.697375
+1470,Senamiestis Didžioji g.,950,2,39.78,3/3,Senamiestis,Didžioji g.,Lithuania,21.1334853,55.7105565
+1471,Senamiestis Didžioji g.,2000,3,79.51,2/3,Senamiestis,Didžioji g.,Lithuania,21.1334853,55.7105565
+1472,Senamiestis Didžioji g.,1300,3,53.76,3/3,Senamiestis,Didžioji g.,Lithuania,21.1334853,55.7105565
+1473,Antakalnis Tverečiaus g.,400,1,30.0,2/5,Antakalnis,Tverečiaus g.,Lithuania,25.3189678,54.7164695
+1474,Šeškinė Siesikų g.,500,1,30.0,1/8,Šeškinė,Siesikų g.,Lithuania,25.2540264,54.7068111
+1475,Pilaitė Vydūno g.,450,2,51.0,1/5,Pilaitė,Vydūno g.,Lithuania,25.18829606875669,54.7071226
+1476,Antakalnis Antakalnio g.,500,2,42.16,1/4,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+1477,Pašilaičiai Gabijos g.,850,3,65.0,2/5,Pašilaičiai,Gabijos g.,Lithuania,25.2236397,54.7313146
+1478,Žirmūnai Rinktinės g.,400,1,20.0,5/5,Žirmūnai,Rinktinės g.,Lithuania,25.2876758,54.703055
+1479,Naujamiestis M.K.Čiurlionio g.,2200,5,260.0,5/5,Naujamiestis,M.K.Čiurlionio g.,Lithuania,25.264768,54.680141
+1480,Pašilaičiai Pašilaičių g.,350,1,36.0,1/9,Pašilaičiai,Pašilaičių g.,Lithuania,25.2316746,54.7314012
+1481,Šeškinė Dūkštų g.,480,2,50.0,2/9,Šeškinė,Dūkštų g.,Lithuania,25.2388274,54.7123434
+1482,Fabijoniškės Salomėjos Nėries g.,600,2,52.0,1/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+1483,Senamiestis Gedimino pr.,1250,2,60.0,4/5,Senamiestis,Gedimino pr.,Lithuania,25.2824605,54.6865081
+1484,Naujamiestis Skroblų g.,590,1,30.49,5/7,Naujamiestis,Skroblų g.,Lithuania,25.254835,54.670731
+1485,Šnipiškės Krokuvos g.,700,1,31.0,4/6,Šnipiškės,Krokuvos g.,Lithuania,25.285138,54.6966918
+1486,Senamiestis Pylimo g.,990,3,67.32,1/4,Senamiestis,Pylimo g.,Lithuania,25.283634,54.6752973
+1487,Lazdynai Architektų g.,550,3,60.9,2/4,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+1488,Senamiestis A.Rotundo g.,2800,4,114.0,5/6,Senamiestis,A.Rotundo g.,Lithuania,25.287693,54.683127
+1489,Šnipiškės Olimpiečių g.,1300,3,60.0,4/4,Šnipiškės,Olimpiečių g.,Lithuania,25.273601,54.697375
+1490,Senamiestis Šiltadaržio g.,780,2,42.0,1/1,Senamiestis,Šiltadaržio g.,Lithuania,25.2916215,54.6843316
+1491,Fabijoniškės Salomėjos Nėries g.,500,2,50.65,2/12,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+1492,Senamiestis Dainavos g.,950,2,50.0,4/5,Senamiestis,Dainavos g.,Lithuania,23.3166804,55.9238556
+1493,Lazdynai Architektų g.,400,1,33.08,3/5,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+1494,Karoliniškės Dariaus Gerbutavičiaus g.,500,2,47.0,4/5,Karoliniškės,Dariaus Gerbutavičiaus g.,Lithuania,25.210939,54.693555
+1495,Šnipiškės Daugėliškio g.,1200,3,77.08,2/5,Šnipiškės,Daugėliškio g.,Lithuania,25.2725536,54.7004606
+1496,Šnipiškės Herkaus Manto g.,380,1,18.0,1/3,Šnipiškės,Herkaus Manto g.,Lithuania,25.269068,54.699929
+1497,Šnipiškės Konstitucijos pr.,1700,2,130.0,13/27,Šnipiškės,Konstitucijos pr.,Lithuania,25.2706146,54.6975998
+1498,Karoliniškės Algimanto Petro Kavoliuko g.,650,2,38.0,1/5,Karoliniškės,Algimanto Petro Kavoliuko g.,Lithuania,25.21827851645063,54.6953297
+1499,Verkiai Verkių g.,2000,5,142.0,3/3,Verkiai,Verkių g.,Lithuania,25.3467284,54.7614831
+1500,Šeškinė Šeškinės g.,460,2,51.0,6/16,Šeškinė,Šeškinės g.,Lithuania,25.242989,54.7161316
+1501,Pašilaičiai Pašilaičių g.,550,3,66.0,2/9,Pašilaičiai,Pašilaičių g.,Lithuania,25.2316746,54.7314012
+1502,Senamiestis Sodų g.,2300,4,98.0,3/4,Senamiestis,Sodų g.,Lithuania,23.2457351,54.420003
+1503,Žirmūnai Žirmūnų g.,550,2,58.88,11/12,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1504,Šiaurės miestelis Žygio g.,650,2,55.0,3/9,Šiaurės miestelis,Žygio g.,Lithuania,24.121971,55.106184
+1505,Senamiestis Bernardinų g.,650,2,53.0,3/3,Senamiestis,Bernardinų g.,Lithuania,25.2898263,54.6841157
+1506,Naujamiestis Eglių g.,480,1,36.0,2/5,Naujamiestis,Eglių g.,Lithuania,22.7434842,55.0843441
+1507,Naujamiestis Naugarduko g.,250,1,30.0,1/5,Naujamiestis,Naugarduko g.,Lithuania,25.2753772,54.6767869
+1508,Šiaurės miestelis Apkasų g.,650,2,44.5,3/5,Šiaurės miestelis,Apkasų g.,Lithuania,24.121971,55.106184
+1509,Pilaitė Karaliaučiaus g.,450,1,32.0,2/5,Pilaitė,Karaliaučiaus g.,Lithuania,25.1759723,54.7135023
+1510,Pilaitė Helsinkio g.,700,2,43.0,3/3,Pilaitė,Helsinkio g.,Lithuania,21.867528,55.325639
+1511,Antakalnis Nemenčinės pl.,180,1,36.0,2/2,Antakalnis,Nemenčinės pl.,Lithuania,25.319595220530616,54.724156199999996
+1512,Antakalnis Kanklių g.,500,2,49.0,1/5,Antakalnis,Kanklių g.,Lithuania,25.3219971,54.7053519
+1513,Senamiestis A.Rotundo g.,830,2,55.0,2/5,Senamiestis,A.Rotundo g.,Lithuania,25.287693,54.683127
+1514,Pašilaičiai Virbeliškių g.,890,3,66.43,5/7,Pašilaičiai,Virbeliškių g.,Lithuania,25.2176973,54.7293428
+1515,Senamiestis Maironio g.,700,2,52.0,3/3,Senamiestis,Maironio g.,Lithuania,25.2998145,54.6774003
+1516,Senamiestis Gynėjų g.,500,1,21.0,2/4,Senamiestis,Gynėjų g.,Lithuania,22.250943,55.983929
+1517,Senamiestis M.Daukšos g.,520,2,40.0,1/2,Senamiestis,M.Daukšos g.,Lithuania,25.287693,54.683127
+1518,Visoriai Germanto g.,730,2,65.0,2/2,Visoriai,Germanto g.,Lithuania,25.2574618,54.7484927
+1519,Naujamiestis S.Konarskio g.,400,2,48.0,3/5,Naujamiestis,S.Konarskio g.,Lithuania,25.264768,54.680141
+1520,Antakalnis Vytauto Žalakevičiaus g.,1800,3,100.0,6/7,Antakalnis,Vytauto Žalakevičiaus g.,Lithuania,25.783394,54.98187
+1521,Naujamiestis Savanorių pr.,280,1,21.0,7/9,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+1522,Naujoji Vilnia Pergalės g.,170,1,16.0,2/4,Naujoji Vilnia,Pergalės g.,Lithuania,25.4108643,54.6922225
+1523,Naujininkai Kapsų g.,200,1,19.5,3/5,Naujininkai,Kapsų g.,Lithuania,25.2800463,54.6606221
+1524,Naujoji Vilnia Pramonės g.,250,1,20.0,4/4,Naujoji Vilnia,Pramonės g.,Lithuania,25.440378,54.6952323
+1525,Grigiškės Kunigiškių g.,600,2,52.0,2/5,Grigiškės,Kunigiškių g.,Lithuania,25.0920912,54.6719349
+1526,Šnipiškės Kalvarijų g.,540,2,46.48,5/5,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+1527,Šeškinė Šeškinės g.,460,2,52.0,6/16,Šeškinė,Šeškinės g.,Lithuania,25.242989,54.7161316
+1528,Pilaitė Priegliaus g.,500,1,34.0,3/9,Pilaitė,Priegliaus g.,Lithuania,25.1867437,54.7119404
+1529,Fabijoniškės P.Žadeikos g.,330,1,20.0,9/14,Fabijoniškės,P.Žadeikos g.,Lithuania,25.246433,54.731814
+1530,Bajorai Jono Kairiūkščio g.,700,2,40.0,1/7,Bajorai,Jono Kairiūkščio g.,Lithuania,21.222038,55.871281
+1531,Bajorai Jono Kairiūkščio g.,740,2,47.0,4/7,Bajorai,Jono Kairiūkščio g.,Lithuania,21.222038,55.871281
+1532,Šnipiškės Giedraičių g.,1000,2,51.0,3/9,Šnipiškės,Giedraičių g.,Lithuania,25.278242,54.6973462
+1533,Šnipiškės Linkmenų g.,750,2,48.0,5/6,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+1534,Šnipiškės Kalvarijų g.,420,1,30.0,2/2,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+1535,Baltupiai Didlaukio g.,450,1,32.0,7/9,Baltupiai,Didlaukio g.,Lithuania,25.2784789,54.7275851
+1536,Lazdynėliai Jonažolių g.,650,2,53.27,8/9,Lazdynėliai,Jonažolių g.,Lithuania,25.2148876,54.666674
+1537,Naujamiestis Žemaitės g.,750,2,45.0,9/9,Naujamiestis,Žemaitės g.,Lithuania,25.2588027,54.6703567
+1538,Antakalnis Vytauto Žalakevičiaus g.,780,2,51.0,1/6,Antakalnis,Vytauto Žalakevičiaus g.,Lithuania,25.783394,54.98187
+1539,Šnipiškės Linkmenų g.,1500,3,83.0,5/5,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+1540,Pavilnys Gurių g.,650,2,64.75,3/3,Pavilnys,Gurių g.,Lithuania,25.3391484,54.6628951
+1541,Antakalnis Tverečiaus g.,550,2,43.0,4/5,Antakalnis,Tverečiaus g.,Lithuania,25.3189678,54.7164695
+1542,Naujamiestis Panerių g.,499,1,29.0,1/2,Naujamiestis,Panerių g.,Lithuania,25.2611411,54.6675994
+1543,Pašilaičiai Jurgio Baltrušaičio g.,690,2,56.0,9/9,Pašilaičiai,Jurgio Baltrušaičio g.,Lithuania,25.228239,54.711003
+1544,Viršuliškės Viršilų g.,620,2,59.0,10/23,Viršuliškės,Viršilų g.,Lithuania,25.2171297,54.7013381
+1545,Fabijoniškės Salomėjos Nėries g.,380,1,40.0,4/5,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+1546,Fabijoniškės Fabijoniškių g.,500,2,52.0,3/9,Fabijoniškės,Fabijoniškių g.,Lithuania,25.2374099,54.7315103
+1547,Naujoji Vilnia Pramonės g.,280,1,20.73,5/5,Naujoji Vilnia,Pramonės g.,Lithuania,25.440378,54.6952323
+1548,Justiniškės Taikos g.,400,1,40.0,2/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+1549,Šnipiškės Kalvarijų g.,750,2,69.12,1/3,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+1550,Vilkpėdė Skroblų g.,420,1,24.0,2/5,Vilkpėdė,Skroblų g.,Lithuania,25.256417,54.6702969
+1551,Karoliniškės Loretos Asanavičiūtės g.,350,1,32.82,2/5,Karoliniškės,Loretos Asanavičiūtės g.,Lithuania,25.196673,54.683074
+1552,Naujamiestis Smolensko g.,1900,4,148.0,4/4,Naujamiestis,Smolensko g.,Lithuania,25.2585443,54.6749755
+1553,Antakalnis Antakalnio g.,520,3,65.0,1/4,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+1554,Senamiestis Gedimino pr.,850,2,50.0,2/4,Senamiestis,Gedimino pr.,Lithuania,25.2824605,54.6865081
+1555,Karoliniškės Dariaus Gerbutavičiaus g.,160,1,14.0,3/5,Karoliniškės,Dariaus Gerbutavičiaus g.,Lithuania,25.210939,54.693555
+1556,Baltupiai Jurgio Lebedžio g.,500,1,23.0,3/5,Baltupiai,Jurgio Lebedžio g.,Lithuania,24.121971,55.106184
+1557,Viršuliškės Viršuliškių g.,395,1,32.59,8/9,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+1558,Šnipiškės Olimpiečių g.,1100,2,43.0,4/4,Šnipiškės,Olimpiečių g.,Lithuania,25.273601,54.697375
+1559,Antakalnis Vytauto Žalakevičiaus g.,750,2,52.0,1/5,Antakalnis,Vytauto Žalakevičiaus g.,Lithuania,25.783394,54.98187
+1560,Žvėrynas Latvių g.,1500,3,91.0,2/4,Žvėrynas,Latvių g.,Lithuania,25.2534295,54.6949413
+1561,Antakalnis L.Sapiegos g.,750,2,54.0,5/6,Antakalnis,L.Sapiegos g.,Lithuania,25.312009,54.705407
+1562,Žirmūnai Jurgio Lebedžio g.,590,2,30.17,3/5,Žirmūnai,Jurgio Lebedžio g.,Lithuania,25.228239,54.711003
+1563,Justiniškės Justiniškių g.,600,3,67.0,1/9,Justiniškės,Justiniškių g.,Lithuania,25.2221629,54.7175726
+1564,Pilaitė Simono Grunau g.,750,3,65.0,3/4,Pilaitė,Simono Grunau g.,Lithuania,25.16486,54.710862
+1565,Šnipiškės Lvivo g.,800,2,45.0,6/7,Šnipiškės,Lvivo g.,Lithuania,25.2688417,54.6994753
+1566,Senamiestis Subačiaus g.,1100,2,74.0,2/3,Senamiestis,Subačiaus g.,Lithuania,25.2964286,54.6765474
+1567,Lazdynai Architektų g.,400,1,33.0,5/5,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+1568,Šnipiškės Rinktinės g.,799,2,38.5,4/6,Šnipiškės,Rinktinės g.,Lithuania,25.2876625,54.6964968
+1569,Senamiestis Tilto g.,1100,2,72.0,2/2,Senamiestis,Tilto g.,Lithuania,25.2817712,54.6892593
+1570,Žvėrynas Studentų g.,450,1,18.0,5/5,Žvėrynas,Studentų g.,Lithuania,25.2575185,54.6955659
+1571,Jeruzalė Ateities g.,500,2,50.0,4/6,Jeruzalė,Ateities g.,Lithuania,25.2681728,54.7376318
+1572,Naujamiestis A.Vivulskio g.,350,1,23.69,0/4,Naujamiestis,A.Vivulskio g.,Lithuania,25.264768,54.680141
+1573,Justiniškės Rygos g.,750,1,47.42,1/10,Justiniškės,Rygos g.,Lithuania,25.2219966,54.7167438
+1574,Lazdynėliai Jonažolių g.,790,3,87.77,3/6,Lazdynėliai,Jonažolių g.,Lithuania,25.2148876,54.666674
+1575,Senamiestis Vingrių g.,600,1,30.0,3/4,Senamiestis,Vingrių g.,Lithuania,25.2758803,54.6800552
+1576,Šnipiškės Kalvarijų g.,350,1,33.0,5/9,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+1577,Antakalnis Moliakalnio g.,350,1,40.0,1/2,Antakalnis,Moliakalnio g.,Lithuania,25.3634888,54.7193006
+1578,Užupis Krivūlės g.,1200,3,57.0,3/4,Užupis,Krivūlės g.,Lithuania,25.3040905,54.6778064
+1579,Naujamiestis A.Vivulskio g.,550,1,28.0,1/3,Naujamiestis,A.Vivulskio g.,Lithuania,25.264768,54.680141
+1580,Markučiai Subačiaus g.,250,1,12.0,4/5,Markučiai,Subačiaus g.,Lithuania,25.3110856,54.6762657
+1581,Karoliniškės Dariaus Gerbutavičiaus g.,400,1,33.0,6/9,Karoliniškės,Dariaus Gerbutavičiaus g.,Lithuania,25.210939,54.693555
+1582,Senamiestis Pamėnkalnio g.,1100,2,60.0,4/5,Senamiestis,Pamėnkalnio g.,Lithuania,22.250943,55.983929
+1583,Užupis Polocko g.,3000,4,128.97,2/3,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+1584,Senamiestis Didžioji g.,1800,4,94.0,3/3,Senamiestis,Didžioji g.,Lithuania,21.1334853,55.7105565
+1585,Šnipiškės Linkmenų g.,1200,3,72.0,4/5,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+1586,Žvėrynas Birutės g.,800,2,45.0,1/3,Žvėrynas,Birutės g.,Lithuania,25.2405189,54.6983927
+1587,Naujamiestis Savanorių pr.,300,1,18.0,7/9,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+1588,Pilaitė M.Mažvydo g.,550,1,31.03,4/9,Pilaitė,M.Mažvydo g.,Lithuania,25.182761,54.706948
+1589,Naujamiestis M.K.Čiurlionio g.,750,2,38.0,2/5,Naujamiestis,M.K.Čiurlionio g.,Lithuania,25.264768,54.680141
+1590,Antakalnis Antakalnio g.,1200,3,65.0,2/5,Antakalnis,Antakalnio g.,Lithuania,25.3171585,54.7195619
+1591,Naujininkai Panevėžio g.,400,2,52.0,2/3,Naujininkai,Panevėžio g.,Lithuania,25.2839807,54.663336
+1592,Antakalnis P.Vileišio g.,1200,3,61.0,1/3,Antakalnis,P.Vileišio g.,Lithuania,25.311821157774403,54.71195935
+1593,Šnipiškės Trimitų g.,1800,3,90.0,5/5,Šnipiškės,Trimitų g.,Lithuania,25.2846469,54.7025318
+1594,Užupis Paupio g.,850,3,69.0,1/3,Užupis,Paupio g.,Lithuania,25.2956829,54.6801086
+1595,Pašilaičiai Ukmergės g.,500,2,57.0,2/5,Pašilaičiai,Ukmergės g.,Lithuania,25.2256323,54.7405473
+1596,Užupis Polocko g.,950,2,52.0,1/3,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+1597,Žvėrynas Studentų g.,450,1,17.06,5/5,Žvėrynas,Studentų g.,Lithuania,25.2575185,54.6955659
+1598,Šeškinė Šeškinės g.,530,2,52.0,7/16,Šeškinė,Šeškinės g.,Lithuania,25.242989,54.7161316
+1599,Žvėrynas Treniotos g.,1800,4,77.0,1/2,Žvėrynas,Treniotos g.,Lithuania,25.25119,54.6924339
+1600,Naujamiestis Gerosios Vilties g.,250,1,15.0,2/8,Naujamiestis,Gerosios Vilties g.,Lithuania,25.246189,54.669892
+1601,Baltupiai Ozo g.,830,2,53.0,1/8,Baltupiai,Ozo g.,Lithuania,25.2831395,54.7142794
+1602,Viršuliškės Viršuliškių g.,700,2,46.0,11/11,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+1603,Pašilaičiai Pašilaičių g.,380,1,35.0,1/9,Pašilaičiai,Pašilaičių g.,Lithuania,25.2316746,54.7314012
+1604,Pašilaičiai Eitminų g.,600,3,56.0,5/9,Pašilaičiai,Eitminų g.,Lithuania,25.2206319,54.7411864
+1605,Lazdynėliai Jonažolių g.,1000,3,70.0,3/9,Lazdynėliai,Jonažolių g.,Lithuania,25.2148876,54.666674
+1606,Senamiestis Raugyklos g.,950,2,42.2,3/4,Senamiestis,Raugyklos g.,Lithuania,25.2789843,54.6728266
+1607,Bajorai Fizikų g.,700,2,67.0,5/7,Bajorai,Fizikų g.,Lithuania,24.121971,55.106184
+1608,Pilaitė J.Bobrovskio g.,1200,3,89.0,1/2,Pilaitė,J.Bobrovskio g.,Lithuania,25.182761,54.706948
+1609,Senamiestis Mindaugo g.,1600,4,134.0,3/6,Senamiestis,Mindaugo g.,Lithuania,24.3494462,55.7358126
+1610,Lazdynai Architektų g.,650,2,50.0,6/9,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+1611,Šnipiškės Lvivo g.,1500,4,125.05,2/4,Šnipiškės,Lvivo g.,Lithuania,25.2688417,54.6994753
+1612,Šnipiškės Konstitucijos pr.,600,2,45.0,2/16,Šnipiškės,Konstitucijos pr.,Lithuania,25.2706146,54.6975998
+1613,Senamiestis Pilies g.,1000,3,75.0,2/3,Senamiestis,Pilies g.,Lithuania,25.2891632,54.6820404
+1614,Šeškinė Dūkštų g.,450,2,53.0,1/5,Šeškinė,Dūkštų g.,Lithuania,25.2388274,54.7123434
+1615,Šnipiškės Konstitucijos pr.,1750,3,143.0,19/27,Šnipiškės,Konstitucijos pr.,Lithuania,25.2706146,54.6975998
+1616,Karoliniškės Virginijaus Druskio g.,590,2,47.0,4/5,Karoliniškės,Virginijaus Druskio g.,Lithuania,25.202447,54.685872
+1617,Fabijoniškės Salomėjos Nėries g.,550,2,50.0,6/9,Fabijoniškės,Salomėjos Nėries g.,Lithuania,25.572202,54.870773
+1618,Senamiestis Šv.Mykolo g.,850,2,40.0,1/2,Senamiestis,Šv.Mykolo g.,Lithuania,25.287693,54.683127
+1619,Senamiestis A.Strazdelio g.,900,2,59.0,3/4,Senamiestis,A.Strazdelio g.,Lithuania,25.287693,54.683127
+1620,Naujamiestis Vytenio g.,1200,3,55.0,4/5,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+1621,Antakalnis P.Vileišio g.,1000,2,49.0,3/4,Antakalnis,P.Vileišio g.,Lithuania,25.311821157774403,54.71195935
+1622,Šiaurės miestelis Žygio g.,600,1,39.45,1/6,Šiaurės miestelis,Žygio g.,Lithuania,24.121971,55.106184
+1623,Naujininkai Tyzenhauzų g.,560,2,80.0,1/5,Naujininkai,Tyzenhauzų g.,Lithuania,25.2914168,54.6567702
+1624,Šeškinė Buivydiškių g.,650,2,34.0,4/5,Šeškinė,Buivydiškių g.,Lithuania,25.2400523,54.7105279
+1625,Senamiestis Mindaugo g.,1500,3,111.0,2/7,Senamiestis,Mindaugo g.,Lithuania,24.3494462,55.7358126
+1626,Justiniškės Taikos g.,550,2,49.81,4/5,Justiniškės,Taikos g.,Lithuania,25.2228709,54.7211373
+1627,Paupys Aukštaičių g.,1100,2,40.0,4/4,Paupys,Aukštaičių g.,Lithuania,25.3032805,54.6786994
+1628,Žirmūnai Tuskulėnų g.,400,1,35.0,9/9,Žirmūnai,Tuskulėnų g.,Lithuania,25.2885331,54.703226
+1629,Pašilaičiai Leičių g.,860,3,72.0,8/9,Pašilaičiai,Leičių g.,Lithuania,25.2243428,54.7367895
+1630,Justiniškės Rygos g.,700,2,54.85,2/12,Justiniškės,Rygos g.,Lithuania,25.2219966,54.7167438
+1631,Baltupiai Pranciškaus Smuglevičiaus g.,350,1,20.0,2/2,Baltupiai,Pranciškaus Smuglevičiaus g.,Lithuania,24.121971,55.106184
+1632,Naujamiestis Vytenio g.,599,1,24.0,2/4,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+1633,Fabijoniškės P.Žadeikos g.,499,3,65.0,3/10,Fabijoniškės,P.Žadeikos g.,Lithuania,25.246433,54.731814
+1634,Baltupiai Didlaukio g.,800,3,92.99,3/4,Baltupiai,Didlaukio g.,Lithuania,25.2784789,54.7275851
+1635,Užupis Krivių g.,800,2,69.0,2/4,Užupis,Krivių g.,Lithuania,25.301823076879643,54.68413115
+1636,Senamiestis Vokiečių g.,750,3,50.73,5/5,Senamiestis,Vokiečių g.,Lithuania,25.2840381,54.6789287
+1637,Senamiestis Pelesos g.,450,2,38.0,2/3,Senamiestis,Pelesos g.,Lithuania,25.287693,54.683127
+1638,Šnipiškės Giedraičių g.,700,2,52.0,3/9,Šnipiškės,Giedraičių g.,Lithuania,25.278242,54.6973462
+1639,Užupis Malūnų g.,800,2,40.0,2/3,Užupis,Malūnų g.,Lithuania,25.2937109,54.6817512
+1640,Senamiestis Bernardinų g.,1450,4,110.0,2/3,Senamiestis,Bernardinų g.,Lithuania,25.2898263,54.6841157
+1641,Žirmūnai Verkių g.,1400,3,57.0,8/9,Žirmūnai,Verkių g.,Lithuania,25.2960633,54.7199848
+1642,Senamiestis A.Domaševičiaus g.,1400,3,65.11,3/4,Senamiestis,A.Domaševičiaus g.,Lithuania,25.287693,54.683127
+1643,Naujamiestis Antano Tumėno g.,2000,3,127.0,16/18,Naujamiestis,Antano Tumėno g.,Lithuania,25.262509,54.692089
+1644,Baltupiai Baltupio g.,770,2,42.17,7/9,Baltupiai,Baltupio g.,Lithuania,25.265448944117644,54.73593325
+1645,Žvėrynas Malonioji g.,2000,3,190.0,1/2,Žvėrynas,Malonioji g.,Lithuania,25.2575115,54.6932759
+1646,Naujoji Vilnia Mūrinė g.,400,2,65.0,2/2,Naujoji Vilnia,Mūrinė g.,Lithuania,25.4039566,54.6970782
+1647,Pašilaičiai Ukmergės g.,650,2,63.83,5/8,Pašilaičiai,Ukmergės g.,Lithuania,25.2256323,54.7405473
+1648,Naujamiestis Vytenio g.,315,1,20.0,4/5,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+1649,Lazdynėliai Lietaus g.,530,1,27.22,2/4,Lazdynėliai,Lietaus g.,Lithuania,24.121971,55.106184
+1650,Justiniškės Justiniškių g.,400,1,38.0,5/9,Justiniškės,Justiniškių g.,Lithuania,25.2221629,54.7175726
+1651,Šnipiškės Kintų g.,2550,5,120.0,1/3,Šnipiškės,Kintų g.,Lithuania,25.2771851,54.7025735
+1652,Šnipiškės Piromonto g.,800,2,51.0,2/6,Šnipiškės,Piromonto g.,Lithuania,25.273601,54.697375
+1653,Žirmūnai Žirmūnų g.,350,1,30.0,5/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1654,Naujamiestis M.K.Čiurlionio g.,200,1,18.0,5/5,Naujamiestis,M.K.Čiurlionio g.,Lithuania,25.264768,54.680141
+1655,Naujoji Vilnia Pramonės g.,300,1,19.0,4/4,Naujoji Vilnia,Pramonės g.,Lithuania,25.440378,54.6952323
+1656,Senamiestis S.Skapo g.,1600,3,98.0,3/3,Senamiestis,S.Skapo g.,Lithuania,25.287693,54.683127
+1657,Baltupiai Didlaukio g.,500,2,50.0,4/5,Baltupiai,Didlaukio g.,Lithuania,25.2784789,54.7275851
+1658,Naujamiestis Vytenio g.,690,2,38.52,2/4,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+1659,Naujamiestis T.Ševčenkos g.,550,1,25.0,4/5,Naujamiestis,T.Ševčenkos g.,Lithuania,25.264768,54.680141
+1660,Šiaurės miestelis Kazimiero Ladygos g.,500,2,55.0,7/8,Šiaurės miestelis,Kazimiero Ladygos g.,Lithuania,25.304586,54.71086
+1661,Senamiestis Gedimino pr.,750,2,58.0,5/5,Senamiestis,Gedimino pr.,Lithuania,25.2824605,54.6865081
+1662,Senamiestis Savičiaus g.,900,2,50.0,4/4,Senamiestis,Savičiaus g.,Lithuania,25.2897244,54.6793386
+1663,Santariškės Mykolo Marcinkevičiaus g.,799,3,85.0,2/2,Santariškės,Mykolo Marcinkevičiaus g.,Lithuania,24.121971,55.106184
+1664,Žvėrynas Sėlių g.,600,2,51.0,1/5,Žvėrynas,Sėlių g.,Lithuania,25.2456843,54.6987056
+1665,Paupys Paupio g.,1199,2,55.0,4/4,Paupys,Paupio g.,Lithuania,25.3025487,54.6785287
+1666,Žvėrynas Blindžių g.,1900,3,153.97,4/4,Žvėrynas,Blindžių g.,Lithuania,25.2450966,54.6986295
+1667,Senamiestis Didžioji g.,1400,2,69.25,3/4,Senamiestis,Didžioji g.,Lithuania,21.1334853,55.7105565
+1668,Senamiestis Latako g.,800,2,79.44,1/2,Senamiestis,Latako g.,Lithuania,25.2906785,54.6813864
+1669,Pilaitė Smalinės g.,450,2,52.0,2/5,Pilaitė,Smalinės g.,Lithuania,25.1900062,54.7066494
+1670,Naujamiestis Vytenio g.,800,2,40.0,4/5,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+1671,Naujamiestis Panerių g.,420,1,20.0,2/4,Naujamiestis,Panerių g.,Lithuania,25.2611411,54.6675994
+1672,Žvėrynas Vytauto g.,999,3,57.0,1/2,Žvėrynas,Vytauto g.,Lithuania,25.2561838,54.6929005
+1673,Fabijoniškės S.Stanevičiaus g.,250,1,15.0,1/9,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+1674,Naujamiestis A.Vivulskio g.,350,1,20.0,3/3,Naujamiestis,A.Vivulskio g.,Lithuania,25.264768,54.680141
+1675,Senamiestis Liejyklos g.,900,3,54.45,1/2,Senamiestis,Liejyklos g.,Lithuania,25.2807253,54.6830996
+1676,Antakalnis P.Vileišio g.,600,2,45.0,2/5,Antakalnis,P.Vileišio g.,Lithuania,25.311821157774403,54.71195935
+1677,Užupis Krivių g.,600,2,51.0,3/5,Užupis,Krivių g.,Lithuania,25.301823076879643,54.68413115
+1678,Pilaitė Priegliaus g.,750,2,62.19,2/6,Pilaitė,Priegliaus g.,Lithuania,25.1867437,54.7119404
+1679,Senamiestis Mindaugo g.,1800,3,68.0,3/4,Senamiestis,Mindaugo g.,Lithuania,24.3494462,55.7358126
+1680,Šnipiškės Linkmenų g.,1200,2,49.0,4/9,Šnipiškės,Linkmenų g.,Lithuania,25.2690681,54.6999287
+1681,Verkiai Trinapolio g.,900,2,60.0,4/9,Verkiai,Trinapolio g.,Lithuania,25.293707,54.751299
+1682,Naujamiestis Savanorių pr.,1200,3,81.77,15/18,Naujamiestis,Savanorių pr.,Lithuania,25.2539717,54.6768665
+1683,Senamiestis Palangos g.,800,2,57.93,1/4,Senamiestis,Palangos g.,Lithuania,25.2775091,54.6828493
+1684,Senamiestis Karmelitų g.,1100,3,98.0,3/3,Senamiestis,Karmelitų g.,Lithuania,25.2863997,54.6766411
+1685,Senamiestis Palangos g.,750,2,45.0,5/5,Senamiestis,Palangos g.,Lithuania,25.2775091,54.6828493
+1686,Fabijoniškės P.Žadeikos g.,200,1,12.0,1/9,Fabijoniškės,P.Žadeikos g.,Lithuania,25.246433,54.731814
+1687,Užupis Krivių g.,1500,4,96.0,2/2,Užupis,Krivių g.,Lithuania,25.301823076879643,54.68413115
+1688,Žvėrynas Birutės g.,1400,3,94.0,1/2,Žvėrynas,Birutės g.,Lithuania,25.2405189,54.6983927
+1689,Antakalnis V.Grybo g.,800,2,50.0,1/6,Antakalnis,V.Grybo g.,Lithuania,25.312009,54.705407
+1690,Senamiestis Trakų g.,1000,2,56.0,3/3,Senamiestis,Trakų g.,Lithuania,25.2806889,54.6805537
+1691,Naujamiestis Panerių g.,650,2,56.0,1/3,Naujamiestis,Panerių g.,Lithuania,25.2611411,54.6675994
+1692,Senamiestis Šv.Dvasios g.,900,2,53.0,2/5,Senamiestis,Šv.Dvasios g.,Lithuania,25.287693,54.683127
+1693,Pašilaičiai Žemynos g.,600,3,67.0,9/9,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+1694,Senamiestis Subačiaus g.,4500,5,185.0,4/4,Senamiestis,Subačiaus g.,Lithuania,25.2964286,54.6765474
+1695,Senamiestis Pilies g.,1150,2,41.0,2/3,Senamiestis,Pilies g.,Lithuania,25.2891632,54.6820404
+1696,Senamiestis Bernardinų g.,800,2,75.0,2/2,Senamiestis,Bernardinų g.,Lithuania,25.2898263,54.6841157
+1697,Naujamiestis M.Valančiaus g.,1300,2,55.0,4/5,Naujamiestis,M.Valančiaus g.,Lithuania,25.264768,54.680141
+1698,Užupis Aukštaičių g.,830,1,35.0,2/4,Užupis,Aukštaičių g.,Lithuania,25.2934874,54.67898
+1699,Žvėrynas Sėlių g.,900,2,48.47,1/3,Žvėrynas,Sėlių g.,Lithuania,25.2456843,54.6987056
+1700,Senamiestis Tilto g.,1100,2,74.0,2/2,Senamiestis,Tilto g.,Lithuania,25.2817712,54.6892593
+1701,Naujamiestis Algirdo g.,1200,3,95.69,2/3,Naujamiestis,Algirdo g.,Lithuania,25.2707414,54.6781128
+1702,Antakalnis Nemenčinės pl.,750,2,52.0,4/6,Antakalnis,Nemenčinės pl.,Lithuania,25.319595220530616,54.724156199999996
+1703,Senamiestis Sodų g.,750,1,39.0,1/1,Senamiestis,Sodų g.,Lithuania,23.2457351,54.420003
+1704,Pavilnys Paeglinės Sodų 6-oji g.,500,2,60.0,1/2,Pavilnys,Paeglinės Sodų 6-oji g.,Lithuania,25.354774,54.678549
+1705,Naujoji Vilnia Parko g.,550,3,60.61,3/5,Naujoji Vilnia,Parko g.,Lithuania,25.425328370408153,54.68598085
+1706,Senamiestis A.Jakšto g.,2100,2,80.0,2/5,Senamiestis,A.Jakšto g.,Lithuania,25.287693,54.683127
+1707,Senamiestis Sodų g.,730,1,25.0,2/3,Senamiestis,Sodų g.,Lithuania,23.2457351,54.420003
+1708,Žirmūnai Žirmūnų g.,650,2,66.0,7/12,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1709,Antakalnis Žolyno g.,650,2,45.0,1/5,Antakalnis,Žolyno g.,Lithuania,25.31507,54.7117059
+1710,Senamiestis Mindaugo g.,2100,3,92.0,2/5,Senamiestis,Mindaugo g.,Lithuania,24.3494462,55.7358126
+1711,Senamiestis Pilies g.,1000,2,65.0,2/3,Senamiestis,Pilies g.,Lithuania,25.2891632,54.6820404
+1712,Žvėrynas Latvių g.,1800,3,150.0,3/4,Žvėrynas,Latvių g.,Lithuania,25.2534295,54.6949413
+1713,Žvėrynas Birutės g.,1400,3,96.0,1/2,Žvėrynas,Birutės g.,Lithuania,25.2405189,54.6983927
+1714,Senamiestis Didžioji g.,2000,3,80.25,3/4,Senamiestis,Didžioji g.,Lithuania,21.1334853,55.7105565
+1715,Senamiestis Didžioji g.,800,1,32.9,3/4,Senamiestis,Didžioji g.,Lithuania,21.1334853,55.7105565
+1716,Naujamiestis Kauno g.,650,2,38.0,9/11,Naujamiestis,Kauno g.,Lithuania,25.2626184,54.6705058
+1717,Senamiestis Kaštonų g.,700,2,42.0,4/4,Senamiestis,Kaštonų g.,Lithuania,24.3437507,55.7299974
+1718,Žirmūnai Kalvarijų g.,600,2,49.0,1/9,Žirmūnai,Kalvarijų g.,Lithuania,25.2869142,54.7153427
+1719,Žirmūnai Žirmūnų g.,450,1,33.0,7/9,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1720,Šnipiškės Raitininkų g.,1050,3,70.36,4/6,Šnipiškės,Raitininkų g.,Lithuania,24.11797,54.23549
+1721,Žirmūnai Žirmūnų g.,1800,4,127.74,14/16,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1722,Žvėrynas Pušų g.,460,1,33.0,2/2,Žvėrynas,Pušų g.,Lithuania,25.251407,54.6916327
+1723,Žirmūnai Kareivių g.,700,2,53.5,8/16,Žirmūnai,Kareivių g.,Lithuania,25.300621223729205,54.71858105
+1724,Senamiestis Sodų g.,900,2,50.71,1/3,Senamiestis,Sodų g.,Lithuania,23.2457351,54.420003
+1725,Baltupiai Didlaukio g.,420,1,30.0,2/9,Baltupiai,Didlaukio g.,Lithuania,25.2784789,54.7275851
+1726,Rasos Pelesos g.,380,1,30.0,1/2,Rasos,Pelesos g.,Lithuania,25.2915607,54.67201
+1727,Žvėrynas Siesikų g.,850,2,47.0,4/9,Žvėrynas,Siesikų g.,Lithuania,25.249828,54.695925
+1728,Senamiestis Bokšto g.,1500,3,105.0,1/2,Senamiestis,Bokšto g.,Lithuania,25.2921767,54.6776383
+1729,Pašilaičiai Žemynos g.,700,3,62.0,2/9,Pašilaičiai,Žemynos g.,Lithuania,25.2253933,54.7259967
+1730,Senamiestis Jogailos g.,1100,3,65.0,4/5,Senamiestis,Jogailos g.,Lithuania,25.2778908,54.6850306
+1731,Pilaitė Karaliaučiaus g.,490,1,34.43,4/5,Pilaitė,Karaliaučiaus g.,Lithuania,25.1759723,54.7135023
+1732,Naujamiestis Mindaugo g.,600,1,22.0,1/7,Naujamiestis,Mindaugo g.,Lithuania,25.2738379,54.6770904
+1733,Šnipiškės Giedraičių g.,1300,3,60.0,5/9,Šnipiškės,Giedraičių g.,Lithuania,25.278242,54.6973462
+1734,Pašilaičiai Girulių g.,750,2,62.88,2/9,Pašilaičiai,Girulių g.,Lithuania,25.2164886,54.7385893
+1735,Senamiestis Subačiaus g.,3000,3,76.0,3/3,Senamiestis,Subačiaus g.,Lithuania,25.2964286,54.6765474
+1736,Senamiestis Pilies g.,1000,2,89.0,3/3,Senamiestis,Pilies g.,Lithuania,25.2891632,54.6820404
+1737,Lazdynėliai Lazdynėlių g.,680,2,39.0,2/4,Lazdynėliai,Lazdynėlių g.,Lithuania,25.1927074,54.663469
+1738,Pašilaičiai Pašilaičių g.,750,2,60.0,2/5,Pašilaičiai,Pašilaičių g.,Lithuania,25.2316746,54.7314012
+1739,Fabijoniškės Neries g.,550,2,51.0,6/9,Fabijoniškės,Neries g.,Lithuania,25.246433,54.731814
+1740,Karoliniškės Igno Šimulionio g.,450,2,57.0,6/9,Karoliniškės,Igno Šimulionio g.,Lithuania,25.28206,54.682713
+1741,Senamiestis Pamėnkalnio g.,900,3,68.0,3/4,Senamiestis,Pamėnkalnio g.,Lithuania,22.250943,55.983929
+1742,Naujamiestis Šaltinių g.,800,2,46.54,3/5,Naujamiestis,Šaltinių g.,Lithuania,25.2758412,54.675117
+1743,Naujamiestis Mindaugo g.,1100,2,60.76,2/4,Naujamiestis,Mindaugo g.,Lithuania,25.2738379,54.6770904
+1744,Senamiestis Jogailos g.,2700,4,126.0,4/4,Senamiestis,Jogailos g.,Lithuania,25.2778908,54.6850306
+1745,Pilaitė Įsruties g.,1050,4,94.0,3/9,Pilaitė,Įsruties g.,Lithuania,25.1820966,54.7123036
+1746,Senamiestis L.Stuokos-Gucevičiaus g.,1200,3,80.0,2/3,Senamiestis,L.Stuokos-Gucevičiaus g.,Lithuania,,
+1747,Žvėrynas Kęstučio g.,570,1,30.0,1/2,Žvėrynas,Kęstučio g.,Lithuania,25.25119,54.6924339
+1748,Senamiestis Pylimo g.,750,2,70.0,2/3,Senamiestis,Pylimo g.,Lithuania,25.283634,54.6752973
+1749,Paupys Aukštaičių g.,1200,2,50.0,1/4,Paupys,Aukštaičių g.,Lithuania,25.3032805,54.6786994
+1750,Žvėrynas Studentų g.,480,1,18.0,5/5,Žvėrynas,Studentų g.,Lithuania,25.2575185,54.6955659
+1751,Senamiestis M.K.Čiurlionio g.,1200,3,60.0,4/4,Senamiestis,M.K.Čiurlionio g.,Lithuania,25.287693,54.683127
+1752,Senamiestis Kauno g.,550,1,25.0,3/5,Senamiestis,Kauno g.,Lithuania,23.8888732,54.8996202
+1753,Antakalnis Šilo g.,1400,5,119.32,3/3,Antakalnis,Šilo g.,Lithuania,25.312009,54.705407
+1754,Senamiestis S.Skapo g.,1900,3,150.0,3/4,Senamiestis,S.Skapo g.,Lithuania,25.287693,54.683127
+1755,Senamiestis Bokšto g.,1490,2,100.0,1/3,Senamiestis,Bokšto g.,Lithuania,25.2921767,54.6776383
+1756,Pilaitė Simono Grunau g.,750,2,46.99,1/3,Pilaitė,Simono Grunau g.,Lithuania,25.16486,54.710862
+1757,Senamiestis Aludarių g.,900,2,43.0,4/5,Senamiestis,Aludarių g.,Lithuania,25.26602,54.686825
+1758,Užupis Kreivasis skg.,950,2,44.0,2/3,Užupis,Kreivasis skg.,Lithuania,25.3094597,54.6829015
+1759,Naujamiestis Panerių g.,400,1,25.15,8/8,Naujamiestis,Panerių g.,Lithuania,25.2611411,54.6675994
+1760,Antakalnis Peteliškių g.,650,3,70.0,2/2,Antakalnis,Peteliškių g.,Lithuania,25.69133,55.09549
+1761,Senamiestis Didžioji g.,4000,5,221.0,4/4,Senamiestis,Didžioji g.,Lithuania,21.1334853,55.7105565
+1762,Lazdynėliai Jonažolių g.,600,2,53.0,9/9,Lazdynėliai,Jonažolių g.,Lithuania,25.2148876,54.666674
+1763,Filaretai Filaretų g.,700,2,56.0,2/8,Filaretai,Filaretų g.,Lithuania,25.305906651536606,54.6843502
+1764,Naujamiestis M.K.Čiurlionio g.,2500,4,131.86,2/9,Naujamiestis,M.K.Čiurlionio g.,Lithuania,25.264768,54.680141
+1765,Lazdynėliai Vakaro g.,280,1,18.0,1/2,Lazdynėliai,Vakaro g.,Lithuania,24.121971,55.106184
+1766,Naujamiestis K.Donelaičio g.,1300,3,101.67,5/7,Naujamiestis,K.Donelaičio g.,Lithuania,25.264768,54.680141
+1767,Santariškės Mykolo Marcinkevičiaus g.,800,3,98.0,1/5,Santariškės,Mykolo Marcinkevičiaus g.,Lithuania,24.121971,55.106184
+1768,Užupis Užupio g.,700,2,58.0,1/3,Užupis,Užupio g.,Lithuania,25.2923965,54.6805074
+1769,Senamiestis Pamėnkalnio g.,1300,4,120.0,4/4,Senamiestis,Pamėnkalnio g.,Lithuania,22.250943,55.983929
+1770,Senamiestis Šiaulių g.,2700,4,136.0,4/5,Senamiestis,Šiaulių g.,Lithuania,25.2835375,54.6766768
+1771,Užupis Užupio g.,2500,4,143.0,2/2,Užupis,Užupio g.,Lithuania,25.2923965,54.6805074
+1772,Naujamiestis Vytenio g.,285,1,19.0,4/5,Naujamiestis,Vytenio g.,Lithuania,25.2629171,54.6806792
+1773,Žvėrynas Malonioji g.,1800,3,103.0,1/3,Žvėrynas,Malonioji g.,Lithuania,25.2575115,54.6932759
+1774,Šnipiškės Kalvarijų g.,800,2,50.0,3/3,Šnipiškės,Kalvarijų g.,Lithuania,25.2817254,54.6949273
+1775,Senamiestis Savičiaus g.,560,2,32.55,2/2,Senamiestis,Savičiaus g.,Lithuania,25.2897244,54.6793386
+1776,Naujamiestis A.Vivulskio g.,620,1,32.0,1/3,Naujamiestis,A.Vivulskio g.,Lithuania,25.264768,54.680141
+1777,Šnipiškės Konstitucijos pr.,1700,2,118.86,15/27,Šnipiškės,Konstitucijos pr.,Lithuania,25.2706146,54.6975998
+1778,Lazdynai Jonažolių g.,1200,3,125.0,4/5,Lazdynai,Jonažolių g.,Lithuania,25.2148876,54.666674
+1779,Senamiestis Mortos g.,870,2,53.0,4/7,Senamiestis,Mortos g.,Lithuania,25.287693,54.683127
+1780,Pašilaičiai Pašilaičių g.,550,2,52.0,7/9,Pašilaičiai,Pašilaičių g.,Lithuania,25.2316746,54.7314012
+1781,Senamiestis J.Basanavičiaus g.,750,2,91.0,1/5,Senamiestis,J.Basanavičiaus g.,Lithuania,25.287693,54.683127
+1782,Justiniškės Rygos g.,550,1,28.33,1/10,Justiniškės,Rygos g.,Lithuania,25.2219966,54.7167438
+1783,Šnipiškės Konstitucijos pr.,990,2,82.88,19/27,Šnipiškės,Konstitucijos pr.,Lithuania,25.2706146,54.6975998
+1784,Senamiestis A.Vienuolio g.,750,2,40.0,1/4,Senamiestis,A.Vienuolio g.,Lithuania,25.287693,54.683127
+1785,Šnipiškės Olimpiečių g.,1399,2,58.0,3/5,Šnipiškės,Olimpiečių g.,Lithuania,25.273601,54.697375
+1786,Žirmūnai Žirmūnų g.,480,1,27.0,1/5,Žirmūnai,Žirmūnų g.,Lithuania,25.3050482,54.7157121
+1787,Paneriai V.A.Graičiūno g.,280,1,23.0,2/5,Paneriai,V.A.Graičiūno g.,Lithuania,25.174049,54.629101
+1788,Naujamiestis Gynėjų g.,950,2,65.0,7/9,Naujamiestis,Gynėjų g.,Lithuania,25.26530721591329,54.691336899999996
+1789,Pilaitė Padekaniškių g.,1100,3,74.0,2/3,Pilaitė,Padekaniškių g.,Lithuania,25.182761,54.706948
+1790,Senamiestis V.Mykolaičio-Putino g.,1500,3,102.26,2/5,Senamiestis,V.Mykolaičio-Putino g.,Lithuania,25.287693,54.683127
+1791,Fabijoniškės S.Stanevičiaus g.,690,3,67.0,3/9,Fabijoniškės,S.Stanevičiaus g.,Lithuania,25.246433,54.731814
+1792,Senamiestis Gedimino pr.,1950,4,131.0,4/4,Senamiestis,Gedimino pr.,Lithuania,25.2824605,54.6865081
+1793,Užupis Polocko g.,1350,2,59.04,3/4,Užupis,Polocko g.,Lithuania,25.3008276,54.6812167
+1794,Žvėrynas Latvių g.,1750,3,89.0,1/4,Žvėrynas,Latvių g.,Lithuania,25.2534295,54.6949413
+1795,Senamiestis J.Lelevelio g.,1300,4,150.0,5/5,Senamiestis,J.Lelevelio g.,Lithuania,25.287693,54.683127
+1796,Naujamiestis Skroblų g.,550,1,27.0,5/6,Naujamiestis,Skroblų g.,Lithuania,25.254835,54.670731
+1797,Pašilaičiai Girulių g.,480,1,42.0,4/9,Pašilaičiai,Girulių g.,Lithuania,25.2164886,54.7385893
+1798,Lazdynėliai Bukčių g.,200,1,20.0,1/1,Lazdynėliai,Bukčių g.,Lithuania,25.2158687,54.6671298
+1799,Senamiestis Subačiaus g.,4500,3,90.0,4/4,Senamiestis,Subačiaus g.,Lithuania,25.2964286,54.6765474
+1800,Viršuliškės Viršuliškių g.,650,2,24.0,2/7,Viršuliškės,Viršuliškių g.,Lithuania,25.2249903,54.7072538
+1801,Pilaitė Gilužio g.,890,3,59.0,2/4,Pilaitė,Gilužio g.,Lithuania,25.1793994,54.7019012
+1802,Lazdynai Architektų g.,280,1,15.0,3/5,Lazdynai,Architektų g.,Lithuania,25.2164788,54.6787988
+1803,Senamiestis Aušros Vartų g.,1200,3,80.87,2/3,Senamiestis,Aušros Vartų g.,Lithuania,22.250943,55.983929
+1804,Naujininkai Pelesos g.,1100,4,130.0,1/1,Naujininkai,Pelesos g.,Lithuania,25.2738665,54.6659553
+1805,Burbiškės Eišiškių pl.,1000,2,54.0,1/5,Burbiškės,Eišiškių pl.,Lithuania,25.2709531,54.6518753
+1806,Naujaneriai Krakiškių g.,200,4,68.0,1/1,Naujaneriai,Krakiškių g.,Lithuania,25.3483989,54.8017517
+1807,Senamiestis Aušros Vartų g.,2000,4,96.0,1/3,Senamiestis,Aušros Vartų g.,Lithuania,22.250943,55.983929
+1808,Šnipiškės Daugėliškio g.,850,3,80.0,3/5,Šnipiškės,Daugėliškio g.,Lithuania,25.2725536,54.7004606
+1809,Antakalnis V.Grybo g.,300,2,36.0,3/5,Antakalnis,V.Grybo g.,Lithuania,25.312009,54.705407
+1810,Antakalnis V.Grybo g.,400,2,42.0,2/5,Antakalnis,V.Grybo g.,Lithuania,25.312009,54.705407
