@@ -20,6 +20,9 @@ The initial dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/m
 2. **Filtering by City Boundary:** Applied a bounding box to filter out apartments outside Vilnius city limits.
 3. **Visualization:** Plotted the apartments on a Mapbox image to visually inspect the distribution.
 
+### Vilnius City Bounding Box Coordinates (Longitude & Latitude)
+** North-East Corner: Latitude ~54.75, Longitude ~25.37
+** South-West Corner: Latitude ~54.63, Longitude ~25.20
 
 ![Alt text](https://github.com/PadTo/Rent-Prices-Predictor-Model-ML/blob/main/Photos_for_git/Display_.png)
 
