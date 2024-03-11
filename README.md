@@ -20,6 +20,9 @@ The initial dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/m
 2. **Filtering by City Boundary:** Applied a bounding box to filter out apartments outside Vilnius city limits.
 3. **Visualization:** Plotted the apartments on a Mapbox image to visually inspect the distribution.
 
+
+![Alt text](https://github.com/PadTo/Rent-Prices-Predictor-Model-ML/blob/main/Photos_for_git/Display_.png)
+
 ### Machine Learning
 1. **Model Selection:** Experimented with Linear Regression, SVR (Support Vector Regression), and Random Forest models.
 2. **Feature Engineering and Preprocessing:**
